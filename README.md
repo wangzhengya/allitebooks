@@ -6,3 +6,5 @@
     npm install
 ### 2.运行
     npm start
+### 3.结果
+    得到一个pdf.txt的文本，里面含有下载pdf的链接，复制到迅雷中下载即可

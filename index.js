@@ -6,7 +6,7 @@ var inquirer = require('inquirer');
 
 var booksPage = [];
 var books = [];
-var numOfPages = 0;
+var numOfPages = 1;
 var topic = "";
 var inquirer = require('inquirer');
 inquirer.prompt([{
@@ -38,7 +38,10 @@ function fetchPage(x) {     //封装了一层函数
 
             var $ = cheerio.load(html); //采用cheerio模块解析html
             
-            numOfPages = $('span.extend').next().text().trim();
+            if( $('span.extend').next().text().trim()){
+                numOfPages = $('span.extend').next().text().trim();
+            }
+            
             console.log("总共"+numOfPages+"页");
             
         for(let i =1 ; i<=numOfPages; i++){
@@ -86,7 +89,7 @@ function startRequest(x) {//采用http模块向服务器发起一次get请求
                     if($('i.fa-download').parent()[0]){
                         var bookDOM = $('i.fa-download').parent()[0].attribs.href;
                         console.log(bookDOM);
-                        fs.appendFile('./message.txt', bookDOM+"\n",function(err){
+                        fs.appendFile('./'+topic+'pdf.txt', bookDOM+"\n",function(err){
                             if(err) console.log('写文件操作失败');
                             else console.log('写文件操作成功');
                         });
