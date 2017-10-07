@@ -1,0 +1,66 @@
+http://file.allitebooks.com/20150731/Jasmine Cookbook.pdf
+http://file.allitebooks.com/20170203/Pro Angular, 2nd Edition.pdf
+http://file.allitebooks.com/20150731/JavaScript with Promises.pdf
+http://file.allitebooks.com/20150731/Learning Django Web Development.pdf
+http://file.allitebooks.com/20160830/Material Design implementation with AngularJS.pdf
+http://file.allitebooks.com/20150530/MEAN Web Development.pdf
+http://file.allitebooks.com/20161227/Learning Angular 2.pdf
+http://file.allitebooks.com/20150627/Seven Web Frameworks in Seven Weeks.pdf
+http://file.allitebooks.com/20150913/AngularJS in Action.pdf
+http://file.allitebooks.com/20150530/Learning Single-page Web Application Development.pdf
+http://file.allitebooks.com/20151215/JavaScript in 24 Hours, Sams Teach Yourself, 6th Edition.pdf
+http://file.allitebooks.com/20170726/Essential Angular for ASP.NET Core MVC.pdf
+http://file.allitebooks.com/20150930/AngularJS UI Development.pdf
+http://file.allitebooks.com/20161121/Professional Sitecore 8 Development.pdf
+http://file.allitebooks.com/20151219/Write Web Apps with Dart.pdf
+http://file.allitebooks.com/20170719/ES6 for Humans.pdf
+http://file.allitebooks.com/20151215/AngularJS, JavaScript, and jQuery All in One, Sams Teach Yourself.pdf
+http://file.allitebooks.com/20160110/Getting MEAN with Mongo, Express, Angular, and Node.pdf
+http://file.allitebooks.com/20160903/Microsoft Visual Studio 2015 Unleashed, 3rd Edition.pdf
+http://file.allitebooks.com/20151202/Pro Typescript.pdf
+http://file.allitebooks.com/20170125/JavaScript for .NET Developers.pdf
+http://file.allitebooks.com/20151105/JavaScript Frameworks for Modern Web Dev.pdf
+http://file.allitebooks.com/20160320/Spring MVC Cookbook.pdf
+http://file.allitebooks.com/20150912/Mastering AngularJS Directives.pdf
+http://file.allitebooks.com/20150626/Responsive Web Design with AngularJS.pdf
+http://file.allitebooks.com/20170505/Build Mobile Apps with Ionic 2 and Firebase.pdf
+http://file.allitebooks.com/20150626/AngularJS Novice to Ninja.pdf
+http://file.allitebooks.com/20150627/AngularJS Services.pdf
+http://file.allitebooks.com/20150811/Learning Web Development with Bootstrap and AngularJS.pdf
+http://file.allitebooks.com/20160818/Modern JavaScript Applications.pdf
+http://file.allitebooks.com/20150626/AngularJS Web Application Development Cookbook.pdf
+http://file.allitebooks.com/20150626/AngularJS Test-driven Development.pdf
+http://file.allitebooks.com/20170106/Web Developer's Reference Guide.pdf
+http://file.allitebooks.com/20150626/AngularJS by Example.pdf
+http://file.allitebooks.com/20160314/AngularJS Directives.pdf
+http://file.allitebooks.com/20150811/JavaScript JSON Cookbook.pdf
+http://file.allitebooks.com/20150811/Data Visualization with D3 and AngularJS.pdf
+http://file.allitebooks.com/20150626/AngularJS Up and Running.pdf
+http://file.allitebooks.com/20150626/AngularJS Deployment Essentials.pdf
+http://file.allitebooks.com/20150807/Learning Ionic.pdf
+http://file.allitebooks.com/20170410/PhoneGap and AngularJS for Cross-platform Development.pdf
+http://file.allitebooks.com/20150626/AngularJS Testing Cookbook.pdf
+http://file.allitebooks.com/20160126/CSS Floating.pdf
+http://file.allitebooks.com/20150626/AngularJS Web Application Development Blueprints.pdf
+http://file.allitebooks.com/20150811/Professional AngularJS.pdf
+http://file.allitebooks.com/20150626/Learning AngularJS A Guide to AngularJS Development.pdf
+http://file.allitebooks.com/20150626/AngularJS Essentials.pdf
+http://file.allitebooks.com/20150915/Node.js Blueprints.pdf
+http://file.allitebooks.com/20150626/Dependency Injection with AngularJS.pdf
+http://file.allitebooks.com/20150626/Learning AngularJS Animations.pdf
+http://file.allitebooks.com/20170303/Pro MERN Stack.pdf
+http://file.allitebooks.com/20161204/Pro MEAN Stack Development.pdf
+http://file.allitebooks.com/20150626/Pro AngularJS.pdf
+http://file.allitebooks.com/20161227/Mastering Angular 2 Components.pdf
+http://file.allitebooks.com/20150626/ng-book - The Complete Book on AngularJS.pdf
+http://file.allitebooks.com/20150626/Mastering Web Application Development with AngularJS.pdf
+http://file.allitebooks.com/20170709/Building Web Applications with Visual Studio 2017.pdf
+http://file.allitebooks.com/20151213/AngularJS Directives Cookbook.pdf
+http://file.allitebooks.com/20160324/Data-oriented Development with AngularJS.pdf
+http://file.allitebooks.com/20150626/Learning AngularJS for .NET Developers.pdf
+http://file.allitebooks.com/20160323/Rails, Angular, Postgres, and Bootstrap.pdf
+http://file.allitebooks.com/20160104/Ionic Cookbook.pdf
+http://file.allitebooks.com/20150626/Beginning AngularJS.pdf
+http://file.allitebooks.com/20160401/JBoss Weld CDI for Java Platform.pdf
+http://file.allitebooks.com/20150912/Learning Yeoman.pdf
+http://file.allitebooks.com/20150626/AngularJS.pdf

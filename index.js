@@ -43,10 +43,19 @@ function fetchPage(x) {     //封装了一层函数
             }
             
             console.log("总共"+numOfPages+"页");
-            
-        for(let i =1 ; i<=numOfPages; i++){
-            startRequest("http://www.allitebooks.com/page/"+i+"/?s="+topic); 
-        }
+            if(numOfPages<10){
+                for(let i =1 ; i<=numOfPages; i++){
+                    startRequest("http://www.allitebooks.com/page/"+i+"/?s="+topic); 
+                }
+            }else{
+                for(let i =1 ; i<=numOfPages; i++){
+                    var oneSecond = 10000 * i; // 防止反爬虫，每十秒一页
+                    setInterval(function() {
+                        startRequest("http://www.allitebooks.com/page/"+i+"/?s="+topic); 
+                    }, oneSecond);
+                }
+            }
+        
 
         }).on('error', function (err) {
             console.log(err);
