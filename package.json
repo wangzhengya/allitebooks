@@ -1,0 +1,19 @@
+{
+  "name": "allitebooks",
+  "version": "1.0.0",
+  "description": "爬取All IT eBooks网站上的图书资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "*",
+    "request": "*"
+  },
+  "keywords": [
+    "ebooks"
+  ],
+  "author": "zhengyaing",
+  "license": "ISC"
+}
