@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "cheerio": "*",
-    "request": "*"
+    "request": "*",
+    "inquirer":"*"
   },
   "keywords": [
     "ebooks"
