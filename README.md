@@ -10,6 +10,7 @@
     得到一个以pdf.txt结尾的文本，里面含有下载pdf的链接，复制到迅雷中下载即可
 ### 3.按照分类爬取链接
     node index2.js
+    输入：分类的网址后半部分，如：web-development/javascript
     得到一个以pdf.txt文本，里面含有下载pdf的链接，复制到迅雷中下载即可
 ### 4.爬取所有pdf文件
     node index3.js
