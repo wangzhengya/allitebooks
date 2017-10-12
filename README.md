@@ -15,3 +15,4 @@
 ### 4.爬取所有pdf文件
     node index3.js
     得到一个以pdf.txt文本，里面含有下载pdf的链接，复制到迅雷中下载即可
+![sceenshot](1.PNG).
