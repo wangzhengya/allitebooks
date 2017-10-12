@@ -1,0 +1,17 @@
+http://file.allitebooks.com/20150627/Learning Scala.pdf
+http://file.allitebooks.com/20150627/Effective Akka.pdf
+http://file.allitebooks.com/20150627/Lift Cookbook.pdf
+http://file.allitebooks.com/20150627/Lift Web Applications How-to.pdf
+http://file.allitebooks.com/20150627/Programming Scala.pdf
+http://file.allitebooks.com/20150627/Programming Scala, 2nd Edition.pdf
+http://file.allitebooks.com/20150627/Testing in Scala.pdf
+http://file.allitebooks.com/20150627/Functional Programming Patterns in Scala and Clojure.pdf
+http://file.allitebooks.com/20150627/Scala for Java Developers.pdf
+http://file.allitebooks.com/20150627/Scala in Action.pdf
+http://file.allitebooks.com/20150627/Learning Play! Framework 2.pdf
+http://file.allitebooks.com/20150627/Play for Scala.pdf
+http://file.allitebooks.com/20150627/Scala Cookbook.pdf
+http://file.allitebooks.com/20150627/Beginning Scala.pdf
+http://file.allitebooks.com/20150627/Functional Programming in Scala.pdf
+http://file.allitebooks.com/20150627/Scala in Depth.pdf
+http://file.allitebooks.com/20150627/Lift in Action.pdf

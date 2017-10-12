@@ -1,0 +1,97 @@
+http://file.allitebooks.com/20170212/Installation, Storage and Compute with Windows Server 2016.pdf
+http://file.allitebooks.com/20170109/Windows 8 Apps Revealed Using XAML and C.pdf
+http://file.allitebooks.com/20170630/Building Apps for the Universal Windows Platform.pdf
+http://file.allitebooks.com/20161201/Absolute Beginners Guide to Computing.pdf
+http://file.allitebooks.com/20170304/Mastering Windows Presentation Foundation.pdf
+http://file.allitebooks.com/20161202/Professional Windows 7 Development Guide.pdf
+http://file.allitebooks.com/20161224/Learn Unity for Windows 10 Game Development.pdf
+http://file.allitebooks.com/20170509/Windows Server 2012 R2 Administrator Cookbook.pdf
+http://file.allitebooks.com/20170407/Getting Started with Red Hat Enterprise Virtualization.pdf
+http://file.allitebooks.com/20161130/Windows 8.1 All-in-One For Dummies.pdf
+http://file.allitebooks.com/20160820/Windows 10 For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20160908/MCTS 70-680 Rapid Review.pdf
+http://file.allitebooks.com/20161117/Windows 10 for the Internet of Things.pdf
+http://file.allitebooks.com/20160825/Windows 10 Bible.pdf
+http://file.allitebooks.com/20160928/Windows 10 All-In-One For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20160728/Windows 10.pdf
+http://file.allitebooks.com/20161105/Windows 10 Troubleshooting.pdf
+http://file.allitebooks.com/20161020/Windows 10 For Seniors, 2nd Edition.pdf
+http://file.allitebooks.com/20160817/Windows To Go.pdf
+http://file.allitebooks.com/20160607/Squid Proxy Server 3.1 Beginner-s Guide.pdf
+http://file.allitebooks.com/20160428/How to Do Everything- Windows 8.pdf
+http://file.allitebooks.com/20160114/Real World Windows 10 Development, Second Edition.pdf
+http://file.allitebooks.com/20160510/GNOME 3 Application Development Beginners Guide.pdf
+http://file.allitebooks.com/20160216/Mastering Windows Server 2012 R2.pdf
+http://file.allitebooks.com/20160718/Getting started with Metro Style Apps.pdf
+http://file.allitebooks.com/20160117/The Windows 10 Accessibility Handbook.pdf
+http://file.allitebooks.com/20161227/Windows 10 Inside Out, 2nd Edition.pdf
+http://file.allitebooks.com/20160307/Windows 8.1 Simplified.pdf
+http://file.allitebooks.com/20160726/My Microsoft Windows 7 PC.pdf
+http://file.allitebooks.com/20160307/Windows 8.1 For Dummies.pdf
+http://file.allitebooks.com/20151226/Windows 10 All-in-One For Dummies.pdf
+http://file.allitebooks.com/20151214/Windows 8 Apps Revealed Using Html5 And Javascript.pdf
+http://file.allitebooks.com/20151201/Microsoft Windows 7 Administration Instant Reference.pdf
+http://file.allitebooks.com/20151117/A Concise Windows 8 Guide- For Homes and Corporates.pdf
+http://file.allitebooks.com/20151223/Simply Windows 7.pdf
+http://file.allitebooks.com/20151125/Mastering Active Directory for Windows Server 2008.pdf
+http://file.allitebooks.com/20151226/Teach Yourself VISUALLY Windows 10.pdf
+http://file.allitebooks.com/20151214/Building Windows 8.1 Apps From The Ground Up.pdf
+http://file.allitebooks.com/20151221/Windows 10 Absolute Beginner's Guide.pdf
+http://file.allitebooks.com/20151226/Windows 10 For Seniors For Dummies.pdf
+http://file.allitebooks.com/20150926/Microsoft Azure Development Cookbook Second Edition.pdf
+http://file.allitebooks.com/20151113/Group Policy, 3rd Edition.pdf
+http://file.allitebooks.com/20151113/Getting Started with PowerShell.pdf
+http://file.allitebooks.com/20151105/Pro PowerShell for Database Developers.pdf
+http://file.allitebooks.com/20151116/Getting Started With Citrix Xenapp 7.6.pdf
+http://file.allitebooks.com/20151106/Beginning Windows 10 Do More With Your PC.pdf
+http://file.allitebooks.com/20151011/Supporting Windows 8, 2nd Edition.pdf
+http://file.allitebooks.com/20151015/Windows Phone 8 Game Development.pdf
+http://file.allitebooks.com/20151003/Windows 10 Revealed.pdf
+http://file.allitebooks.com/20150520/Introducing Windows Server 2012 R2.pdf
+http://file.allitebooks.com/20150520/Windows Server 2012 R2 Inside Out Volume 1.pdf
+http://file.allitebooks.com/20150520/Migration from Windows Server 2008 and 2008 R2 to 2012 How-to.pdf
+http://file.allitebooks.com/20150520/Introducing Windows 8.1 for IT Professionals.pdf
+http://file.allitebooks.com/20150709/Windows File System Troubleshooting.pdf
+http://file.allitebooks.com/20150520/Learning Microsoft Windows Server 2012 Dynamic Access Control.pdf
+http://file.allitebooks.com/20150520/Training Guide Administering Windows Server 2012.pdf
+http://file.allitebooks.com/20150830/Windows Registry Troubleshooting.pdf
+http://file.allitebooks.com/20150708/Exam 70-687 Configuring Windows 8 Lab Manual.pdf
+http://file.allitebooks.com/20150708/Hyper-V for VMware Administrators.pdf
+http://file.allitebooks.com/20150926/Getting Started with Windows VDI.pdf
+http://file.allitebooks.com/20150520/Introducing Windows Server 2012 RTM Edition.pdf
+http://file.allitebooks.com/20150520/Windows PowerShell 3.0 Step by Step.pdf
+http://file.allitebooks.com/20150520/Training Guide Configuring Windows 8.pdf
+http://file.allitebooks.com/20150520/Training Guide Installing and Configuring Windows Server 2012.pdf
+http://file.allitebooks.com/20150520/Windows Server 2012 Automation with PowerShell Cookbook.pdf
+http://file.allitebooks.com/20150520/Learn PowerShell Toolmaking in a Month of Lunches.pdf
+http://file.allitebooks.com/20150520/Learn Windows PowerShell 3 in a Month of Lunches, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Windows 8 Tweaks.pdf
+http://file.allitebooks.com/20150520/Troubleshoot and Optimize Windows 8 Inside Out.pdf
+http://file.allitebooks.com/20150520/Windows Server 2012 Inside Out.pdf
+http://file.allitebooks.com/20150520/Windows 7 The Missing Manual.pdf
+http://file.allitebooks.com/20150520/Windows Server 2008 R2 Secrets.pdf
+http://file.allitebooks.com/20150520/Troubleshooting Windows 7 Inside Out.pdf
+http://file.allitebooks.com/20150520/Windows 7 Annoyances.pdf
+http://file.allitebooks.com/20150520/Windows 8 Administration Pocket Consultant.pdf
+http://file.allitebooks.com/20150520/Windows 7 Inside Out, Deluxe Edition.pdf
+http://file.allitebooks.com/20150520/Windows Server 2012 Unified Remote Access Planning and Deployment.pdf
+http://file.allitebooks.com/20150520/Windows Server 2012 Pocket Consultant.pdf
+http://file.allitebooks.com/20150520/Microsoft Windows Home Server Unleashed, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Windows Server 2012 Up and Running.pdf
+http://file.allitebooks.com/20150520/Windows 7 Up and Running.pdf
+http://file.allitebooks.com/20150520/Windows Server 2008 Inside Out.pdf
+http://file.allitebooks.com/20150520/Active Directory Domain Services 2008 How-To.pdf
+http://file.allitebooks.com/20150520/Windows Vista Administration The Definitive Guide.pdf
+http://file.allitebooks.com/20150520/Windows Server 2003 Networking Recipes.pdf
+http://file.allitebooks.com/20150520/Windows 7 Plain - Simple.pdf
+http://file.allitebooks.com/20150520/Microsoft Windows Server 2003 Administrators Companion, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Windows 7 The Definitive Guide.pdf
+http://file.allitebooks.com/20150520/Windows Vista Annoyances.pdf
+http://file.allitebooks.com/20150520/It-s Never Done That Before!.pdf
+http://file.allitebooks.com/20150520/Programming Windows, 5th Edition.pdf
+http://file.allitebooks.com/20150520/Microsoft Windows Scripting Self-Paced Learning Guide.pdf
+http://file.allitebooks.com/20150520/Microsoft Windows XP Professional, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Microsoft Windows XP Networking and Security Inside Out.pdf
+http://file.allitebooks.com/20150520/Windows 2000 Commands Pocket Reference.pdf
+http://file.allitebooks.com/20150520/Microsoft Windows Registry Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Microsoft Windows Scripting with WMI.pdf

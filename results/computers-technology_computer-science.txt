@@ -1,0 +1,201 @@
+http://file.allitebooks.com/20170928/Learning TensorFlow.pdf
+http://file.allitebooks.com/20170811/SQL Server 2012 Integration Services Design Patterns.pdf
+http://file.allitebooks.com/20170302/Essentials of Computer Architecture, 2nd Edition.pdf
+http://file.allitebooks.com/20170321/LEGO MINDSTORMS EV3, 2nd Edition.pdf
+http://file.allitebooks.com/20170819/PHPList 2 E-mail Campaign Manager.pdf
+http://file.allitebooks.com/20170611/Winning Design!, 2nd Edition.pdf
+http://file.allitebooks.com/20170415/Microsoft Dynamics AX 2012 R3 Financial Management.pdf
+http://file.allitebooks.com/20170813/YARN Essentials.pdf
+http://file.allitebooks.com/20170523/iOS Application Development with OpenCV 3.pdf
+http://file.allitebooks.com/20170226/Machine Learning Refined.pdf
+http://file.allitebooks.com/20161005/REST API Design Rulebook.pdf
+http://file.allitebooks.com/20170105/Internet of Things and Big Data Technologies for Next Generation Healthcare.pdf
+http://file.allitebooks.com/20160913/Collective Intelligence in Action.pdf
+http://file.allitebooks.com/20160922/Social Machines.pdf
+http://file.allitebooks.com/20161206/Energy Efficient Smart Phones for 5G Networks.pdf
+http://file.allitebooks.com/20161212/Electronics For Dummies.pdf
+http://file.allitebooks.com/20161023/Requirements Writing for System Engineering.pdf
+http://file.allitebooks.com/20160921/Microinteractions.pdf
+http://file.allitebooks.com/20161216/Beginning Apache Pig.pdf
+http://file.allitebooks.com/20160903/The Vienna LTE-Advanced Simulators.pdf
+http://file.allitebooks.com/20160730/Samsung Gear S2 For Dummies.pdf
+http://file.allitebooks.com/20160802/Winning with Data.pdf
+http://file.allitebooks.com/20160908/PRINCE2 For Dummies.pdf
+http://file.allitebooks.com/20160814/Accessible EPUB 3.pdf
+http://file.allitebooks.com/20160822/Introduction to Scientific Computing and Data Analysis.pdf
+http://file.allitebooks.com/20160805/Understanding Compression.pdf
+http://file.allitebooks.com/20160823/Bitcoin For Dummies.pdf
+http://file.allitebooks.com/20160908/A Practical Introduction to Computer Vision with OpenCV.pdf
+http://file.allitebooks.com/20160824/Machine Learning For Dummies.pdf
+http://file.allitebooks.com/20160520/Tkinter GUI Application Development HOTSHOT.pdf
+http://file.allitebooks.com/20160722/When Google Met WikiLeaks.pdf
+http://file.allitebooks.com/20160507/Microsoft Dynamics GP 2010 Reporting.pdf
+http://file.allitebooks.com/20160503/RStudio for R Statistical Computing Cookbook.pdf
+http://file.allitebooks.com/20160520/OpenX Ad Server Beginner's Guide.pdf
+http://file.allitebooks.com/20160518/Statistics Done Wrong.pdf
+http://file.allitebooks.com/20160609/Rolling Out 5G.pdf
+http://file.allitebooks.com/20160513/Instant MuseScore.pdf
+http://file.allitebooks.com/20160503/Digital Make-Believe.pdf
+http://file.allitebooks.com/20160607/From GSM to LTE-Advanced, 2nd Edition.pdf
+http://file.allitebooks.com/20161011/Teaching with Google Classroom.pdf
+http://file.allitebooks.com/20160421/Instant Audio Processing with Web Audio.pdf
+http://file.allitebooks.com/20160419/The OWL and the Architect.pdf
+http://file.allitebooks.com/20160423/Kubernetes Microservices with Docker.pdf
+http://file.allitebooks.com/20160403/Calm Technology.pdf
+http://file.allitebooks.com/20160416/Designing Machine Learning Systems with Python.pdf
+http://file.allitebooks.com/20160404/Practical Probabilistic Programming.pdf
+http://file.allitebooks.com/20160421/Building Multicopter Video Drones.pdf
+http://file.allitebooks.com/20160419/Make Your Own Mandelbrot.pdf
+http://file.allitebooks.com/20160425/Mastering Social Media Mining with R.pdf
+http://file.allitebooks.com/20160418/Redis Cookbook.pdf
+http://file.allitebooks.com/20160320/Cross-Cultural Computing.pdf
+http://file.allitebooks.com/20160323/Dense Image Correspondences for Computer Vision.pdf
+http://file.allitebooks.com/20160321/Innovative Issues in Intelligent Systems.pdf
+http://file.allitebooks.com/20160330/Building a Recommendation System with R.pdf
+http://file.allitebooks.com/20160316/Mobile Electric Vehicles.pdf
+http://file.allitebooks.com/20160227/Computer Science- An Overview (12th Global Edition).pdf
+http://file.allitebooks.com/20160317/Sentic Computing.pdf
+http://file.allitebooks.com/20160323/Quantitative Evaluation of Systems.pdf
+http://file.allitebooks.com/20160313/Using R for Introductory Statistics, 2nd Edition.pdf
+http://file.allitebooks.com/20160323/Implementation and Application of Automata.pdf
+http://file.allitebooks.com/20151222/Distributed Database Management Systems- A Practical Approach.pdf
+http://file.allitebooks.com/20160126/Datalog and Logic Databases.pdf
+http://file.allitebooks.com/20151222/Digital Audio Editing Fundamentals.pdf
+http://file.allitebooks.com/20151220/Paraconsistent Intelligent-Based Systems.pdf
+http://file.allitebooks.com/20151219/Theoretical Foundations of Artificial General Intelligence.pdf
+http://file.allitebooks.com/20160126/Representing and Reasoning with Qualitative Preferences.pdf
+http://file.allitebooks.com/20160126/Multipath Effects in GPS Receivers- A Primer.pdf
+http://file.allitebooks.com/20160120/Advanced Topics in Computer Vision.pdf
+http://file.allitebooks.com/20160202/User Group Leadership.pdf
+http://file.allitebooks.com/20151224/Reconfigurable and Adaptive Computing.pdf
+http://file.allitebooks.com/20151203/Managing Derivatives Contracts.pdf
+http://file.allitebooks.com/20151204/Multispectral Biometrics.pdf
+http://file.allitebooks.com/20151201/Formalizing Data-Centric Web Services.pdf
+http://file.allitebooks.com/20151219/Machine Learning for Hackers.pdf
+http://file.allitebooks.com/20151204/Foundations of Statistical Algorithms.pdf
+http://file.allitebooks.com/20151209/Modeling, Simulation And Visual Analysis Of Crowds.pdf
+http://file.allitebooks.com/20151209/Design For Experience.pdf
+http://file.allitebooks.com/20151202/Introduction to Biometrics.pdf
+http://file.allitebooks.com/20151204/Distributed Embedded Controller Development with Petri Nets.pdf
+http://file.allitebooks.com/20151202/Computer Vision for X-Ray Testing.pdf
+http://file.allitebooks.com/20151115/Software Exorcism.pdf
+http://file.allitebooks.com/20151201/Riemannian Computing in Computer Vision.pdf
+http://file.allitebooks.com/20151120/Validation of Evolving Software.pdf
+http://file.allitebooks.com/20151201/An Introduction to Machine Learning.pdf
+http://file.allitebooks.com/20151201/Object-Oriented Technology.pdf
+http://file.allitebooks.com/20151121/Robotics- A Project-Based Approach.pdf
+http://file.allitebooks.com/20151201/Machine Learning for Audio, Image and Video Analysis, 2nd edition.pdf
+http://file.allitebooks.com/20151201/Distributed and Sequential Algorithms for Bioinformatics.pdf
+http://file.allitebooks.com/20151120/Designing Socially Embedded Technologies in the Real-World.pdf
+http://file.allitebooks.com/20151119/Practical Enterprise Software Development Techniques.pdf
+http://file.allitebooks.com/20151103/Softimage Towards a New Theory of the Digital Image.pdf
+http://file.allitebooks.com/20151103/Information Theory and Coding by Example.pdf
+http://file.allitebooks.com/20151031/Evolutionary Optimization Algorithms.pdf
+http://file.allitebooks.com/20151105/Processing- A Programming Handbook for Visual Designers and Artists, 2 edition.pdf
+http://file.allitebooks.com/20151029/Net Works Case Studies in Web Art and Design.pdf
+http://file.allitebooks.com/20151101/Object-Oriented Software Engineering.pdf
+http://file.allitebooks.com/20151105/Digital Image Compositing Fundamentals.pdf
+http://file.allitebooks.com/20151028/Emotion-Oriented Systems.pdf
+http://file.allitebooks.com/20151111/Game Theory in Wireless and Communication Networks.pdf
+http://file.allitebooks.com/20151108/Java Programming Fundamentals.pdf
+http://file.allitebooks.com/20151025/Meta-Learning in Decision Tree Induction.pdf
+http://file.allitebooks.com/20151023/Modelling of GPCRs- A Practical Handbook.pdf
+http://file.allitebooks.com/20151023/Agent-Based Modeling and Simulation with Swarm.pdf
+http://file.allitebooks.com/20151026/Scrum and Xp from the Trenches, 2nd Edition.pdf
+http://file.allitebooks.com/20151021/Data Management in Pervasive Systems.pdf
+http://file.allitebooks.com/20151021/Privacy in a Digital, Networked World.pdf
+http://file.allitebooks.com/20151022/Complex-Valued Neural Networks Advances and Applications.pdf
+http://file.allitebooks.com/20151022/Model-Driven and Software Product Line Engineering.pdf
+http://file.allitebooks.com/20151022/Advances in Neural Networks Computational and Theoretical Issues.pdf
+http://file.allitebooks.com/20151022/Innovative Software Development in GIS.pdf
+http://file.allitebooks.com/20151017/ABAP to the Future.pdf
+http://file.allitebooks.com/20151017/ABAP Cookbook.pdf
+http://file.allitebooks.com/20151016/Practical Robot Design- Game Playing Robots.pdf
+http://file.allitebooks.com/20151017/Software Testing- Concepts and Operations.pdf
+http://file.allitebooks.com/20151016/Systematic Program Design- From Clarity to Efficiency.pdf
+http://file.allitebooks.com/20151017/SAP HANA Administration.pdf
+http://file.allitebooks.com/20151017/Efficient Learning Machines.pdf
+http://file.allitebooks.com/20151019/Source SDK Game Development Essentials.pdf
+http://file.allitebooks.com/20151019/Text Genres and Registers The Computation of Linguistic Features.pdf
+http://file.allitebooks.com/20151017/Fundamentals of Convolutional Coding.pdf
+http://file.allitebooks.com/20151010/Visual Cryptography for Image Processing and Security.pdf
+http://file.allitebooks.com/20151012/Parallelism in Matrix Computations.pdf
+http://file.allitebooks.com/20151010/Testing and Validation of Computer Simulation Models.pdf
+http://file.allitebooks.com/20151013/Big Data and The Internet of Things.pdf
+http://file.allitebooks.com/20151010/Digital Games and Mathematics Learning.pdf
+http://file.allitebooks.com/20151015/Innovations in Intelligent Image Analysis.pdf
+http://file.allitebooks.com/20151015/Systems Analysis and Design, 10th edition.pdf
+http://file.allitebooks.com/20151012/Image Encryption- A Communication Perspective.pdf
+http://file.allitebooks.com/20151010/Complexity Management with the K-Method.pdf
+http://file.allitebooks.com/20151012/Bayesian Programming.pdf
+http://file.allitebooks.com/20151003/MAC Protocols for Cyber-Physical Systems.pdf
+http://file.allitebooks.com/20151006/Machine Vision.pdf
+http://file.allitebooks.com/20151010/Learn to Code with Games.pdf
+http://file.allitebooks.com/20151003/Fifty Years of Fuzzy Logic and its Applications (Studies in Fuzziness and Soft Computing).pdf
+http://file.allitebooks.com/20151008/The Evolution Of Language.pdf
+http://file.allitebooks.com/20151007/Railway Infrastructure Security.pdf
+http://file.allitebooks.com/20151010/Natural Computing Algorithms.pdf
+http://file.allitebooks.com/20151010/Empirical Research in Software Engineering.pdf
+http://file.allitebooks.com/20151003/Hybrid Soft Computing Approaches- Research and Applications.pdf
+http://file.allitebooks.com/20151010/Human-Computer Interface Technologies for the Motor Impaired.pdf
+http://file.allitebooks.com/20150928/The Master Algorithm.pdf
+http://file.allitebooks.com/20150928/Group Search Optimization for Applications in Structural Design.pdf
+http://file.allitebooks.com/20151003/Pro Freeware and Open Source Solutions for Business.pdf
+http://file.allitebooks.com/20150929/Managing Software Requirements, 2nd Edition.pdf
+http://file.allitebooks.com/20150926/Ultra Low Bit-Rate Speech Coding.pdf
+http://file.allitebooks.com/20150930/Learning YARN.pdf
+http://file.allitebooks.com/20151003/Exploring Robotics with ROBOTIS Systems.pdf
+http://file.allitebooks.com/20151003/Primer to Analysis of Genomic Data Using R (Use R!).pdf
+http://file.allitebooks.com/20150929/Optimization for Computer Vision.pdf
+http://file.allitebooks.com/20151003/Introduction to Concurrency Theory- Transition Systems and CCS.pdf
+http://file.allitebooks.com/20150925/Intelligent Systems- A Modern Approach.pdf
+http://file.allitebooks.com/20150902/Communication Systems An Introduction to Signals and Noise in Electrical Communication.pdf
+http://file.allitebooks.com/20150902/Scrum Shortcuts without Cutting Corners.pdf
+http://file.allitebooks.com/20150919/Scene Vision- Making Sense of What We See.pdf
+http://file.allitebooks.com/20150925/Making Friends on the Fly- Advances in Ad Hoc Teamwork.pdf
+http://file.allitebooks.com/20150925/Intelligent Systems- Approximation.pdf
+http://file.allitebooks.com/20150911/Oculus Rift in Action.pdf
+http://file.allitebooks.com/20150925/Seeking Chances- From Biased Rationality to Distributed Cognition.pdf
+http://file.allitebooks.com/20150925/Microsoft Dynamics AX Implementation Guide.pdf
+http://file.allitebooks.com/20150923/Make- Getting Started with littleBits.pdf
+http://file.allitebooks.com/20150829/Artificial Intelligence A Modern Approach, 3rd Edition.pdf
+http://file.allitebooks.com/20150830/Designing the Search Experience.pdf
+http://file.allitebooks.com/20150828/Laravel Application Development Cookbook.pdf
+http://file.allitebooks.com/20150821/Model-Based Development- Applications.pdf
+http://file.allitebooks.com/20150822/Linear and Nonlinear Programming, 4 edition.pdf
+http://file.allitebooks.com/20150823/Mapping and Visualization with SuperCollider.pdf
+http://file.allitebooks.com/20150829/The LEGO MINDSTORMS EV3 Idea Book.pdf
+http://file.allitebooks.com/20150829/Essential Algorithms.pdf
+http://file.allitebooks.com/20150819/C++ for Engineers and Scientists, 4th Edition.pdf
+http://file.allitebooks.com/20150814/Bayesian Networks With Examples in R.pdf
+http://file.allitebooks.com/20150731/Decision Theory with Imperfect Information.pdf
+http://file.allitebooks.com/20150724/Explorations in Computing- An Introduction to Computer Science.pdf
+http://file.allitebooks.com/20150722/Perceptual Image Coding with Discrete Cosine Transform.pdf
+http://file.allitebooks.com/20150731/Handbook of Metadata, Semantics and Ontologies.pdf
+http://file.allitebooks.com/20150729/Invitation to Computer Science, 6th edition.pdf
+http://file.allitebooks.com/20150731/Learning Robotics using Python.pdf
+http://file.allitebooks.com/20150807/Intel Galileo Blueprints.pdf
+http://file.allitebooks.com/20150728/Statistics and Data Analysis for Microarrays Using R and Bioconductor (2nd Edition).pdf
+http://file.allitebooks.com/20150725/Concepts of Programming Languages (10th Edition).pdf
+http://file.allitebooks.com/20150814/Discovering Computers 2016.pdf
+http://file.allitebooks.com/20150722/Crowdsourcing- Cloud-Based Software Development.pdf
+http://file.allitebooks.com/20150721/Game User Experience Evaluation.pdf
+http://file.allitebooks.com/20150721/Statistical Computing in C++ and R.pdf
+http://file.allitebooks.com/20150721/Software Engineering Design- Theory and Practice.pdf
+http://file.allitebooks.com/20150721/Correct Software in Web Applications and Web Services.pdf
+http://file.allitebooks.com/20150722/Handbook of Mathematical Methods in Imaging, 2nd edition.pdf
+http://file.allitebooks.com/20150722/Machine Learning Paradigms- Applications in Recommender Systems.pdf
+http://file.allitebooks.com/20150722/Introduction to Evolutionary Computing, 2nd edition.pdf
+http://file.allitebooks.com/20150722/Probabilistic Graphical Models- Principles and Applications.pdf
+http://file.allitebooks.com/20150719/Latest Advances in Inductive Logic Programming.pdf
+http://file.allitebooks.com/20150713/Reporting and Analytics with SAP BusinessObjects.pdf
+http://file.allitebooks.com/20150709/Building Great Software Engineering Teams- Recruiting, Hiring, and Managing Your Team from Startup to Success.pdf
+http://file.allitebooks.com/20150713/Project Management with SAP Project System, 3rd edition.pdf
+http://file.allitebooks.com/20150719/Web Corpus Construction.pdf
+http://file.allitebooks.com/20150711/Authorizations in SAP.pdf
+http://file.allitebooks.com/20150714/Computing- A Historical and Technical Perspective.pdf
+http://file.allitebooks.com/20150707/Variants of Evolutionary Algorithms for Real-World Applications.pdf
+http://file.allitebooks.com/20150711/The Intelligent Web.pdf
+http://file.allitebooks.com/20150709/Surface Computing and Collaborative Analysis Work.pdf
+http://file.allitebooks.com/20150709/Working Together Apart- Collaboration Over the Internet.pdf
+http://file.allitebooks.com/20150425/Data Mining The Textbook.pdf

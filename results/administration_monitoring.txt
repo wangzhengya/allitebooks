@@ -1,0 +1,10 @@
+http://file.allitebooks.com/20150528/Learning Nagios 4.pdf
+http://file.allitebooks.com/20150528/Monitoring with Ganglia.pdf
+http://file.allitebooks.com/20150528/Zabbix 1.8 Network Monitoring.pdf
+http://file.allitebooks.com/20150528/Monitoring with Opsview.pdf
+http://file.allitebooks.com/20150528/Zenoss Core Network and System Monitoring.pdf
+http://file.allitebooks.com/20150528/Munin Plugin Starter.pdf
+http://file.allitebooks.com/20150528/Zabbix Network Monitoring Essentials.pdf
+http://file.allitebooks.com/20150528/Effective Monitoring and Alerting.pdf
+http://file.allitebooks.com/20150528/Nagios Core Administration Cookbook.pdf
+http://file.allitebooks.com/20150528/Zenoss Core 3.x Network and System Monitoring.pdf

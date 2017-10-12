@@ -5,7 +5,12 @@
     git clone https://github.com/wangzhengya/allitebooks.git
     cd allitebooks
     npm install
-### 2.运行
+### 2.搜索关键词
     npm start
-### 3.结果
     得到一个以pdf.txt结尾的文本，里面含有下载pdf的链接，复制到迅雷中下载即可
+### 3.按照分类爬取链接
+    node index2.js
+    得到一个以pdf.txt文本，里面含有下载pdf的链接，复制到迅雷中下载即可
+### 4.爬取所有pdf文件
+    node index3.js
+    得到一个以pdf.txt文本，里面含有下载pdf的链接，复制到迅雷中下载即可

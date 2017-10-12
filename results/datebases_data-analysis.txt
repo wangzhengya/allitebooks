@@ -1,0 +1,53 @@
+http://file.allitebooks.com/20150615/Network Security Through Data Analysis.pdf
+http://file.allitebooks.com/20150615/Google BigQuery Analytics.pdf
+http://file.allitebooks.com/20150615/Making Sense of Data I, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/Learning Informatica PowerCenter 9.x.pdf
+http://file.allitebooks.com/20150615/Mastering Splunk.pdf
+http://file.allitebooks.com/20150615/Learning Data Mining with R.pdf
+http://file.allitebooks.com/20150615/Microsoft Excel 2013 Data Analysis and Business Modeling.pdf
+http://file.allitebooks.com/20150615/Excel Data Analysis For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/R for Data Science.pdf
+http://file.allitebooks.com/20150615/Getting Started with Review Board.pdf
+http://file.allitebooks.com/20170309/Categorical Data Analysis by Example.pdf
+http://file.allitebooks.com/20160317/Big Visual Data Analysis.pdf
+http://file.allitebooks.com/20150911/R in Action, Second Edition.pdf
+http://file.allitebooks.com/20151003/Multilevel Business Processes- Modeling and Data Analysis.pdf
+http://file.allitebooks.com/20150910/Data Analytics.pdf
+http://file.allitebooks.com/20150615/Data Fluency.pdf
+http://file.allitebooks.com/20150615/Real-Time Analytics.pdf
+http://file.allitebooks.com/20160317/Design of Video Quality Metrics with Multi-Way Data Analysis.pdf
+http://file.allitebooks.com/20150829/Data Analysis and Data Mining.pdf
+http://file.allitebooks.com/20150811/R Data Analysis Cookbook.pdf
+http://file.allitebooks.com/20150615/Splunk Operational Intelligence Cookbook.pdf
+http://file.allitebooks.com/20150615/Implementing Splunk.pdf
+http://file.allitebooks.com/20150615/Algorithms from and for Nature and Life.pdf
+http://file.allitebooks.com/20150615/Data Mining Algorithms.pdf
+http://file.allitebooks.com/20150615/Real-Time Big Data Analytics.pdf
+http://file.allitebooks.com/20150615/Graph Analysis and Visualization.pdf
+http://file.allitebooks.com/20150615/Data Analysis with Open Source Tools.pdf
+http://file.allitebooks.com/20150615/Knowledge Needs and Information Extraction.pdf
+http://file.allitebooks.com/20150615/Multi-criteria Decision Analysis.pdf
+http://file.allitebooks.com/20150615/Access Data Analysis Cookbook.pdf
+http://file.allitebooks.com/20150615/Mondrian in Action.pdf
+http://file.allitebooks.com/20161011/Practical Data Analysis, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/Getting Started with Greenplum for Big Data Analytics.pdf
+http://file.allitebooks.com/20150615/Models and Analysis for Distributed Systems.pdf
+http://file.allitebooks.com/20150615/Analyzing the Analyzers.pdf
+http://file.allitebooks.com/20150615/Data Mining For Dummies.pdf
+http://file.allitebooks.com/20150615/A Practical Guide to Data Mining for Business and Industry.pdf
+http://file.allitebooks.com/20150615/Problem Solving and Data Analysis Using Minitab.pdf
+http://file.allitebooks.com/20160326/Python Data Analysis.pdf
+http://file.allitebooks.com/20150615/The Data Warehouse Toolkit, 3rd Edition.pdf
+http://file.allitebooks.com/20150615/Head First Data Analysis.pdf
+http://file.allitebooks.com/20150615/Practical Data Analysis.pdf
+http://file.allitebooks.com/20150615/Pentaho Kettle Solutions.pdf
+http://file.allitebooks.com/20150721/Computational Intelligence for Big Data Analysis.pdf
+http://file.allitebooks.com/20150615/KNIME Essentials.pdf
+http://file.allitebooks.com/20150615/A Manager-s Guide to Data Warehousing.pdf
+http://file.allitebooks.com/20160302/QlikView Scripting.pdf
+http://file.allitebooks.com/20150615/Splunk Essentials.pdf
+http://file.allitebooks.com/20150615/Mastering Scientific Computing with R.pdf
+http://file.allitebooks.com/20150615/Big Data Analytics Using Splunk.pdf
+http://file.allitebooks.com/20150615/Data Science for Business.pdf
+http://file.allitebooks.com/20150615/Data Scientists at Work.pdf
+http://file.allitebooks.com/20150615/Thinking with Data.pdf

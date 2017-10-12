@@ -1,0 +1,79 @@
+http://file.allitebooks.com/20170530/Processing Big Data with Azure HDInsight.pdf
+http://file.allitebooks.com/20150615/Ethics of Big Data.pdf
+http://file.allitebooks.com/20170304/Tabular Modeling with SQL Server 2016 Analysis Services Cookbook.pdf
+http://file.allitebooks.com/20160316/Cloud Networking for Big Data.pdf
+http://file.allitebooks.com/20160913/People Analytics in the Era of Big Data.pdf
+http://file.allitebooks.com/20161121/SQL on Big Data.pdf
+http://file.allitebooks.com/20150615/Getting Started with Impala.pdf
+http://file.allitebooks.com/20150615/Hadoop in Practice.pdf
+http://file.allitebooks.com/20160722/Big Data.pdf
+http://file.allitebooks.com/20150615/Learning SPARQL, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/Securing Hadoop.pdf
+http://file.allitebooks.com/20150615/Hadoop Operations.pdf
+http://file.allitebooks.com/20150615/Fast Data Processing with Spark.pdf
+http://file.allitebooks.com/20150615/Big Data Imperatives.pdf
+http://file.allitebooks.com/20150615/Apache Hadoop YARN.pdf
+http://file.allitebooks.com/20150615/Professional Hadoop Solutions.pdf
+http://file.allitebooks.com/20150615/Disruptive Possibilities.pdf
+http://file.allitebooks.com/20151003/Rule Based Systems for Big Data- A Machine Learning Approach.pdf
+http://file.allitebooks.com/20160124/Big Data Analysis for Bioinformatics and Biomedical Discoveries.pdf
+http://file.allitebooks.com/20150615/Big Data Application Architecture Q-A.pdf
+http://file.allitebooks.com/20150615/Pro Apache Hadoop, 2nd Edition.pdf
+http://file.allitebooks.com/20151221/Big Data Analysis.pdf
+http://file.allitebooks.com/20150615/Big Data, Big Innovation.pdf
+http://file.allitebooks.com/20150615/Time Series Databases.pdf
+http://file.allitebooks.com/20150908/PostgreSQL Server Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/Actionable Intelligence.pdf
+http://file.allitebooks.com/20150615/Apache Accumulo for Developers.pdf
+http://file.allitebooks.com/20151228/Apache Oozie Essentials.pdf
+http://file.allitebooks.com/20150615/Using Flume.pdf
+http://file.allitebooks.com/20160130/Next Generation Databases NoSQL, NewSQL, and Big Data.pdf
+http://file.allitebooks.com/20161230/Pro Hadoop Data Analytics.pdf
+http://file.allitebooks.com/20150615/Hadoop Beginner-s Guide.pdf
+http://file.allitebooks.com/20170302/Handbook of Big Data Technologies.pdf
+http://file.allitebooks.com/20160307/MDX with SSAS 2012 Cookbook.pdf
+http://file.allitebooks.com/20150615/Getting Started with Amazon Redshift.pdf
+http://file.allitebooks.com/20150615/Learning Hadoop 2.pdf
+http://file.allitebooks.com/20150615/Programming Hive.pdf
+http://file.allitebooks.com/20150615/Hadoop MapReduce Cookbook.pdf
+http://file.allitebooks.com/20150615/Big Data Now 2012 Edition.pdf
+http://file.allitebooks.com/20150615/Agile Data Science.pdf
+http://file.allitebooks.com/20150615/Big Data Made Easy.pdf
+http://file.allitebooks.com/20150615/Hadoop The Definitive Guide, 3rd Edition.pdf
+http://file.allitebooks.com/20151003/Big Data in Complex Systems- Challenges and Opportunities.pdf
+http://file.allitebooks.com/20150615/Enterprise Data Workflows with Cascading.pdf
+http://file.allitebooks.com/20150615/Apache Sqoop Cookbook.pdf
+http://file.allitebooks.com/20150615/Big Data Bootcamp.pdf
+http://file.allitebooks.com/20150615/Mastering Hadoop.pdf
+http://file.allitebooks.com/20150615/Hadoop Real-World Solutions Cookbook.pdf
+http://file.allitebooks.com/20150615/Big Data For Dummies.pdf
+http://file.allitebooks.com/20150615/Talend for Big Data.pdf
+http://file.allitebooks.com/20150615/Python for Finance.pdf
+http://file.allitebooks.com/20150908/Couchbase Essentials.pdf
+http://file.allitebooks.com/20160709/Making Big Data Work for Your Business.pdf
+http://file.allitebooks.com/20150615/Pig Design Patterns.pdf
+http://file.allitebooks.com/20160217/Big Data Analytics with Spark.pdf
+http://file.allitebooks.com/20150615/Fast Data Processing with Spark, 2nd Edition.pdf
+http://file.allitebooks.com/20150811/Learning SAP BusinessObjects Dashboards.pdf
+http://file.allitebooks.com/20150615/Data Science from Scratch.pdf
+http://file.allitebooks.com/20150908/Expert T-SQL Window Functions in SQL Server.pdf
+http://file.allitebooks.com/20150615/Learning Storm.pdf
+http://file.allitebooks.com/20150615/Field Guide to Hadoop.pdf
+http://file.allitebooks.com/20150721/Sublinear Algorithms for Big Data Applications.pdf
+http://file.allitebooks.com/20150720/Big Data- A Primer.pdf
+http://file.allitebooks.com/20150615/Data Science For Dummies.pdf
+http://file.allitebooks.com/20150615/Apache Hive Essentials.pdf
+http://file.allitebooks.com/20150615/Scaling Big Data with Hadoop and Solr.pdf
+http://file.allitebooks.com/20150615/Hadoop MapReduce v2 Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/MapReduce Design Patterns.pdf
+http://file.allitebooks.com/20150615/Hadoop The Definitive Guide, 4th Edition.pdf
+http://file.allitebooks.com/20150811/Learning dotNET High performance Programming.pdf
+http://file.allitebooks.com/20150615/Learning SPARQL.pdf
+http://file.allitebooks.com/20150615/Big Data Now.pdf
+http://file.allitebooks.com/20150615/Hadoop The Definitive Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150615/Tika in Action.pdf
+http://file.allitebooks.com/20150615/Programming Pig.pdf
+http://file.allitebooks.com/20150615/HBase The Definitive Guide.pdf
+http://file.allitebooks.com/20150615/Pro Hadoop.pdf
+http://file.allitebooks.com/20150615/Big Data Glossary.pdf
+http://file.allitebooks.com/20150615/Data-Intensive Text Processing with MapReduce.pdf

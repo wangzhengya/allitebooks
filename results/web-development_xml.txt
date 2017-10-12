@@ -1,0 +1,27 @@
+http://file.allitebooks.com/20150617/Beginning XML, 4th Edition.pdf
+http://file.allitebooks.com/20151013/SVG Colors, Patterns & Gradients Painting Vector Graphics.pdf
+http://file.allitebooks.com/20150617/Beginning XSLT 2.0.pdf
+http://file.allitebooks.com/20170312/SVG Essentials, 2nd Edition.pdf
+http://file.allitebooks.com/20150617/XQuery.pdf
+http://file.allitebooks.com/20160426/XSLT Jumpstarter.pdf
+http://file.allitebooks.com/20150617/Beyond Schemas.pdf
+http://file.allitebooks.com/20160304/Designing and Implementing Test Automation Frameworks with QTP.pdf
+http://file.allitebooks.com/20160706/Java XML and JSON.pdf
+http://file.allitebooks.com/20150617/XSLT, 2nd Edition.pdf
+http://file.allitebooks.com/20150713/XML- Visual QuickStart Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150617/Beginning XML, 5th Edition.pdf
+http://file.allitebooks.com/20160701/WiX 3.6.pdf
+http://file.allitebooks.com/20150617/XPath and XPointer.pdf
+http://file.allitebooks.com/20151214/Svg Essentials.pdf
+http://file.allitebooks.com/20151011/Pro .NET 2.0 XML (Expert-s Voice in .NET).pdf
+http://file.allitebooks.com/20150721/XSLT cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20160419/Managing and Customizing OpenCms 6 Websites.pdf
+http://file.allitebooks.com/20150706/Fuzzy XML Data Management.pdf
+http://file.allitebooks.com/20150617/XML 1.1 Bible, 3rd Edition.pdf
+http://file.allitebooks.com/20150617/XML Pocket Reference, 3rd Edition.pdf
+http://file.allitebooks.com/20160102/XQuery, 2nd Edition.pdf
+http://file.allitebooks.com/20150617/Essential XML Quick Reference.pdf
+http://file.allitebooks.com/20170221/C and XML Primer.pdf
+http://file.allitebooks.com/20160514/HLSL and Pixel Shaders for XAML Developers.pdf
+http://file.allitebooks.com/20160307/WiX Cookbook.pdf
+http://file.allitebooks.com/20150617/XML Programming Bible.pdf

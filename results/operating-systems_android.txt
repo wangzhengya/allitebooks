@@ -1,0 +1,131 @@
+http://file.allitebooks.com/20160828/The Android Game Developer's Handbook.pdf
+http://file.allitebooks.com/20160806/Hacking Android.pdf
+http://file.allitebooks.com/20160522/Android Best Practices.pdf
+http://file.allitebooks.com/20160528/Android UI Design.pdf
+http://file.allitebooks.com/20170225/Android Programming, 3rd Edition.pdf
+http://file.allitebooks.com/20160416/Android Application Development Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20160316/Beginning Android, 5th edition.pdf
+http://file.allitebooks.com/20170318/Learning Android Forensics.pdf
+http://file.allitebooks.com/20160908/Expert Android Studio.pdf
+http://file.allitebooks.com/20171010/Cardboard VR Projects for Android.pdf
+http://file.allitebooks.com/20151217/Android 6 Essentials.pdf
+http://file.allitebooks.com/20160103/Android Programming for Beginners.pdf
+http://file.allitebooks.com/20160223/Android Development Patterns.pdf
+http://file.allitebooks.com/20160304/Robotium Automated Testing for Android.pdf
+http://file.allitebooks.com/20151214/Android User Interface Development- Beginner-s Guide.pdf
+http://file.allitebooks.com/20160124/Android 6 for Programmers, 3rd Edition.pdf
+http://file.allitebooks.com/20160130/Android TV Apps Development.pdf
+http://file.allitebooks.com/20151208/Android Programming Tutorials, 3rd Edition.pdf
+http://file.allitebooks.com/20160124/Wearable Android.pdf
+http://file.allitebooks.com/20160314/Android Application Testing Guide.pdf
+http://file.allitebooks.com/20150905/Beginning Android Wearables.pdf
+http://file.allitebooks.com/20150905/Android Recipes, 4th Edition.pdf
+http://file.allitebooks.com/20151026/Android Tablets For Dummies, 3rd Edition.pdf
+http://file.allitebooks.com/20150905/Android Application Development with Maven.pdf
+http://file.allitebooks.com/20151204/Android Studio New Media Fundamentals.pdf
+http://file.allitebooks.com/20151030/Droid 3 For Dummies.pdf
+http://file.allitebooks.com/20151030/Android Phones For Dummies, 3rd Edition.pdf
+http://file.allitebooks.com/20150905/Android Quick APIs Reference.pdf
+http://file.allitebooks.com/20151101/Augmented Reality for Android Application Development.pdf
+http://file.allitebooks.com/20150905/Android Studio Essentials.pdf
+http://file.allitebooks.com/20150905/Professional Android Wearables.pdf
+http://file.allitebooks.com/20150811/Android Application Programming with OpenCV 3.pdf
+http://file.allitebooks.com/20150905/Exploring SE for Android.pdf
+http://file.allitebooks.com/20150712/Android Security- Attacks and Defenses.pdf
+http://file.allitebooks.com/20150811/Android Game Programming by Example.pdf
+http://file.allitebooks.com/20150720/Pro Android 5.pdf
+http://file.allitebooks.com/20150823/Mastering OpenCV Android Application Programming.pdf
+http://file.allitebooks.com/20150725/Learn Android Studio- Build Android Apps Quickly and Effectively.pdf
+http://file.allitebooks.com/20150720/Pro Android Wearables- Building Apps for Smartwatches.pdf
+http://file.allitebooks.com/20150807/Gradle for Android.pdf
+http://file.allitebooks.com/20150708/Developing Android on Android.pdf
+http://file.allitebooks.com/20150520/Learn Java for Android Development, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Hello App Inventor!.pdf
+http://file.allitebooks.com/20150708/Android on x86.pdf
+http://file.allitebooks.com/20150520/Android on x86.pdf
+http://file.allitebooks.com/20150520/Android Application Development for the Intel Platform.pdf
+http://file.allitebooks.com/20150520/Android Apps for Absolute Beginners, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Android Recipes, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Android Fragments.pdf
+http://file.allitebooks.com/20150706/Developing AR Games for iOS and Android.pdf
+http://file.allitebooks.com/20150520/Xamarin Mobile Application Development for Android.pdf
+http://file.allitebooks.com/20150520/Unboxing Android USB.pdf
+http://file.allitebooks.com/20150520/Migrating to Android for iOS Developers.pdf
+http://file.allitebooks.com/20150520/Android Fragmentation Management How-to.pdf
+http://file.allitebooks.com/20150520/Learning Android, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/50 Android Hacks.pdf
+http://file.allitebooks.com/20150520/Android Developer Tools Essentials.pdf
+http://file.allitebooks.com/20150520/Android Application Development Cookbook.pdf
+http://file.allitebooks.com/20150520/Pro Android UI.pdf
+http://file.allitebooks.com/20150520/Android Application Programming with OpenCV.pdf
+http://file.allitebooks.com/20150520/Expert Android.pdf
+http://file.allitebooks.com/20150520/Learn Java for Android Development, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Enterprise Android.pdf
+http://file.allitebooks.com/20150520/Developing Android on Android.pdf
+http://file.allitebooks.com/20150520/Android Native Development Kit Cookbook.pdf
+http://file.allitebooks.com/20150520/Android Studio Application Development.pdf
+http://file.allitebooks.com/20150520/Building Hybrid Android Apps with Java and JavaScript.pdf
+http://file.allitebooks.com/20150520/Learn Android App Development.pdf
+http://file.allitebooks.com/20150520/Introduction to Android Application Development, 4th Edition.pdf
+http://file.allitebooks.com/20150520/OpenGL ES 2 for Android.pdf
+http://file.allitebooks.com/20150520/Android Application Development For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Advanced Android 4 Games.pdf
+http://file.allitebooks.com/20150520/Spring for Android Starter.pdf
+http://file.allitebooks.com/20150520/Android Apps for Absolute Beginners, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Pro Android Graphics.pdf
+http://file.allitebooks.com/20150520/Android Apps with Eclipse.pdf
+http://file.allitebooks.com/20150520/The Android Developer-s Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Android 4 New Features for Application Development.pdf
+http://file.allitebooks.com/20150520/Professional NFC Application Development for Android.pdf
+http://file.allitebooks.com/20150520/Android Apps Security.pdf
+http://file.allitebooks.com/20150520/Learning Android Application Programming for the Kindle Fire.pdf
+http://file.allitebooks.com/20150520/Android NDK.pdf
+http://file.allitebooks.com/20150520/Learn HTML5 and JavaScript for Android.pdf
+http://file.allitebooks.com/20150520/Decompiling Android.pdf
+http://file.allitebooks.com/20150520/Head First Android Development.pdf
+http://file.allitebooks.com/20150520/Beginning Android Web Apps Development.pdf
+http://file.allitebooks.com/20150520/Beginning Android 4 Application Development.pdf
+http://file.allitebooks.com/20150520/Pro Android 4.pdf
+http://file.allitebooks.com/20150520/Android Wireless Application Development, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Professional Android Sensor Programming.pdf
+http://file.allitebooks.com/20150520/Pro OpenGL ES for Android.pdf
+http://file.allitebooks.com/20150520/Android Apps for Absolute Beginners.pdf
+http://file.allitebooks.com/20150520/Android in Action, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Pro Android Augmented Reality.pdf
+http://file.allitebooks.com/20150520/Programming Android, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Pro Android Apps Performance Optimization.pdf
+http://file.allitebooks.com/20150520/Professional Android 4 Application Development.pdf
+http://file.allitebooks.com/20150520/Pro Android C++ with the NDK.pdf
+http://file.allitebooks.com/20150520/Android Cookbook.pdf
+http://file.allitebooks.com/20150520/Android Recipes, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Beginning Android 3.pdf
+http://file.allitebooks.com/20150520/App Inventor.pdf
+http://file.allitebooks.com/20150520/Beginning Android Tablet Programming.pdf
+http://file.allitebooks.com/20150520/Android Wireless Application Development, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Android Recipes.pdf
+http://file.allitebooks.com/20150520/Beginning Android Tablet Application Development.pdf
+http://file.allitebooks.com/20150520/Application Security for the Android Platform.pdf
+http://file.allitebooks.com/20150520/Beginning Android 4.pdf
+http://file.allitebooks.com/20150520/Beginning Android Application Development.pdf
+http://file.allitebooks.com/20150520/Beginning Android 4 Games Development.pdf
+http://file.allitebooks.com/20150520/Practical Android 4 Games Development.pdf
+http://file.allitebooks.com/20150520/Pro Android Flash.pdf
+http://file.allitebooks.com/20150520/Practical Android Projects.pdf
+http://file.allitebooks.com/20150520/Pro Android Python with SL4A.pdf
+http://file.allitebooks.com/20150520/Flash Development for Android Cookbook.pdf
+http://file.allitebooks.com/20150520/Developing Android Applications with Flex 4.5.pdf
+http://file.allitebooks.com/20150520/Pro Android 3.pdf
+http://file.allitebooks.com/20150520/Learning Android.pdf
+http://file.allitebooks.com/20150520/Developing Android Applications with Adobe AIR.pdf
+http://file.allitebooks.com/20150520/Droid 2 The Missing Manual.pdf
+http://file.allitebooks.com/20150520/Professional Android 2 Application Development.pdf
+http://file.allitebooks.com/20150520/Pro Android Media.pdf
+http://file.allitebooks.com/20150520/Sams Teach Yourself Samsung Galaxy Tab in 10 Minutes.pdf
+http://file.allitebooks.com/20150520/Sams Teach Yourself Android Application Development in 24 Hours, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Pro Android Web Apps.pdf
+http://file.allitebooks.com/20150520/Building Android Apps with HTML, CSS, and JavaScript.pdf
+http://file.allitebooks.com/20150520/Android for Work.pdf
+http://file.allitebooks.com/20150520/The Business of Android Apps Development.pdf
+http://file.allitebooks.com/20150520/Hello, Android, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Programming Android.pdf
+http://file.allitebooks.com/20150520/Android Essentials.pdf

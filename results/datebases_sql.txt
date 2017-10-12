@@ -1,0 +1,134 @@
+http://file.allitebooks.com/20161108/The Language of SQL, 2nd Edition.pdf
+http://file.allitebooks.com/20170814/Microsoft SQL Server 2012 Performance Tuning Cookbook.pdf
+http://file.allitebooks.com/20170620/Microsoft SQL Server 2012 Administration.pdf
+http://file.allitebooks.com/20161123/Learning SQLite for iOS.pdf
+http://file.allitebooks.com/20161113/Pro SQL Server Always on Availability Groups.pdf
+http://file.allitebooks.com/20170519/Building a Data Warehouse.pdf
+http://file.allitebooks.com/20170122/Professional Microsoft SQL Server 2016 Reporting Services and Mobile Reports.pdf
+http://file.allitebooks.com/20160930/Pro SQL Server 2005 Service Broker.pdf
+http://file.allitebooks.com/20170113/SQL Server AlwaysOn Revealed, 2nd Edition.pdf
+http://file.allitebooks.com/20161202/Learning SQL Server 2008 Reporting Services.pdf
+http://file.allitebooks.com/20160728/Microsoft Tabular Modeling Cookbook.pdf
+http://file.allitebooks.com/20160510/Microsoft SQL Server 2008 R2 Master Data Services.pdf
+http://file.allitebooks.com/20160818/Beginning SQL Queries.pdf
+http://file.allitebooks.com/20160826/Pro SQL Server on Microsoft Azure.pdf
+http://file.allitebooks.com/20160922/Microsoft SQL Server 2012 High Performance T-SQL Using Window Functions.pdf
+http://file.allitebooks.com/20160913/SQL Server 2008 Administration in Action.pdf
+http://file.allitebooks.com/20160716/Microsft Reporting Services in Action.pdf
+http://file.allitebooks.com/20160623/Inside the SQL Server Query Optimizer.pdf
+http://file.allitebooks.com/20160710/iBATIS in Action.pdf
+http://file.allitebooks.com/20160217/Expert Cube Development with Microsoft SQL Server 2008 Analysis Services.pdf
+http://file.allitebooks.com/20160423/Practical Maintenance Plans in SQL Server.pdf
+http://file.allitebooks.com/20160502/Dynamic SQL.pdf
+http://file.allitebooks.com/20160301/Murach's Oracle SQL and PLSQL for Developers, 2nd Edition.pdf
+http://file.allitebooks.com/20160315/Beginning SQL Queries- From Novice to Professional.pdf
+http://file.allitebooks.com/20160314/Android SQLite Essentials.pdf
+http://file.allitebooks.com/20160505/MDX with Microsoft SQL Server 2008 R2 Analysis Services Cookbook.pdf
+http://file.allitebooks.com/20160218/Getting Started with SQL.pdf
+http://file.allitebooks.com/20160123/Expert SQL Server 2008 Encryption.pdf
+http://file.allitebooks.com/20160219/Microsoft SQL Server 2012 Integration Services An Expert Cookbook.pdf
+http://file.allitebooks.com/20151205/Foundations of SQL Server 2008 R2 Business Intelligence.pdf
+http://file.allitebooks.com/20151216/Essential SQLAlchemy, 2nd Edition.pdf
+http://file.allitebooks.com/20151211/Mastering SQL Server 2008.pdf
+http://file.allitebooks.com/20151219/Data Analysis Using SQL and Excel, 2nd Edition.pdf
+http://file.allitebooks.com/20151224/SQL in 24 Hours, Sams Teach Yourself, 6th Edition.pdf
+http://file.allitebooks.com/20151211/Microsoft SQL Server 2012 Reporting Services, 4th Edition.pdf
+http://file.allitebooks.com/20151212/Learning PostgreSQL.pdf
+http://file.allitebooks.com/20151222/SQL Server AlwaysOn Revealed.pdf
+http://file.allitebooks.com/20151213/SQL For Dummies, 8th Edition.pdf
+http://file.allitebooks.com/20151214/Oracle SQL Developer Data Modeler for Database Design Mastery.pdf
+http://file.allitebooks.com/20160323/Microsoft SQL Server 2008 For Dummies.pdf
+http://file.allitebooks.com/20151003/Pro SQL Server Wait Statistics.pdf
+http://file.allitebooks.com/20151013/Learning Cloudera Impala.pdf
+http://file.allitebooks.com/20151111/SQL and Relational Theory, 3rd Edition.pdf
+http://file.allitebooks.com/20151201/Introducing SQL Server.pdf
+http://file.allitebooks.com/20150930/Mastering MariaDB.pdf
+http://file.allitebooks.com/20151101/The Art of SQL.pdf
+http://file.allitebooks.com/20151031/Using SQLite.pdf
+http://file.allitebooks.com/20151127/Reporting with Visual Studio and Crystal Reports.pdf
+http://file.allitebooks.com/20151201/SQL Server T-SQL Recipes, 4th Edition.pdf
+http://file.allitebooks.com/20151201/Expert Performance Indexing in SQL Server, 2nd Edition.pdf
+http://file.allitebooks.com/20150908/Pro T-SQL Programmer-s Guide.pdf
+http://file.allitebooks.com/20150921/Learning ArcGIS Geodatabases.pdf
+http://file.allitebooks.com/20150829/SQL Server 2008 Administration in Action.pdf
+http://file.allitebooks.com/20150807/PostGIS Essentials.pdf
+http://file.allitebooks.com/20150728/Expert Cube Development with SSAS Multidimensional Models.pdf
+http://file.allitebooks.com/20150715/Getting Started with Spiceworks.pdf
+http://file.allitebooks.com/20150917/Oracle_PLslashSQL_Language_Pocket_Reference_Fifth_Edition.pdf
+http://file.allitebooks.com/20150930/MariaDB High Performance.pdf
+http://file.allitebooks.com/20150924/Business Intelligence with SQL Server Reporting Services.pdf
+http://file.allitebooks.com/20150731/Learning NumPy Array.pdf
+http://file.allitebooks.com/20150516/Professional Microsoft SQL Server 2014 Integration Services.pdf
+http://file.allitebooks.com/20150516/Mastering SQL Server 2014 Data Mining.pdf
+http://file.allitebooks.com/20150516/Learn SQL Server Administration in a Month of Lunches.pdf
+http://file.allitebooks.com/20150516/Beginning T-SQL, 3rd Edition.pdf
+http://file.allitebooks.com/20150516/Getting Started with SQL Server 2014 Administration.pdf
+http://file.allitebooks.com/20150710/SQL Server Analysis Services 2012 Cube Development Cookbook.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2014 Business Intelligence Development.pdf
+http://file.allitebooks.com/20150516/Introducing Microsoft SQL Server 2014.pdf
+http://file.allitebooks.com/20150516/Beginning SQL Server for Developers, 4th Edition.pdf
+http://file.allitebooks.com/20150516/Pro SQL Server Internals.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 Step by Step.pdf
+http://file.allitebooks.com/20150516/SQL Server 2014 Development Essentials.pdf
+http://file.allitebooks.com/20150516/Reporting with Microsoft SQL Server 2012.pdf
+http://file.allitebooks.com/20150516/Beginning Microsoft SQL Server 2012 Programming.pdf
+http://file.allitebooks.com/20150516/Beginning SQL Server 2012 for Developers, 3rd Edition.pdf
+http://file.allitebooks.com/20150516/Learning SQL Server Reporting Services 2012.pdf
+http://file.allitebooks.com/20150516/SQL Server Integration Services Design Patterns, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 with Hadoop.pdf
+http://file.allitebooks.com/20150516/SQL Server Query Performance Tuning, 4th Edition.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 Internals.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 Pocket Consultant.pdf
+http://file.allitebooks.com/20150516/Beginning T-SQL 2012, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 High-Performance T-SQL Using Window Functions.pdf
+http://file.allitebooks.com/20150516/Introducing Microsoft SQL Server 2012.pdf
+http://file.allitebooks.com/20150516/Expert Performance Indexing for SQL Server 2012.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 Security Cookbook.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 Bible.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 Integration Services.pdf
+http://file.allitebooks.com/20150516/Knight-s Microsoft SQL Server 2012 Integration Services 24-Hour Trainer.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 Analysis Services.pdf
+http://file.allitebooks.com/20150516/Pro SQL Server 2012 Reporting Services, 3rd Edition.pdf
+http://file.allitebooks.com/20150516/Pro SQL Server 2012 Integration Services.pdf
+http://file.allitebooks.com/20150516/Pro T-SQL 2012 Programmer-s Guide, 3rd Edition.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2012 T-SQL Fundamentals.pdf
+http://file.allitebooks.com/20150516/Pro Spatial with SQL Server 2012.pdf
+http://file.allitebooks.com/20150516/Pro SQL Server 2012 Relational Database Design and Implementation.pdf
+http://file.allitebooks.com/20150516/Pro SQL Server 2012 Practices.pdf
+http://file.allitebooks.com/20150516/Pro SQL Database for Windows Azure, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Pro SQL Server 2012 Administration, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Pro SQL Server 2012 BI Solutions.pdf
+http://file.allitebooks.com/20150516/SQL Server 2012 Query Performance Tuning, 3rd Edition.pdf
+http://file.allitebooks.com/20150516/Professional Microsoft SQL Server 2012 Reporting Services.pdf
+http://file.allitebooks.com/20150516/Professional SQL Server 2012 Internals and Troubleshooting.pdf
+http://file.allitebooks.com/20150516/Programming Microsoft SQL Server 2012.pdf
+http://file.allitebooks.com/20150516/SQL Server 2012 with PowerShell V3 Cookbook.pdf
+http://file.allitebooks.com/20150516/SQL Server 2012 T-SQL Recipes, 3rd Edition.pdf
+http://file.allitebooks.com/20150516/Professional Microsoft SQL Server 2012 Integration Services.pdf
+http://file.allitebooks.com/20150516/SQL Server 2012 Data Integration Recipes.pdf
+http://file.allitebooks.com/20150516/Professional Microsoft SQL Server 2012 Administration.pdf
+http://file.allitebooks.com/20150516/What-s New in SQL Server 2012.pdf
+http://file.allitebooks.com/20150516/Expert SQL Server 2008 Development.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server Reporting Services Recipes.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2008 High Availability.pdf
+http://file.allitebooks.com/20150516/Pro SQL Server 2008 Policy-Based Management.pdf
+http://file.allitebooks.com/20150516/Professional SQL Server 2008 Internals and Troubleshooting.pdf
+http://file.allitebooks.com/20150516/Beginning SQL Server Modeling.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2008 R2 Administration Cookbook.pdf
+http://file.allitebooks.com/20150516/Pro SQL Server 2008 Analysis Services.pdf
+http://file.allitebooks.com/20150516/SQL Server DMVs in Action.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2008 R2 Unleashed.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2008 Management and Administration.pdf
+http://file.allitebooks.com/20150516/Beginning T-SQL with Microsoft SQL Server 2005 and 2008.pdf
+http://file.allitebooks.com/20150516/Professional SQL Server 2005 Performance Tuning.pdf
+http://file.allitebooks.com/20150516/Microsoft SQL Server 2008 Administration with Windows PowerShell.pdf
+http://file.allitebooks.com/20150516/Pro Full-Text Search in SQL Server 2008.pdf
+http://file.allitebooks.com/20150516/A Developer-s Guide to Data Modeling for SQL Server.pdf
+http://file.allitebooks.com/20150516/Beginning Microsoft SQL Server 2008 Administration.pdf
+http://file.allitebooks.com/20150516/Professional Microsoft SQL Server 2008 Programming.pdf
+http://file.allitebooks.com/20150516/SQL Server 2008 Transact-SQL Recipes.pdf
+http://file.allitebooks.com/20150516/Professional SQL Server Reporting Services.pdf
+http://file.allitebooks.com/20150516/Beginning Microsoft SQL Server 2008 Programming.pdf
+http://file.allitebooks.com/20150516/SQL Server 2005 Management and Administration.pdf
+http://file.allitebooks.com/20150516/Beginning SQL Server 2005 Programming.pdf
+http://file.allitebooks.com/20150422/PowerShell for SQL Server Essentials.pdf

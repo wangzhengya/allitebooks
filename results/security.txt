@@ -1,0 +1,158 @@
+http://file.allitebooks.com/20171007/Spring Security Essentials.pdf
+http://file.allitebooks.com/20170617/VMware vCloud Security.pdf
+http://file.allitebooks.com/20170523/CISSP in 21 Days, Second Edition.pdf
+http://file.allitebooks.com/20170829/Mastering Bitcoin, 2nd Edition.pdf
+http://file.allitebooks.com/20170518/Hacking For Dummies, 3rd Edition.pdf
+http://file.allitebooks.com/20170708/Digital Privacy and Security Using Windows.pdf
+http://file.allitebooks.com/20170428/Practical Digital Forensics.pdf
+http://file.allitebooks.com/20170426/Mastering Mobile Forensics.pdf
+http://file.allitebooks.com/20170407/BeagleBone for Secret Agents.pdf
+http://file.allitebooks.com/20170513/Practical Internet of Things Security.pdf
+http://file.allitebooks.com/20160919/CISSP All-in-One Exam Guide, 7th Edition.pdf
+http://file.allitebooks.com/20161108/Testing and Securing Android Studio Applications.pdf
+http://file.allitebooks.com/20170105/Hardware IP Security and Trust.pdf
+http://file.allitebooks.com/20161005/SSCP Systems Security Certified Practitioner All-in-One Exam Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20160827/Cryptography and Network Security, 6th Edition.pdf
+http://file.allitebooks.com/20161108/From Hacking to Report Writing.pdf
+http://file.allitebooks.com/20161202/Computer Forensics with FTK.pdf
+http://file.allitebooks.com/20160911/Cybersecurity for Hospitals and Healthcare Facilities.pdf
+http://file.allitebooks.com/20160902/Managing Risk and Information Security.pdf
+http://file.allitebooks.com/20170114/Personal Cybersecurity.pdf
+http://file.allitebooks.com/20160522/Information Security, 2nd Edition.pdf
+http://file.allitebooks.com/20160715/Inside Cyber Warfare, 2nd Edition.pdf
+http://file.allitebooks.com/20160724/SSCP (ISC)2 Systems Security Certified Practitioner Official Study Guide.pdf
+http://file.allitebooks.com/20160528/Security and Privacy in Internet of Things (IoTs).pdf
+http://file.allitebooks.com/20160817/iOS Application Security.pdf
+http://file.allitebooks.com/20160508/Kali Linux CTF Blueprints.pdf
+http://file.allitebooks.com/20160607/Network Forensics.pdf
+http://file.allitebooks.com/20160509/Intermediate Security Testing with Kali Linux 2.pdf
+http://file.allitebooks.com/20160805/Building a Comprehensive IT Security Program.pdf
+http://file.allitebooks.com/20160614/Learning Network Forensics.pdf
+http://file.allitebooks.com/20160323/IBM WebSphere Application Server v7.0 Security.pdf
+http://file.allitebooks.com/20160319/Bitcoin Essentials.pdf
+http://file.allitebooks.com/20160319/Hacking For Dummies, 5th Edition.pdf
+http://file.allitebooks.com/20160501/The Architecture of Privacy.pdf
+http://file.allitebooks.com/20160103/Mastering Python Forensics.pdf
+http://file.allitebooks.com/20160126/Database Anonymization.pdf
+http://file.allitebooks.com/20160213/Learning Metasploit Exploitation and Development.pdf
+http://file.allitebooks.com/20160426/Big Data Forensics - Learning Hadoop Investigations.pdf
+http://file.allitebooks.com/20160227/Hacking Vim 7.2.pdf
+http://file.allitebooks.com/20151224/Immune Web.pdf
+http://file.allitebooks.com/20151202/Security and Privacy for Mobile Healthcare Networks.pdf
+http://file.allitebooks.com/20151214/Essential Cybersecurity Science.pdf
+http://file.allitebooks.com/20151124/Spring Security 3.pdf
+http://file.allitebooks.com/20151222/Instant Penetration Testing.pdf
+http://file.allitebooks.com/20160101/Metasploit Penetration Testing Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20151218/Security and the Networked Society.pdf
+http://file.allitebooks.com/20160101/Handbook of Communications Security.pdf
+http://file.allitebooks.com/20160101/Network Security Assessment, 3rd edition.pdf
+http://file.allitebooks.com/20160314/BeagleBone for Secret Agents.pdf
+http://file.allitebooks.com/20151124/GlassFish Security.pdf
+http://file.allitebooks.com/20151025/Instant Kali Linux.pdf
+http://file.allitebooks.com/20150922/The Hacker Playbook 2- Practical Guide To Penetration Testing.pdf
+http://file.allitebooks.com/20151105/Hacking Basic Security, Penetration Testing and How to Hack.pdf
+http://file.allitebooks.com/20151023/Official (ISC)2 Guide to the CSSLP CBK, Second Edition.pdf
+http://file.allitebooks.com/20151011/Cyber Security- Analytics, Technology and Automation.pdf
+http://file.allitebooks.com/20151026/Visual Cryptography and Secret Image Sharing.pdf
+http://file.allitebooks.com/20150926/Windows Malware Analysis Essentials.pdf
+http://file.allitebooks.com/20151015/Enterprise Cybersecurity.pdf
+http://file.allitebooks.com/20151122/Accumulo.pdf
+http://file.allitebooks.com/20151118/Protect Your Privacy.pdf
+http://file.allitebooks.com/20150909/Security Intelligence.pdf
+http://file.allitebooks.com/20150823/Distributed Networks- Intelligence, Security, and Applications.pdf
+http://file.allitebooks.com/20150822/Microsoft Dynamics AX 2012 R3 Security.pdf
+http://file.allitebooks.com/20150910/The Antivirus Hacker-s Handbook.pdf
+http://file.allitebooks.com/20150822/Security Planning- An Applied Approach.pdf
+http://file.allitebooks.com/20150826/Computer Security- Principles and Practice, 3rd Edition.pdf
+http://file.allitebooks.com/20150731/Transnational Security.pdf
+http://file.allitebooks.com/20150909/A Practical Guide to TPM 2.0.pdf
+http://file.allitebooks.com/20150811/Learning Python Network Programming.pdf
+http://file.allitebooks.com/20150909/Python Hacking Essentials.pdf
+http://file.allitebooks.com/20150521/Android Security Internals.pdf
+http://file.allitebooks.com/20150521/Data-Driven Security.pdf
+http://file.allitebooks.com/20150521/Android Hacker-s Handbook.pdf
+http://file.allitebooks.com/20150521/Cyber Threat!.pdf
+http://file.allitebooks.com/20150521/Anti-Hacker Tool Kit, 4th Edition.pdf
+http://file.allitebooks.com/20150521/Advanced API Security.pdf
+http://file.allitebooks.com/20150521/Computer Security Handbook, 6th Edition.pdf
+http://file.allitebooks.com/20150724/Wireshark Network Analysis- The Official Wireshark Certified Network Analyst Study Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150721/Official (ISC)2 Guide to the CISSP-ISSMP CBK, Second Edition.pdf
+http://file.allitebooks.com/20150712/Data Analysis For Network Cyber-Security.pdf
+http://file.allitebooks.com/20150712/Engineering Secure Software and Systems.pdf
+http://file.allitebooks.com/20150712/Android Security- Attacks and Defenses.pdf
+http://file.allitebooks.com/20150706/A Practical Guide to Networking and Security in iOS 8.pdf
+http://file.allitebooks.com/20150521/Black Hat Python.pdf
+http://file.allitebooks.com/20150703/Network Attacks and Defenses- A Hands-on Approach.pdf
+http://file.allitebooks.com/20150728/Computer Forensics JumpStart, 2nd Edition.pdf
+http://file.allitebooks.com/20150521/Cybersecurity for Executives.pdf
+http://file.allitebooks.com/20150723/Bitcoin for the Befuddled.pdf
+http://file.allitebooks.com/20150521/Building Virtual Pentesting Labs for Advanced Penetration Testing.pdf
+http://file.allitebooks.com/20150722/Cyberspace and Cybersecurity.pdf
+http://file.allitebooks.com/20150521/Learning Nessus for Penetration Testing.pdf
+http://file.allitebooks.com/20150521/Mastering Metasploit.pdf
+http://file.allitebooks.com/20150521/Practical Reverse Engineering.pdf
+http://file.allitebooks.com/20150521/Penetration Testing with BackBox.pdf
+http://file.allitebooks.com/20150521/The Art of Memory Forensics.pdf
+http://file.allitebooks.com/20150521/Kali Linux Network Scanning Cookbook.pdf
+http://file.allitebooks.com/20150521/Learning Pentesting for Android Devices.pdf
+http://file.allitebooks.com/20150521/Hacking Point of Sale.pdf
+http://file.allitebooks.com/20150521/Penetration Testing with the Bash shell.pdf
+http://file.allitebooks.com/20150521/Penetration Testing.pdf
+http://file.allitebooks.com/20150521/The Hacker Playbook Practical Guide To Penetration Testing.pdf
+http://file.allitebooks.com/20150521/The Browser Hacker-s Handbook.pdf
+http://file.allitebooks.com/20150521/Computer Security - ESORICS 2013.pdf
+http://file.allitebooks.com/20150521/The Manager-s Guide to Web Application Security.pdf
+http://file.allitebooks.com/20150521/The InfoSec Handbook.pdf
+http://file.allitebooks.com/20150521/Hacking For Dummies, 4th Edition.pdf
+http://file.allitebooks.com/20150521/What Is Computer Science.pdf
+http://file.allitebooks.com/20150521/Threat Modeling.pdf
+http://file.allitebooks.com/20150521/Cuckoo Malware Analysis.pdf
+http://file.allitebooks.com/20150521/Hacking Exposed Mobile.pdf
+http://file.allitebooks.com/20150521/Managing Risk and Information Security.pdf
+http://file.allitebooks.com/20150521/Metasploit Penetration Testing Cookbook.pdf
+http://file.allitebooks.com/20150521/Gray Hat Hacking, 3rd Edition.pdf
+http://file.allitebooks.com/20150521/Advanced Penetration Testing for Highly-Secured Environments.pdf
+http://file.allitebooks.com/20150521/Web Penetration Testing with Kali Linux.pdf
+http://file.allitebooks.com/20150521/BackTrack 4 Assuring Security by Penetration Testing.pdf
+http://file.allitebooks.com/20150521/Practical Malware Analysis.pdf
+http://file.allitebooks.com/20150521/Cyber Security Policy Guidebook.pdf
+http://file.allitebooks.com/20150521/BackTrack 5 Cookbook.pdf
+http://file.allitebooks.com/20150521/Information Security The Complete Reference, 2nd Edition.pdf
+http://file.allitebooks.com/20150521/Fragile networks.pdf
+http://file.allitebooks.com/20150521/Beautiful Security.pdf
+http://file.allitebooks.com/20150521/Hacking Exposed Computer Forensics, 2nd Edition.pdf
+http://file.allitebooks.com/20150521/The IDA Pro Book.pdf
+http://file.allitebooks.com/20150521/Protecting Your Mobile App IP The Mini Missing Manual.pdf
+http://file.allitebooks.com/20150521/Hackers.pdf
+http://file.allitebooks.com/20150521/Enterprise Mac Security Mac OS X Snow Leopard, 2nd Edition.pdf
+http://file.allitebooks.com/20150521/Hacking Exposed Wireless, 2nd Edition.pdf
+http://file.allitebooks.com/20150521/Hacking Exposed Web Applications, 3rd Edition.pdf
+http://file.allitebooks.com/20150521/Cloud Security and Privacy.pdf
+http://file.allitebooks.com/20150521/Hacking Exposed, 6th Edition.pdf
+http://file.allitebooks.com/20150521/Hacking, 2nd Edition.pdf
+http://file.allitebooks.com/20150521/Reverse Engineering Code with IDA Pro.pdf
+http://file.allitebooks.com/20150521/Security Monitoring.pdf
+http://file.allitebooks.com/20150521/Hacking Exposed Malware and Rootkits.pdf
+http://file.allitebooks.com/20150521/Practical Intrusion Analysis.pdf
+http://file.allitebooks.com/20150521/Hacking Exposed Linux, 3rd Edition.pdf
+http://file.allitebooks.com/20150521/Hacking VoIP.pdf
+http://file.allitebooks.com/20150521/The Myths of Security.pdf
+http://file.allitebooks.com/20150521/Security Metrics.pdf
+http://file.allitebooks.com/20150521/Network Security Hacks, 2nd Edition.pdf
+http://file.allitebooks.com/20150521/Network Security Assessment, 2nd Edition.pdf
+http://file.allitebooks.com/20150521/Security Power Tools.pdf
+http://file.allitebooks.com/20150521/Disassembling Code IDA Pro and SoftICE.pdf
+http://file.allitebooks.com/20150521/Securing VoIP Networks.pdf
+http://file.allitebooks.com/20150521/Hacking Exposed Windows, 3rd Edition.pdf
+http://file.allitebooks.com/20150521/Rootkits For Dummies.pdf
+http://file.allitebooks.com/20150521/Securing Ajax Applications.pdf
+http://file.allitebooks.com/20150521/Hacking Exposed Web 2.0.pdf
+http://file.allitebooks.com/20150521/Web Security Testing Cookbook.pdf
+http://file.allitebooks.com/20150521/The Fundamentals of Network Security.pdf
+http://file.allitebooks.com/20150521/Network Security with OpenSSL.pdf
+http://file.allitebooks.com/20150521/Computer Viruses For Dummies.pdf
+http://file.allitebooks.com/20150521/Crackproof Your Software.pdf
+http://file.allitebooks.com/20150521/Database Nation.pdf
+http://file.allitebooks.com/20150521/Network Security Bible.pdf
+http://file.allitebooks.com/20150521/Applied Cryptography, 2nd Edition.pdf
+http://file.allitebooks.com/20150521/PGP - GPG.pdf

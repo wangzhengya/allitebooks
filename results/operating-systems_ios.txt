@@ -1,0 +1,221 @@
+http://file.allitebooks.com/20170102/Troubleshooting iOS.pdf
+http://file.allitebooks.com/20160626/App Development Recipes for iOS and watchOS.pdf
+http://file.allitebooks.com/20170130/iOS Penetration Testing.pdf
+http://file.allitebooks.com/20160703/Beginning iOS Game Center and Game Kit- For iPhone, iPad, and iPod touch.pdf
+http://file.allitebooks.com/20161023/Programming iOS 10.pdf
+http://file.allitebooks.com/20170930/Learn iOS Application Distribution.pdf
+http://file.allitebooks.com/20170213/Learn Design for iOS Development.pdf
+http://file.allitebooks.com/20161224/iOS 10 Swift Programming Cookbook.pdf
+http://file.allitebooks.com/20160704/Xcode 4 iOS Development Beginners Guide.pdf
+http://file.allitebooks.com/20161010/Learning iOS Forensics, 2nd Edition.pdf
+http://file.allitebooks.com/20160306/iOS 9 Application Development in 24 Hours, 7th Edition.pdf
+http://file.allitebooks.com/20151209/The Core iOS Developer's Cookbook, 5th Edition.pdf
+http://file.allitebooks.com/20160110/React Native for iOS Development.pdf
+http://file.allitebooks.com/20151217/iOS 9 Swift Programming Cookbook.pdf
+http://file.allitebooks.com/20160308/Apple Pay Essentials.pdf
+http://file.allitebooks.com/20151223/Designing for iOS with Sketch.pdf
+http://file.allitebooks.com/20151219/IOS 6 Foundations.pdf
+http://file.allitebooks.com/20160123/iOS 9 Programming Fundamentals with Swift.pdf
+http://file.allitebooks.com/20151205/Learning Core Data for iOS.pdf
+http://file.allitebooks.com/20160220/iOS Wow Factor.pdf
+http://file.allitebooks.com/20151129/The Business of iOS App Development, 3rd edition.pdf
+http://file.allitebooks.com/20151112/IOS Crash Course.pdf
+http://file.allitebooks.com/20151205/Learning iOS Development.pdf
+http://file.allitebooks.com/20151113/Beginning iOS Cloud and Database Development.pdf
+http://file.allitebooks.com/20151205/Pro Objective-C Design Patterns for iOS.pdf
+http://file.allitebooks.com/20151116/Ios 9 Game Development Essentials.pdf
+http://file.allitebooks.com/20151201/iPhone and iPad Apps for Absolute Beginners, iOS 5 Edition.pdf
+http://file.allitebooks.com/20151111/Programming iOS 9.pdf
+http://file.allitebooks.com/20151015/More iPhone Development with Objective-C.pdf
+http://file.allitebooks.com/20151201/iOS eCommerce App Development with Parse.pdf
+http://file.allitebooks.com/20150920/Learn WatchKit for iOS.pdf
+http://file.allitebooks.com/20150915/Sparrow iOS Game Framework, Beginners Guide.pdf
+http://file.allitebooks.com/20150905/Barcodes with iOS.pdf
+http://file.allitebooks.com/20150905/More iPhone Development with Swift.pdf
+http://file.allitebooks.com/20150909/Learning iOS Forensics.pdf
+http://file.allitebooks.com/20150903/iOS 8 App Development Essentials.pdf
+http://file.allitebooks.com/20150905/Learning iOS Security.pdf
+http://file.allitebooks.com/20150814/Learn SpriteBuilder for iOS Game Development.pdf
+http://file.allitebooks.com/20150807/iOS Swift Game Development Cookbook Second Edition.pdf
+http://file.allitebooks.com/20150811/Learning iOS 8 Game Development Using Swift.pdf
+http://file.allitebooks.com/20150706/A Practical Guide to Networking and Security in iOS 8.pdf
+http://file.allitebooks.com/20150713/Appreneur Secrets to Success in the App Store.pdf
+http://file.allitebooks.com/20150520/Beginning iOS 7 Development.pdf
+http://file.allitebooks.com/20150723/Programming iOS 8- Dive Deep into Views, View Controllers, and Frameworks.pdf
+http://file.allitebooks.com/20150715/Learn GameSalad for iOS- Game Development for iPhone, iPad, and HTML5.pdf
+http://file.allitebooks.com/20150704/Build iOS Games with Sprite Kit Unleash Your Imagination in Two Dimensions.pdf
+http://file.allitebooks.com/20150715/Learn HTML5 and JavaScript for iOS- Web Standards-based Apps for iPhone, iPad, and iPod touch.pdf
+http://file.allitebooks.com/20150520/Application Development in iOS 7.pdf
+http://file.allitebooks.com/20150716/RestKit for iOS.pdf
+http://file.allitebooks.com/20150706/Developing AR Games for iOS and Android.pdf
+http://file.allitebooks.com/20150520/Beginning iOS Media App Development.pdf
+http://file.allitebooks.com/20150520/Beginning iOS Programming For Dummies.pdf
+http://file.allitebooks.com/20150520/Building Cross-Platform Apps using Titanium, Alloy, and Appcelerator Cloud Services.pdf
+http://file.allitebooks.com/20150520/iOS 8 Swift Programming Cookbook.pdf
+http://file.allitebooks.com/20150520/iOS and OS X Network Programming Cookbook.pdf
+http://file.allitebooks.com/20150520/Beginning iPhone Development, 7th Edition.pdf
+http://file.allitebooks.com/20150520/Beginning iOS Programming.pdf
+http://file.allitebooks.com/20150520/Introducing iOS 8.pdf
+http://file.allitebooks.com/20150520/Beginning iPhone Development with Swift.pdf
+http://file.allitebooks.com/20150520/Beginning Xcode.pdf
+http://file.allitebooks.com/20150520/Learning iOS 8 for Enterprise.pdf
+http://file.allitebooks.com/20150520/Pro iOS Continuous Integration.pdf
+http://file.allitebooks.com/20150520/The Core iOS Developer-s Cookbook, 5th Edition.pdf
+http://file.allitebooks.com/20150520/Application Development with Parse using iOS SDK.pdf
+http://file.allitebooks.com/20150520/iOS Development with Xamarin Cookbook.pdf
+http://file.allitebooks.com/20150520/iOS UICollectionView, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Beginning iOS 6 Development.pdf
+http://file.allitebooks.com/20150520/Learning iCloud Data Management.pdf
+http://file.allitebooks.com/20150520/Pro iOS Persistence.pdf
+http://file.allitebooks.com/20150520/Learn iOS 8 App Development, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Core Data, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Idea to iPhone.pdf
+http://file.allitebooks.com/20150520/Hello! iOS Development.pdf
+http://file.allitebooks.com/20150520/HTML5 iPhone Web Application Development.pdf
+http://file.allitebooks.com/20150520/Building iPhone and iPad Electronic Projects.pdf
+http://file.allitebooks.com/20150520/Coding with Coda.pdf
+http://file.allitebooks.com/20150520/iOS 7 Programming Cookbook.pdf
+http://file.allitebooks.com/20150520/iCloud for Developers.pdf
+http://file.allitebooks.com/20150520/Head First iPhone and iPad Development, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/iOS 6 Application Development For Dummies.pdf
+http://file.allitebooks.com/20150520/iOS Auto Layout Demystified, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/New iPad Features in iOS 6 How-to.pdf
+http://file.allitebooks.com/20150520/Learn Cocoa on the Mac, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/iOS Components and Frameworks.pdf
+http://file.allitebooks.com/20150520/iOS 7 Programming Fundamentals.pdf
+http://file.allitebooks.com/20150520/Learn iOS 7 App Development.pdf
+http://file.allitebooks.com/20150520/More iOS 6 Development.pdf
+http://file.allitebooks.com/20150520/Learning iOS Programming, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/iPhone and iPad Apps for Absolute Beginners, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/iOS Drawing.pdf
+http://file.allitebooks.com/20150520/Pro iOS Geo.pdf
+http://file.allitebooks.com/20150520/Pro Objective-C.pdf
+http://file.allitebooks.com/20150520/Programming iOS 7, 4th Edition.pdf
+http://file.allitebooks.com/20150520/Professional iOS Database Application Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Professional iOS Programming.pdf
+http://file.allitebooks.com/20150520/Beginning iOS 5 Application Development.pdf
+http://file.allitebooks.com/20150520/Beginning iOS Application Development with HTML and JavaScript.pdf
+http://file.allitebooks.com/20150520/Programming iOS 6, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Programming in Objective-C, 6th Edition.pdf
+http://file.allitebooks.com/20150520/Xcode 4 Cookbook.pdf
+http://file.allitebooks.com/20150520/Beginning Objective-C.pdf
+http://file.allitebooks.com/20150520/Geolocation in iOS.pdf
+http://file.allitebooks.com/20150520/Beginning iOS Storyboarding.pdf
+http://file.allitebooks.com/20150520/iOS 6 Recipes.pdf
+http://file.allitebooks.com/20150520/Hacking and Securing iOS Applications.pdf
+http://file.allitebooks.com/20150520/IOS 5 Recipes.pdf
+http://file.allitebooks.com/20150520/iOS SDK Development.pdf
+http://file.allitebooks.com/20150520/iOS 6 Programming Cookbook.pdf
+http://file.allitebooks.com/20150520/iOS in Practice.pdf
+http://file.allitebooks.com/20150520/iOS 5 Programming Cookbook.pdf
+http://file.allitebooks.com/20150520/Learn Objective-C on the Mac For OS X and iOS, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Learn Cocoa Touch for iOS.pdf
+http://file.allitebooks.com/20150520/iPad Enterprise Application Development BluePrints.pdf
+http://file.allitebooks.com/20150520/Learning Cocoa with Objective-C, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/iPhone Location Aware Apps by Example.pdf
+http://file.allitebooks.com/20150520/iPod The Missing Manual, 11th Edition.pdf
+http://file.allitebooks.com/20150520/iPhone Application Development For Dummies, 4th Edition.pdf
+http://file.allitebooks.com/20150520/Learning Core Audio.pdf
+http://file.allitebooks.com/20150520/iPhone and iPad App 24-Hour Trainer.pdf
+http://file.allitebooks.com/20150520/iPhone 4S All-in-One For Dummies.pdf
+http://file.allitebooks.com/20150520/OS X Mountain Lion The Missing Manual.pdf
+http://file.allitebooks.com/20150520/Learning Quartz Composer.pdf
+http://file.allitebooks.com/20150520/OS X Mountain Lion Pocket Guide.pdf
+http://file.allitebooks.com/20150520/Learning HTML5 and JavaScript for iOS.pdf
+http://file.allitebooks.com/20150520/Mac OS X and iOS Internals.pdf
+http://file.allitebooks.com/20150520/Objective-C Recipes.pdf
+http://file.allitebooks.com/20150520/Macintosh Terminal Pocket Guide.pdf
+http://file.allitebooks.com/20150520/Learning iOS Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Pro iOS Table Views.pdf
+http://file.allitebooks.com/20150520/Mac Application Development by Example.pdf
+http://file.allitebooks.com/20150520/Basic Sensors in iOS.pdf
+http://file.allitebooks.com/20150520/Professional iOS Network Programming.pdf
+http://file.allitebooks.com/20150520/Beginning iOS Apps with Facebook and Twitter APIs.pdf
+http://file.allitebooks.com/20150520/Test-Driven iOS Development.pdf
+http://file.allitebooks.com/20150520/Beginning iOS 5 Development.pdf
+http://file.allitebooks.com/20150520/Xcode 4 Unleashed, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Sams Teach Yourself Xcode 4 in 24 Hours.pdf
+http://file.allitebooks.com/20150520/RubyMotion.pdf
+http://file.allitebooks.com/20150520/Programming iOS 5, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Sams Teach Yourself Core Data for Mac and iOS in 24 Hours, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Developing Enterprise iOS Applications.pdf
+http://file.allitebooks.com/20150520/Head First iPhone and iPad Development, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/iLife 11 for Dummies.pdf
+http://file.allitebooks.com/20150520/Developing C- Apps for iPhone and iPad using MonoTouch.pdf
+http://file.allitebooks.com/20150520/Concurrent Programming in Mac OS X and iOS.pdf
+http://file.allitebooks.com/20150520/Developing iOS Applications with Flex 4.5.pdf
+http://file.allitebooks.com/20150520/Building Applications for the Mac App Store.pdf
+http://file.allitebooks.com/20150520/Graphics and Animation on iOS.pdf
+http://file.allitebooks.com/20150520/Core Data iOS Essentials.pdf
+http://file.allitebooks.com/20150520/iOS 4 in Action.pdf
+http://file.allitebooks.com/20150520/Migrating to iPhone and iPad for .NET Developers.pdf
+http://file.allitebooks.com/20150520/Mac Kung Fu.pdf
+http://file.allitebooks.com/20150520/Mac OS X Lion Made Simple.pdf
+http://file.allitebooks.com/20150520/iOS SDK Programming A Beginner-s Guide.pdf
+http://file.allitebooks.com/20150520/iPad 2 The Missing Manual, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/iOS 4 Programming Cookbook.pdf
+http://file.allitebooks.com/20150520/Mac Programming for Absolute Beginners.pdf
+http://file.allitebooks.com/20150520/iPad Application Development For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/iOS Recipes.pdf
+http://file.allitebooks.com/20150520/Objective-C for Absolute Beginners, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Pro iOS Web Design and Development.pdf
+http://file.allitebooks.com/20150520/Pro Core Data for iOS, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Programming in Objective-C, 4th Edition.pdf
+http://file.allitebooks.com/20150520/Taking Your iPhone 4S to the Max.pdf
+http://file.allitebooks.com/20150520/Programming iOS 4.pdf
+http://file.allitebooks.com/20150520/Objective-C Fundamentals.pdf
+http://file.allitebooks.com/20150520/Pro OpenGL ES for IOS.pdf
+http://file.allitebooks.com/20150520/The Art of the App Store.pdf
+http://file.allitebooks.com/20150520/Sams Teach Yourself iOS 5 Application Development in 24 Hours, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Objective-C Phrasebook, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/Designing the iPhone User Experience.pdf
+http://file.allitebooks.com/20150520/Cocoa Programming.pdf
+http://file.allitebooks.com/20150520/Writing Game Center Apps in iOS.pdf
+http://file.allitebooks.com/20150520/Beginning iPhone and iPad Web Apps.pdf
+http://file.allitebooks.com/20150520/Beginning iPad Development for iPhone Developers.pdf
+http://file.allitebooks.com/20150520/Beginning iOS 4 Application Development.pdf
+http://file.allitebooks.com/20150520/Cocoa Programming Developer-s Handbook.pdf
+http://file.allitebooks.com/20150520/Beginning iPhone SDK Programming with Objective-C.pdf
+http://file.allitebooks.com/20150520/Cocoa and Objective-C Up and Running.pdf
+http://file.allitebooks.com/20150520/Creating iPhone Apps with Cocoa Touch The Mini Missing Manual.pdf
+http://file.allitebooks.com/20150520/Learn Office 2011 for Mac OS X.pdf
+http://file.allitebooks.com/20150520/iPhone The Missing Manual, 4th Edition.pdf
+http://file.allitebooks.com/20150520/Enterprise Mac Managed Preferences.pdf
+http://file.allitebooks.com/20150520/iMac For Dummies, 6th Edition.pdf
+http://file.allitebooks.com/20150520/iBooks and ePeriodicals on the iPad The Mini Missing Manual.pdf
+http://file.allitebooks.com/20150520/iPad Programming.pdf
+http://file.allitebooks.com/20150520/Java and Mac OS X.pdf
+http://file.allitebooks.com/20150520/iPhone and iPad Apps for Absolute Beginners.pdf
+http://file.allitebooks.com/20150520/iPhone App Development The Missing Manual.pdf
+http://file.allitebooks.com/20150520/iPhone and iPad in Action.pdf
+http://file.allitebooks.com/20150520/Learning Objective-C 2.0.pdf
+http://file.allitebooks.com/20150520/Core Data.pdf
+http://file.allitebooks.com/20150520/Head First iPhone Development.pdf
+http://file.allitebooks.com/20150520/Learning iPhone Programming.pdf
+http://file.allitebooks.com/20150520/MacBook For Dummies, 3rd Edition.pdf
+http://file.allitebooks.com/20150520/Professional iPhone and iPad Application Development.pdf
+http://file.allitebooks.com/20150520/Professional Xcode 3.pdf
+http://file.allitebooks.com/20150520/Beginning iPhone 3 Development Exploring the iPhone SDK.pdf
+http://file.allitebooks.com/20150520/Tapworthy.pdf
+http://file.allitebooks.com/20150520/QuickBooks 2011 The Missing Manual.pdf
+http://file.allitebooks.com/20150520/iPhone Game Development.pdf
+http://file.allitebooks.com/20150520/Mac OS X Snow Leopard Pocket Guide.pdf
+http://file.allitebooks.com/20150520/iPhone in Action.pdf
+http://file.allitebooks.com/20150520/iPhone Advanced Projects.pdf
+http://file.allitebooks.com/20150520/Learn Objective-C for Java Developers.pdf
+http://file.allitebooks.com/20150520/iPhone Cool Projects.pdf
+http://file.allitebooks.com/20150520/iPhone User Interface Design Projects.pdf
+http://file.allitebooks.com/20150520/Mac OS X Snow Leopard The Missing Manual.pdf
+http://file.allitebooks.com/20150520/Learn Cocoa on the Mac.pdf
+http://file.allitebooks.com/20150520/iPhone SDK Development.pdf
+http://file.allitebooks.com/20150520/More iPhone 3 Development Tackling iPhone SDK 3.pdf
+http://file.allitebooks.com/20150520/Professional iPhone and iPod touch Programming.pdf
+http://file.allitebooks.com/20150520/Programming Mac OS X.pdf
+http://file.allitebooks.com/20150520/Learning Cocoa with Objective-C, 2nd Edition.pdf
+http://file.allitebooks.com/20150520/The iPhone Developer-s Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150513/Pro iOS Geo Building Apps with Location Based Services.pdf
+http://file.allitebooks.com/20150520/Core Animation for Mac OS X and the iPhone.pdf
+http://file.allitebooks.com/20150513/iOS 8 Programming Fundamentals with Swift Swift, Xcode, and Cocoa Basics.pdf
+http://file.allitebooks.com/20150520/Programming Cocoa with Ruby.pdf
+http://file.allitebooks.com/20150520/Switching to the Mac The Missing Manual, Snow Leopard Edition.pdf
+http://file.allitebooks.com/20150425/Mastering iOS Frameworks Beyond the Basics (2nd Edition).pdf

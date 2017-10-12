@@ -1,0 +1,178 @@
+http://file.allitebooks.com/20170409/Mathematica Data Visualization.pdf
+http://file.allitebooks.com/20170522/Unity Android Game Development by Example Beginner's Guide.pdf
+http://file.allitebooks.com/20170729/C Recipes.pdf
+http://file.allitebooks.com/20170623/Procedural Content Generation for C++ Game Development.pdf
+http://file.allitebooks.com/20170726/Essential Angular for ASP.NET Core MVC.pdf
+http://file.allitebooks.com/20170415/Microsoft Dynamics AX 2012 R3 Development Cookbook.pdf
+http://file.allitebooks.com/20170204/Learning Unreal Engine Game Development.pdf
+http://file.allitebooks.com/20171001/Clean C.pdf
+http://file.allitebooks.com/20170301/Code Generation with Roslyn.pdf
+http://file.allitebooks.com/20171006/Concurrency in Go.pdf
+http://file.allitebooks.com/20170129/C++ for Financial Mathematics.pdf
+http://file.allitebooks.com/20170130/Exploring C++.pdf
+http://file.allitebooks.com/20170108/Learning OpenCV 3.pdf
+http://file.allitebooks.com/20161210/Practical C.pdf
+http://file.allitebooks.com/20170204/Unreal Engine Game Development Cookbook.pdf
+http://file.allitebooks.com/20170111/Mastering Unreal Engine 4.X.pdf
+http://file.allitebooks.com/20161204/C++CLI Primer.pdf
+http://file.allitebooks.com/20170110/C-- in One Hour a Day, Sams Teach Yourself, 8th Edition.pdf
+http://file.allitebooks.com/20161128/Getting Started with JUCE.pdf
+http://file.allitebooks.com/20170111/Learning OMNeT.pdf
+http://file.allitebooks.com/20161005/Options and Derivatives Programming in C++.pdf
+http://file.allitebooks.com/20161215/OGRE 3D 1.7 Beginner's Guide.pdf
+http://file.allitebooks.com/20160914/Mastering Android NDK.pdf
+http://file.allitebooks.com/20161002/C++ Game Development Cookbook.pdf
+http://file.allitebooks.com/20161124/C++ in 24 Hours, Sams Teach Yourself, 6th Edition.pdf
+http://file.allitebooks.com/20161011/Beginning C++ Game Programming.pdf
+http://file.allitebooks.com/20161204/Objective-C for Absolute Beginners, 3rd edition.pdf
+http://file.allitebooks.com/20161202/Cocos2d-X by Example Beginner's Guide.pdf
+http://file.allitebooks.com/20161127/Practical Microsoft Visual Studio 2015.pdf
+http://file.allitebooks.com/20160922/C ++ Windows Programming.pdf
+http://file.allitebooks.com/20160812/Beginning C, 4th Edition.pdf
+http://file.allitebooks.com/20160718/Pro ASP.NET MVC V2 Framework.pdf
+http://file.allitebooks.com/20160524/Computer Fundamentals and Programming in C.pdf
+http://file.allitebooks.com/20160702/Mesos in Action.pdf
+http://file.allitebooks.com/20160820/Qt5 C++ GUI Programming Cookbook.pdf
+http://file.allitebooks.com/20160524/Data Structures Using C, 2nd edition.pdf
+http://file.allitebooks.com/20160809/Pro Silverlight 5 in VB, 4th Edition.pdf
+http://file.allitebooks.com/20160708/Getting Started with LLVM Core Libraries.pdf
+http://file.allitebooks.com/20160524/Object Oriented Programming with C++, 2nd edition.pdf
+http://file.allitebooks.com/20160630/C++ Standard Library Quick Reference.pdf
+http://file.allitebooks.com/20160513/Optimized C++.pdf
+http://file.allitebooks.com/20160508/Advanced Quantitative Finance with C++.pdf
+http://file.allitebooks.com/20160219/Microsoft Dynamics AX 2012 Financial Management.pdf
+http://file.allitebooks.com/20160213/Game Programming Using QT.pdf
+http://file.allitebooks.com/20160524/Programming with ANSI C++, 2nd Edition.pdf
+http://file.allitebooks.com/20160228/Essential C-6.0, 5th Edition.pdf
+http://file.allitebooks.com/20160524/Data Structures using C++.pdf
+http://file.allitebooks.com/20160524/Programming in C, 2nd Edition.pdf
+http://file.allitebooks.com/20160225/Leap Motion Development Essentials.pdf
+http://file.allitebooks.com/20160216/Pro Visual C++CLI and the .NET 2.0 Platform.pdf
+http://file.allitebooks.com/20151222/Learn to Program with C.pdf
+http://file.allitebooks.com/20151217/C in a Nutshell, 2nd Edition.pdf
+http://file.allitebooks.com/20151217/Linux System Programming.pdf
+http://file.allitebooks.com/20151223/OpenCV 2 Computer Vision Application Programming Cookbook.pdf
+http://file.allitebooks.com/20151223/An Introduction to Programming with C++.pdf
+http://file.allitebooks.com/20151216/Learning D.pdf
+http://file.allitebooks.com/20160104/SFML Game Development By Example.pdf
+http://file.allitebooks.com/20160124/C++ Without Fear, 3rd Edition.pdf
+http://file.allitebooks.com/20160110/Introducing Go.pdf
+http://file.allitebooks.com/20160101/Learn BlackBerry 10 App Development.pdf
+http://file.allitebooks.com/20151209/Data Structures and Algorithms in C++, 2nd edition.pdf
+http://file.allitebooks.com/20151210/Beginning Microsoft Visual C- 2008.pdf
+http://file.allitebooks.com/20151206/Functional Thinking.pdf
+http://file.allitebooks.com/20151202/C++ 14 Quick Syntax Reference, Second Edition.pdf
+http://file.allitebooks.com/20151210/Starting Out with C++ Early Objects, 8th Edition.pdf
+http://file.allitebooks.com/20151202/Exploring the Raspberry Pi 2 with C++.pdf
+http://file.allitebooks.com/20151209/C++ Programming, 6th Edition.pdf
+http://file.allitebooks.com/20151213/Beginning Programming With C For Dummies.pdf
+http://file.allitebooks.com/20151207/Ivor Horton's Beginning Visual C++ 2013.pdf
+http://file.allitebooks.com/20151206/Becoming Functional.pdf
+http://file.allitebooks.com/20151112/Functional Programming with C++.pdf
+http://file.allitebooks.com/20151105/Using the C++ Standard Template Libraries.pdf
+http://file.allitebooks.com/20151115/Programming Projects in C for Students of Engineering, Science, and Mathematics.pdf
+http://file.allitebooks.com/20151117/The D Programming Language.pdf
+http://file.allitebooks.com/20151113/Metro Revealed- Building Windows 8 apps with XAML and C-.pdf
+http://file.allitebooks.com/20151109/Building Dynamics CRM 2015 Dashboards with Power BI.pdf
+http://file.allitebooks.com/20151129/Real-Time C--, 2nd Edition.pdf
+http://file.allitebooks.com/20151029/Programming Arduino Getting Started with Sketches.pdf
+http://file.allitebooks.com/20151127/C Quick Syntax Reference.pdf
+http://file.allitebooks.com/20151109/C++ Programming, 6th Edition.pdf
+http://file.allitebooks.com/20151008/Blend for Visual Studio 2012 by Example Beginners Guide.pdf
+http://file.allitebooks.com/20150911/Arduino Robotic Projects.pdf
+http://file.allitebooks.com/20151019/Visual Studio 2013 Cookbook.pdf
+http://file.allitebooks.com/20150915/OpenCV Computer Vision Application Programming Cookbook Second Edition.pdf
+http://file.allitebooks.com/20150919/C++ How to Program, 8th Edition.pdf
+http://file.allitebooks.com/20150906/Practical C++ Financial Programming.pdf
+http://file.allitebooks.com/20150925/Microsoft Dynamics NAV 2015 Professional Reporting.pdf
+http://file.allitebooks.com/20151011/Starting out with Visual C# 2010, 2nd edition.pdf
+http://file.allitebooks.com/20151029/Data Structures & Algorithm Analysis in C++, 4th Edition.pdf
+http://file.allitebooks.com/20150926/Visual Studio 2013 and .NET 4.5 Expert Cookbook.pdf
+http://file.allitebooks.com/20150902/Advanced Topics in C.pdf
+http://file.allitebooks.com/20150811/Learning Unreal Engine Android Game Development.pdf
+http://file.allitebooks.com/20150821/Android NDK- Beginner's Guide - Second Edition.pdf
+http://file.allitebooks.com/20150823/Learning Boost C++ Libraries.pdf
+http://file.allitebooks.com/20150901/Advanced  Metaprogramming in Classic C++.pdf
+http://file.allitebooks.com/20150829/Professional Assembly Language.pdf
+http://file.allitebooks.com/20150829/Mastering Algorithms with C.pdf
+http://file.allitebooks.com/20150905/Exploring SE for Android.pdf
+http://file.allitebooks.com/20150901/C++ Recipes A Problem-Solution Approach.pdf
+http://file.allitebooks.com/20150902/C Programming for the Absolute Beginner, 2nd Edition.pdf
+http://file.allitebooks.com/20150713/LabVIEW Graphical Programming Cookbook.pdf
+http://file.allitebooks.com/20150711/Getting Started with C++ Audio Programming for Game Development.pdf
+http://file.allitebooks.com/20150720/Pro XAML with C-- From Design to Deployment on WPF, Windows Store, and Windows Phone.pdf
+http://file.allitebooks.com/20150510/21st Century C, 2nd Edition.pdf
+http://file.allitebooks.com/20150720/Programming in C++ for Engineering and Science.pdf
+http://file.allitebooks.com/20150731/Learning Object-Oriented Programming.pdf
+http://file.allitebooks.com/20150709/Beginning C for Arduino, Second Edition- Learn C Programming for the Arduino.pdf
+http://file.allitebooks.com/20150720/Machine Learning Projects for .NET Developers.pdf
+http://file.allitebooks.com/20150716/Microsoft Dynamics AX 2012 R3 Reporting Cookbook.pdf
+http://file.allitebooks.com/20150711/Designing Software Synthesizer Plug-Ins in C++.pdf
+http://file.allitebooks.com/20150510/C++ All-in-One For Dummies, 3rd Edition.pdf
+http://file.allitebooks.com/20150510/C++ For Dummies, 7th Edition.pdf
+http://file.allitebooks.com/20150510/Effective Modern C++.pdf
+http://file.allitebooks.com/20150510/Professional CUDA C Programming.pdf
+http://file.allitebooks.com/20150510/Advanced C and C++ Compiling.pdf
+http://file.allitebooks.com/20150510/Ivor Horton-s Beginning Visual C++ 2013.pdf
+http://file.allitebooks.com/20150510/Beginning C++.pdf
+http://file.allitebooks.com/20150510/Professional C++, 3rd Edition.pdf
+http://file.allitebooks.com/20150510/C++ Multithreading Cookbook.pdf
+http://file.allitebooks.com/20150510/C2013forCDevelopers,2nd Edition.pdf
+http://file.allitebooks.com/20150510/Exploring C++ 11, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/A Tour of C++.pdf
+http://file.allitebooks.com/20150510/Learn C on the Mac, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/C++ Application Development with CodeBlocks.pdf
+http://file.allitebooks.com/20150510/Boost.Asio C++ Network Programming.pdf
+http://file.allitebooks.com/20150510/Mastering Windows 8 C++ App Development.pdf
+http://file.allitebooks.com/20150510/C Primer Plus, 6th Edition.pdf
+http://file.allitebooks.com/20150510/Beginning C, 5th Edition.pdf
+http://file.allitebooks.com/20150510/Cryptography in C - C++, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/C++ Quick Syntax Reference.pdf
+http://file.allitebooks.com/20150510/21st Century C.pdf
+http://file.allitebooks.com/20150510/MinGW Starter.pdf
+http://file.allitebooks.com/20150510/The C++ Programming Language, 4th Edition.pdf
+http://file.allitebooks.com/20150510/Understanding and Using C Pointers.pdf
+http://file.allitebooks.com/20150510/C++ AMP.pdf
+http://file.allitebooks.com/20150510/Modern C++ Programming with Test-Driven Development.pdf
+http://file.allitebooks.com/20150510/Moving from C to C++.pdf
+http://file.allitebooks.com/20150510/Microsoft Visual C++CLI Step by Step.pdf
+http://file.allitebooks.com/20150510/C++ Concurrency in Action.pdf
+http://file.allitebooks.com/20150510/Pointers in C.pdf
+http://file.allitebooks.com/20150510/Developing Microsoft Media Foundation Applications.pdf
+http://file.allitebooks.com/20150510/Introduction to Design Patterns in C++ with Qt, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/Safe C++.pdf
+http://file.allitebooks.com/20150510/C++ Primer, 5th Edition.pdf
+http://file.allitebooks.com/20150510/Sams Teach Yourself C++ in One Hour a Day, 7th Edition.pdf
+http://file.allitebooks.com/20150510/Ivor Horton-s Beginning Visual C++ 2012.pdf
+http://file.allitebooks.com/20150510/Head First C.pdf
+http://file.allitebooks.com/20150510/C++ Primer Plus, 6th Edition.pdf
+http://file.allitebooks.com/20150510/The C++ Standard Library, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/Parallel Programming with Intel Parallel Studio XE.pdf
+http://file.allitebooks.com/20150510/Professional C++, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/Ivor Horton-s Beginning Visual C++ 2010.pdf
+http://file.allitebooks.com/20150510/Building Software for Simulation.pdf
+http://file.allitebooks.com/20150510/Pro Visual C++CLI and the .NET 3.5 Platform.pdf
+http://file.allitebooks.com/20150510/Sams Teach Yourself C++ in 24 Hours, 5th Edition.pdf
+http://file.allitebooks.com/20150510/Parallel Programming with Microsoft Visual C++.pdf
+http://file.allitebooks.com/20150510/Beginning Programming with C++ For Dummies.pdf
+http://file.allitebooks.com/20150510/C++ All-In-One Desk Reference For Dummies, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/Concurrent Programming on Windows.pdf
+http://file.allitebooks.com/20150510/Learn C on the Mac.pdf
+http://file.allitebooks.com/20150510/C in a Nutshell.pdf
+http://file.allitebooks.com/20150510/Beginning Visual C++ 2005.pdf
+http://file.allitebooks.com/20150510/C++ Pocket Reference.pdf
+http://file.allitebooks.com/20150510/Expert Visual C++CLI.pdf
+http://file.allitebooks.com/20150510/Windows via CC++, 5th Edition.pdf
+http://file.allitebooks.com/20150510/C++ Cookbook.pdf
+http://file.allitebooks.com/20150510/Principles of Data Structures using C and C++.pdf
+http://file.allitebooks.com/20150510/C++CLI.pdf
+http://file.allitebooks.com/20150510/C++CLI in Action.pdf
+http://file.allitebooks.com/20150510/Professional Multicore Programming.pdf
+http://file.allitebooks.com/20150510/Professional C++.pdf
+http://file.allitebooks.com/20150510/Secure Programming Cookbook for C and C++.pdf
+http://file.allitebooks.com/20150510/C++ For Dummies, 5th Edition.pdf
+http://file.allitebooks.com/20150510/Cryptography in C and C++, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/C++ in a Nutshell.pdf
+http://file.allitebooks.com/20150510/The C Programming Language, 2nd Edition.pdf
+http://file.allitebooks.com/20150510/Accelerated C++ Practical Programming by Example.pdf
+http://file.allitebooks.com/20150510/C++ Primer Plus, 5th Edition.pdf

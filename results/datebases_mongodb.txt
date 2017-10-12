@@ -1,0 +1,10 @@
+http://file.allitebooks.com/20170413/The Definitive Guide to MongoDB.pdf
+http://file.allitebooks.com/20160104/Web Development with MongoDB and NodeJS.pdf
+http://file.allitebooks.com/20170228/Pro MongoDB Development.pdf
+http://file.allitebooks.com/20160103/Pentaho Analytics for MongoDB Cookbook.pdf
+http://file.allitebooks.com/20160404/MongoDB in Action, 2nd Edition.pdf
+http://file.allitebooks.com/20150811/MongoDB Data Modeling.pdf
+http://file.allitebooks.com/20160130/Practical MongoDB.pdf
+http://file.allitebooks.com/20150422/MongoDB-Cookbook.pdf
+http://file.allitebooks.com/20151222/The Definitive Guide to MongoDB, Third Edition.pdf
+http://file.allitebooks.com/20160123/MongoDB Cookbook, Second Edition.pdf

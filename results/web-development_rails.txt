@@ -1,0 +1,35 @@
+http://file.allitebooks.com/20150617/Rails for PHP Developers.pdf
+http://file.allitebooks.com/20150617/Deploying Rails.pdf
+http://file.allitebooks.com/20150617/Rails 4 Application Development.pdf
+http://file.allitebooks.com/20150617/Rails 4 in Action.pdf
+http://file.allitebooks.com/20150617/Advanced Rails.pdf
+http://file.allitebooks.com/20150617/The Art of Rails.pdf
+http://file.allitebooks.com/20150617/The Rails 3 Way, 2nd Edition.pdf
+http://file.allitebooks.com/20150617/Jump Start Rails.pdf
+http://file.allitebooks.com/20150617/Rails for .NET Developers.pdf
+http://file.allitebooks.com/20150617/Learning Rails 3.pdf
+http://file.allitebooks.com/20150617/Beginning Rails 3.pdf
+http://file.allitebooks.com/20150617/Building Dynamic Web 2.0 Websites with Ruby on Rails.pdf
+http://file.allitebooks.com/20150617/Rails Recipes.pdf
+http://file.allitebooks.com/20150617/Rails Deep Dive.pdf
+http://file.allitebooks.com/20150617/Enterprise Recipes with Ruby and Rails.pdf
+http://file.allitebooks.com/20150617/Ruby on Rails for Microsoft Developers.pdf
+http://file.allitebooks.com/20150617/Shopify Application Development.pdf
+http://file.allitebooks.com/20150617/The Rails 4 Way.pdf
+http://file.allitebooks.com/20150617/Head First Rails.pdf
+http://file.allitebooks.com/20150617/Ruby on Rails Tutorial, 2nd Edition.pdf
+http://file.allitebooks.com/20150617/Rails 3 in Action.pdf
+http://file.allitebooks.com/20150617/Crafting Rails Applications.pdf
+http://file.allitebooks.com/20150617/Rails AntiPatterns.pdf
+http://file.allitebooks.com/20150617/The Rails View.pdf
+http://file.allitebooks.com/20150617/Crafting Rails 4 Applications.pdf
+http://file.allitebooks.com/20150617/The Rails Way.pdf
+http://file.allitebooks.com/20150617/Rails Solutions Ruby on Rails Made Easy.pdf
+http://file.allitebooks.com/20150617/Learning Devise for Rails.pdf
+http://file.allitebooks.com/20150617/Enterprise Rails.pdf
+http://file.allitebooks.com/20150617/Ruby on Rails 3 Tutorial.pdf
+http://file.allitebooks.com/20150617/Beginning Rails 4, 3rd Edition.pdf
+http://file.allitebooks.com/20150617/Advanced Rails Recipes.pdf
+http://file.allitebooks.com/20150617/Agile Web Development with Rails 4.pdf
+http://file.allitebooks.com/20150617/Aptana RadRails.pdf
+http://file.allitebooks.com/20150617/Bootstrap for Rails.pdf

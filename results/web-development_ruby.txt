@@ -1,0 +1,76 @@
+http://file.allitebooks.com/20150811/Cucumber Cookbook.pdf
+http://file.allitebooks.com/20150515/Everyday Scripting with Ruby.pdf
+http://file.allitebooks.com/20150911/Rails 4 in Action, Second Edition.pdf
+http://file.allitebooks.com/20150515/Metaprogramming Ruby, 2nd Edition.pdf
+http://file.allitebooks.com/20150911/Extending Puppet.pdf
+http://file.allitebooks.com/20150716/Ruby Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150720/The Rails 4 Way, 3rd edition.pdf
+http://file.allitebooks.com/20150826/NetBeans Ruby and Rails IDE with JRuby.pdf
+http://file.allitebooks.com/20150515/Programming Ruby 1.9 - 2.0, 4th Edition.pdf
+http://file.allitebooks.com/20150515/FXRuby.pdf
+http://file.allitebooks.com/20150515/Ruby Best Practices.pdf
+http://file.allitebooks.com/20150515/Refactoring Ruby Edition.pdf
+http://file.allitebooks.com/20150515/The Ruby Programming Language.pdf
+http://file.allitebooks.com/20150515/Learn to Program, 2nd Edition.pdf
+http://file.allitebooks.com/20150515/Ruby Under a Microscope.pdf
+http://file.allitebooks.com/20150515/Sinatra Up and Running.pdf
+http://file.allitebooks.com/20150515/Computer Science Programming Basics in Ruby.pdf
+http://file.allitebooks.com/20150515/MacRuby in Action.pdf
+http://file.allitebooks.com/20150515/Learning Ruby.pdf
+http://file.allitebooks.com/20150515/Practical Object-Oriented Design in Ruby.pdf
+http://file.allitebooks.com/20150515/Using JRuby.pdf
+http://file.allitebooks.com/20150515/Programming Ruby 1.9, 3rd Edition.pdf
+http://file.allitebooks.com/20150515/The dRuby Book.pdf
+http://file.allitebooks.com/20150515/The Book of Ruby.pdf
+http://file.allitebooks.com/20150515/MacRuby The Definitive Guide.pdf
+http://file.allitebooks.com/20150515/JRuby Cookbook.pdf
+http://file.allitebooks.com/20150515/Ruby Wizardry.pdf
+http://file.allitebooks.com/20151108/Beginning Ruby, 2nd Edition.pdf
+http://file.allitebooks.com/20150515/Eloquent Ruby.pdf
+http://file.allitebooks.com/20151223/Cloning Internet Applications with Ru.pdf
+http://file.allitebooks.com/20150922/Ruby on Rails Power.pdf
+http://file.allitebooks.com/20170710/Mastering Chef Provisioning.pdf
+http://file.allitebooks.com/20151209/Cucumber Recipes.pdf
+http://file.allitebooks.com/20150515/Build Awesome Command-Line Applications in Ruby 2.pdf
+http://file.allitebooks.com/20160513/RSpec Essentials.pdf
+http://file.allitebooks.com/20160607/CoffeeScript in Action.pdf
+http://file.allitebooks.com/20150921/Puppet Reporting and Monitoring.pdf
+http://file.allitebooks.com/20160331/Exploring Everyday Things with R and Ruby.pdf
+http://file.allitebooks.com/20161127/Rake Task Management Essentials.pdf
+http://file.allitebooks.com/20160718/Beginning Ruby.pdf
+http://file.allitebooks.com/20151029/Practical Ruby Projects Ideas for the Eclectic Programmer.pdf
+http://file.allitebooks.com/20150515/Ruby and MongoDB Web Development.pdf
+http://file.allitebooks.com/20160731/Selenium Design Patterns and Best Practices.pdf
+http://file.allitebooks.com/20160323/Rails, Angular, Postgres, and Bootstrap.pdf
+http://file.allitebooks.com/20161210/Ruby Recipes.pdf
+http://file.allitebooks.com/20160110/Learning Elixir.rar
+http://file.allitebooks.com/20150515/Build Awesome Command-Line Applications in Ruby.pdf
+http://file.allitebooks.com/20161204/Application Testing with Capybara.pdf
+http://file.allitebooks.com/20150515/Deploying with JRuby.pdf
+http://file.allitebooks.com/20160202/Aptana RadRails- An IDE for Rails Development.pdf
+http://file.allitebooks.com/20151125/Ruby on Rails Bible.pdf
+http://file.allitebooks.com/20160913/The Well-Grounded Rubyist.pdf
+http://file.allitebooks.com/20170616/Instant Cucumber BDD How-to.pdf
+http://file.allitebooks.com/20150902/Practical Ruby for System Administration.pdf
+http://file.allitebooks.com/20160414/Ruby in Practice.pdf
+http://file.allitebooks.com/20160323/Ruby Performance Optimization.pdf
+http://file.allitebooks.com/20160405/Rails 4 Test Prescriptions.pdf
+http://file.allitebooks.com/20170317/Test Driven Development in Ruby.pdf
+http://file.allitebooks.com/20150515/Ruby Quick Syntax Reference.pdf
+http://file.allitebooks.com/20150515/Instant RSpec Test-Driven Development How-to.pdf
+http://file.allitebooks.com/20160114/RubyMotion iOS Development Essentials.pdf
+http://file.allitebooks.com/20150723/Rails Crash Course- A No-Nonsense Guide to Rails Development.pdf
+http://file.allitebooks.com/20150515/Metaprogramming Ruby.pdf
+http://file.allitebooks.com/20150515/From Java To Ruby.pdf
+http://file.allitebooks.com/20150515/Ruby Cookbook.pdf
+http://file.allitebooks.com/20160502/Rails 5 Revealed.pdf
+http://file.allitebooks.com/20150912/Learning Yeoman.pdf
+http://file.allitebooks.com/20150930/Learning Puppet.pdf
+http://file.allitebooks.com/20150515/Jump Start Sinatra.pdf
+http://file.allitebooks.com/20150515/Programming Ruby, 2nd Edition.pdf
+http://file.allitebooks.com/20160601/Ruby on Rails Enterprise Application Development.pdf
+http://file.allitebooks.com/20150911/Storm Applied.pdf
+http://file.allitebooks.com/20150515/Ruby Pocket Reference.pdf
+http://file.allitebooks.com/20150515/Ruby in a Nutshell.pdf
+http://file.allitebooks.com/20150515/Enterprise Integration with Ruby.pdf
+http://file.allitebooks.com/20150515/Best of Ruby Quiz.pdf

@@ -1,0 +1,45 @@
+http://file.allitebooks.com/20150909/Mastering Nmap Scripting Engine.pdf
+http://file.allitebooks.com/20170122/CEH v9 Certified Ethical Hacker Version 9.pdf
+http://file.allitebooks.com/20150829/Mastering VMware Horizon 6.pdf
+http://file.allitebooks.com/20161212/VMware View Security Essentials.pdf
+http://file.allitebooks.com/20150904/Elastix Unified Communications Server Cookbook.pdf
+http://file.allitebooks.com/20170828/The Official (ISC)2 Guide to the SSCP CBK, 4th Edition.pdf
+http://file.allitebooks.com/20160405/Mastering Kali Linux for Advanced Penetration Testing.pdf
+http://file.allitebooks.com/20170710/Effective Python Penetration Testing.pdf
+http://file.allitebooks.com/20151218/Security and the Networked Society.pdf
+http://file.allitebooks.com/20160617/Cyber-Physical Attack Recovery Procedures.pdf
+http://file.allitebooks.com/20170413/Chef Essentials.pdf
+http://file.allitebooks.com/20160617/Node Security.pdf
+http://file.allitebooks.com/20160426/Secure Your Node.js Web Application.pdf
+http://file.allitebooks.com/20150909/Web Security.pdf
+http://file.allitebooks.com/20151129/The Network Security Test Lab.pdf
+http://file.allitebooks.com/20150923/Zabbix Cookbook.pdf
+http://file.allitebooks.com/20160312/Configuration Management with Chef-Solo.pdf
+http://file.allitebooks.com/20151117/Implementing SSL  TLS Using Cryptography and PKI.pdf
+http://file.allitebooks.com/20151121/Network Security A Beginner-s Guide, Third Edition.pdf
+http://file.allitebooks.com/20161027/Securing SQL Server.pdf
+http://file.allitebooks.com/20151003/Security in Wireless Sensor Networks.pdf
+http://file.allitebooks.com/20170616/Advanced Persistent Training.pdf
+http://file.allitebooks.com/20151025/Computer, Network, Software, and Hardware Engineering with Applications.pdf
+http://file.allitebooks.com/20170512/CCSP (ISC)2 Certified Cloud Security Professional Official Study Guide.pdf
+http://file.allitebooks.com/20160216/Mastering Zabbix.pdf
+http://file.allitebooks.com/20161029/Mastering Microsoft Forefront UAG 2010 Customization.pdf
+http://file.allitebooks.com/20161108/From Hacking to Report Writing.pdf
+http://file.allitebooks.com/20151216/Secure Smart Embedded Devices, Platforms and Applications.pdf
+http://file.allitebooks.com/20160103/Mastering Python Forensics.pdf
+http://file.allitebooks.com/20160509/Microsoft Forefront UAG 2010 Administrators Handbook.pdf
+http://file.allitebooks.com/20160306/Nmap Essentials.pdf
+http://file.allitebooks.com/20160101/Handbook of Communications Security.pdf
+http://file.allitebooks.com/20150930/Learning Ansible.pdf
+http://file.allitebooks.com/20150901/Cryptography and Network Security, 5th Edition.pdf
+http://file.allitebooks.com/20150904/Learning Chef.pdf
+http://file.allitebooks.com/20160903/Mastering Wireshark.pdf
+http://file.allitebooks.com/20170213/NTP Security.pdf
+http://file.allitebooks.com/20160305/Network Attacks and Exploitation.pdf
+http://file.allitebooks.com/20151015/Mobile Application Security.pdf
+http://file.allitebooks.com/20151127/Network Attacks and Exploitation A Framework.pdf
+http://file.allitebooks.com/20170619/CISSP (ISC)2 Certified Information.pdf
+http://file.allitebooks.com/20160916/IT Security Risk Control Management.pdf
+http://file.allitebooks.com/20161204/Practical Information Security Management.pdf
+http://file.allitebooks.com/20151207/Neural Networks and Computing.pdf
+http://file.allitebooks.com/20160103/Mastering OAuth 2.0.pdf

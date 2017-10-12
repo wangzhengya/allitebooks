@@ -1,0 +1,264 @@
+http://file.allitebooks.com/20170505/Python Machine Learning Blueprints.pdf
+http://file.allitebooks.com/20170804/Automate it.pdf
+http://file.allitebooks.com/20170813/Python Requests Essentials.pdf
+http://file.allitebooks.com/20170822/Test-Driven Development with Python, 2nd Edition.pdf
+http://file.allitebooks.com/20170606/Mastering Machine Learning with Python in Six Steps.pdf
+http://file.allitebooks.com/20170403/Learning QGIS, Second Edition.pdf
+http://file.allitebooks.com/20170420/Python in a Nutshell, 3rd Edition.pdf
+http://file.allitebooks.com/20170616/The Blender Python API.pdf
+http://file.allitebooks.com/20170710/Effective Python Penetration Testing.pdf
+http://file.allitebooks.com/20170620/Python Geospatial Development, 3rd Edition.pdf
+http://file.allitebooks.com/20170120/Introduction to Computing Using Python, 2nd Edition.pdf
+http://file.allitebooks.com/20170321/Getting Started with Electronic Projects.pdf
+http://file.allitebooks.com/20170122/Mastering Python Data Analysis.pdf
+http://file.allitebooks.com/20170327/Wxpython in Action.pdf
+http://file.allitebooks.com/20170225/Python Unit Test Automation.pdf
+http://file.allitebooks.com/20170307/Beginning Python, 3rd Edition.pdf
+http://file.allitebooks.com/20170324/Learning Predictive Analytics with Python.pdf
+http://file.allitebooks.com/20170309/QGIS Python Programming Cookbook.pdf
+http://file.allitebooks.com/20170120/Modern Python Cookbook.pdf
+http://file.allitebooks.com/20170318/Pro Python Best Practices.pdf
+http://file.allitebooks.com/20161102/Learning Python Application Development.pdf
+http://file.allitebooks.com/20161210/Python Descriptors.pdf
+http://file.allitebooks.com/20161113/Python Recipes Handbook.pdf
+http://file.allitebooks.com/20161224/Extending SaltStack.pdf
+http://file.allitebooks.com/20161230/Beginning Ethical Hacking with Python.pdf
+http://file.allitebooks.com/20161128/Head First Python, 2nd Edition.pdf
+http://file.allitebooks.com/20161202/The Python Quick Syntax Reference.pdf
+http://file.allitebooks.com/20161204/Text Analytics with Python.pdf
+http://file.allitebooks.com/20160905/Python 2.6 Graphics Cookbook.pdf
+http://file.allitebooks.com/20161026/Modular Programming with Python.pdf
+http://file.allitebooks.com/20161021/Learning Python Design Patterns, Second Edition.pdf
+http://file.allitebooks.com/20160903/Mastering Python Data Visualization.pdf
+http://file.allitebooks.com/20160929/Mastering Data Mining with Python.pdf
+http://file.allitebooks.com/20160919/Mastering Natural Language Processing with Python.pdf
+http://file.allitebooks.com/20160913/Learning Python Design Patterns, 2nd Edition.pdf
+http://file.allitebooks.com/20160906/The Hitchhiker's Guide to Python.pdf
+http://file.allitebooks.com/20161024/Invent Your Own Computer Games with Python.pdf
+http://file.allitebooks.com/20161117/Lean Python.pdf
+http://file.allitebooks.com/20160908/Learning OpenCV 3 Computer Vision with Python, 2nd Edition.pdf
+http://file.allitebooks.com/20160825/Introduction to Machine Learning with Python.pdf
+http://file.allitebooks.com/20160825/Foundations for Analytics with Python.pdf
+http://file.allitebooks.com/20160731/Beginning Python, 2nd Edition.pdf
+http://file.allitebooks.com/20160807/Beginning Python Visualization.pdf
+http://file.allitebooks.com/20160830/Python 3 Object-Oriented Programming, Second Edition.pdf
+http://file.allitebooks.com/20160817/Large Scale Machine Learning with Python.rar
+http://file.allitebooks.com/20160728/Python Data Analysis Cookbook.rar
+http://file.allitebooks.com/20160816/OpenCV with Python Blueprints.rar
+http://file.allitebooks.com/20160825/Learn to Program with Python.pdf
+http://file.allitebooks.com/20161224/Python, PyGame and Raspberry Pi Game Development.pdf
+http://file.allitebooks.com/20160805/An Introduction to Statistics with Python.pdf
+http://file.allitebooks.com/20160503/Mastering Machine Learning With scikit-learn.pdf
+http://file.allitebooks.com/20160505/Matplotlib for Python Developers.pdf
+http://file.allitebooks.com/20160607/Spring Python 1.1.pdf
+http://file.allitebooks.com/20160527/Internet of Things with Python.pdf
+http://file.allitebooks.com/20160517/Web Development with Django Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20160708/Functional Python Programming.pdf
+http://file.allitebooks.com/20160714/Mastering Python.pdf
+http://file.allitebooks.com/20160530/Expert Python Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20160611/Learning IPython for Interactive Computing and Data Visualization, Second Edition.pdf
+http://file.allitebooks.com/20160424/Python Projects for Kids.pdf
+http://file.allitebooks.com/20160330/Learning Scrapy.pdf
+http://file.allitebooks.com/20160421/Python Parallel Programming Cookbook.pdf
+http://file.allitebooks.com/20160421/Python 3 Object-Oriented Programming, Second Edition.pdf
+http://file.allitebooks.com/20160326/Python for Probability, Statistics, and Machine Learning.pdf
+http://file.allitebooks.com/20160326/NumPy Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20160326/Python Data Analysis.pdf
+http://file.allitebooks.com/20160421/Bioinformatics with Python Cookbook.pdf
+http://file.allitebooks.com/20160412/Learning Selenium Testing Tools with Python.pdf
+http://file.allitebooks.com/20160330/Mastering PyCharm.pdf
+http://file.allitebooks.com/20160416/Flask By Example.pdf
+http://file.allitebooks.com/20160324/Raspberry Pi Robotics Essentials.pdf
+http://file.allitebooks.com/20160213/Pyside GUI Application Development, Second Edition.pdf
+http://file.allitebooks.com/20160314/Software Defined Networking with OpenFlow.pdf
+http://file.allitebooks.com/20160228/Programming Computer Vision with Python.pdf
+http://file.allitebooks.com/20160115/Python Unlocked.rar
+http://file.allitebooks.com/20160118/A Student's Guide to Python for Physical Modeling.pdf
+http://file.allitebooks.com/20160320/Building Web Applications with Python and Neo4j.pdf
+http://file.allitebooks.com/20160215/Python for Software Design.pdf
+http://file.allitebooks.com/20160324/Kivy Interactive Applications in Python, 2nd Edition.pdf
+http://file.allitebooks.com/20160124/Python For ArcGIS.pdf
+http://file.allitebooks.com/20151218/Python for Secret Agents, Second Edition.pdf
+http://file.allitebooks.com/20151218/Professional Python.pdf
+http://file.allitebooks.com/20151217/Python Data Analytics.pdf
+http://file.allitebooks.com/20151220/Introduction To Computing Using Python.pdf
+http://file.allitebooks.com/20151217/Building Python Real-Time Applications with Storm.pdf
+http://file.allitebooks.com/20151218/Python 2.6 Text Processing Beginners Guide.pdf
+http://file.allitebooks.com/20151218/Think Python, 2nd Edition.pdf
+http://file.allitebooks.com/20151216/Fluent Python.pdf
+http://file.allitebooks.com/20151226/Python for Data Science For Dummies.pdf
+http://file.allitebooks.com/20151220/Doing Math With Python.pdf
+http://file.allitebooks.com/20151216/Flask Blueprints.pdf
+http://file.allitebooks.com/20151213/Tkinter GUI Application Development Blueprints.pdf
+http://file.allitebooks.com/20151207/High Performance Python.pdf
+http://file.allitebooks.com/20151213/Python Geospatial Analysis Cookbook.pdf
+http://file.allitebooks.com/20151203/Fundamentals of Python.pdf
+http://file.allitebooks.com/20151216/Python Data Visualization Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20151209/Data Structures and Algorithms Using Python.pdf
+http://file.allitebooks.com/20151208/Starting Out with Python, 2nd Edition.pdf
+http://file.allitebooks.com/20151211/Python GUI Programming Cookbook.pdf
+http://file.allitebooks.com/20151129/A Primer on Scientific Programming with Python, 4th edition.pdf
+http://file.allitebooks.com/20151124/Programming Robots with ROS.pdf
+http://file.allitebooks.com/20151106/The Quick Python Book, Second Edition.pdf
+http://file.allitebooks.com/20151103/Starting Out with Python, 3rd edition.pdf
+http://file.allitebooks.com/20151127/Python Playground.pdf
+http://file.allitebooks.com/20151115/Python.pdf
+http://file.allitebooks.com/20151209/The Python Workbook.pdf
+http://file.allitebooks.com/20151201/Beginning Python Games Development, Second Edition.pdf
+http://file.allitebooks.com/20151115/Programming Computer Programming for Beginners, 2 edition.pdf
+http://file.allitebooks.com/20151117/More Python Programming for the Absolute Beginner.pdf
+http://file.allitebooks.com/20151106/Introduction to Computational Models with Python.pdf
+http://file.allitebooks.com/20151017/Mastering Python Scientific Computing.pdf
+http://file.allitebooks.com/20151012/Python for Secret Agents.pdf
+http://file.allitebooks.com/20151015/Raspberry Pi LED Blueprints.pdf
+http://file.allitebooks.com/20151023/Building Machine Learning Systems with Python.pdf
+http://file.allitebooks.com/20150930/Mastering Python for Data Science.pdf
+http://file.allitebooks.com/20150921/Mastering Python High Performance.pdf
+http://file.allitebooks.com/20151029/Python Game Programming By Example.pdf
+http://file.allitebooks.com/20151015/RabbitMQ Cookbook.pdf
+http://file.allitebooks.com/20151010/Numerical Python.pdf
+http://file.allitebooks.com/20150913/Test Driven Development with Django.pdf
+http://file.allitebooks.com/20150823/Managing Your Biological Data with Python.pdf
+http://file.allitebooks.com/20150913/NLTK Essentials.pdf
+http://file.allitebooks.com/20150901/Introduction to Computation and Programming Using Python.pdf
+http://file.allitebooks.com/20150907/Mastering Python Design Patterns.pdf
+http://file.allitebooks.com/20150907/Kivy Blueprints.pdf
+http://file.allitebooks.com/20150909/Python Penetration Testing Essentials.pdf
+http://file.allitebooks.com/20150902/Core Python Applications Programming, 3rd Edition.pdf
+http://file.allitebooks.com/20150907/Learning SciPy for Numerical and Scientific Computing, 2nd Edition.pdf
+http://file.allitebooks.com/20150912/Learning Yeoman.pdf
+http://file.allitebooks.com/20150930/Python Programming for Teens.pdf
+http://file.allitebooks.com/20150811/Python Geospatial Development Essentials.pdf
+http://file.allitebooks.com/20150811/Python Geospatial Analysis Essentials.pdf
+http://file.allitebooks.com/20150810/Test Driven Python Development.pdf
+http://file.allitebooks.com/20150811/Python Essentials.pdf
+http://file.allitebooks.com/20150820/Using Yocto Project with BeagleBone Black.pdf
+http://file.allitebooks.com/20150811/Learning Python Network Programming.pdf
+http://file.allitebooks.com/20150823/Learning Data Mining with Python.pdf
+http://file.allitebooks.com/20150814/Mastering Probabilistic Graphical Models using Python.pdf
+http://file.allitebooks.com/20150810/Teach Your Kids to Code.pdf
+http://file.allitebooks.com/20150811/Python Data Science Essentials.pdf
+http://file.allitebooks.com/20150807/NumPy Beginners Guide Third Edition.pdf
+http://file.allitebooks.com/20150731/Learning Python Testing.pdf
+http://file.allitebooks.com/20150807/Mastering matplotlib.pdf
+http://file.allitebooks.com/20150731/Mastering Pandas.pdf
+http://file.allitebooks.com/20150731/Mastering Python for Finance.pdf
+http://file.allitebooks.com/20160316/Mastering Python Regular Expressions.pdf
+http://file.allitebooks.com/20150805/Python Web Penetration Testing Cookbook.pdf
+http://file.allitebooks.com/20150731/Learning scikit-learn Machine Learning in Python.pdf
+http://file.allitebooks.com/20150731/Mastering Pandas for Finance.pdf
+http://file.allitebooks.com/20150805/Python High Performance Programming.pdf
+http://file.allitebooks.com/20151226/Python 3 Object Oriented Programming.pdf
+http://file.allitebooks.com/20160115/Elasticsearch Indexing.pdf
+http://file.allitebooks.com/20151230/Learning Python.pdf
+http://file.allitebooks.com/20160104/Learning Flask Framework.rar
+http://file.allitebooks.com/20151230/Spark for Python Developers.pdf
+http://file.allitebooks.com/20160102/Python Crash Course.pdf
+http://file.allitebooks.com/20151230/wxPython Application Development Cookbook.pdf
+http://file.allitebooks.com/20160104/Django By Example.rar
+http://file.allitebooks.com/20160114/Programming Robots with ROS.rar
+http://file.allitebooks.com/20151230/ArcGIS Blueprints.pdf
+http://file.allitebooks.com/20150731/Learning Django Web Development.pdf
+http://file.allitebooks.com/20150731/Web Scraping with Python.pdf
+http://file.allitebooks.com/20150711/OpenCV Computer Vision with Python.pdf
+http://file.allitebooks.com/20150715/Instant Data Intensive Apps with pandas How-to.pdf
+http://file.allitebooks.com/20150722/An Introduction to Python and Computer Programming.pdf
+http://file.allitebooks.com/20150731/IPython Interactive Computing and Visualization Cookbook.pdf
+http://file.allitebooks.com/20150720/web2py Application Development Cookbook.pdf
+http://file.allitebooks.com/20150731/Learning Object-Oriented Programming.pdf
+http://file.allitebooks.com/20150719/Introduction to Python Programming and Developing GUI Applications with PyQT.pdf
+http://file.allitebooks.com/20150714/Python for Kids- A Playful Introduction to Programming.pdf
+http://file.allitebooks.com/20150514/Building Probabilistic Graphical Models with Python.pdf
+http://file.allitebooks.com/20150707/Data Science from Scratch- First Principles with Python.pdf
+http://file.allitebooks.com/20150514/Flask Framework Cookbook.pdf
+http://file.allitebooks.com/20150514/Beginning Python Visualization, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Creating Apps in Kivy.pdf
+http://file.allitebooks.com/20150514/Beginning Programming with Python For Dummies.pdf
+http://file.allitebooks.com/20150514/Getting Started with Beautiful Soup.pdf
+http://file.allitebooks.com/20150514/IPython Notebook Essentials.pdf
+http://file.allitebooks.com/20150514/Foundations of Python Network Programming, 3rd Edition.pdf
+http://file.allitebooks.com/20150708/Building Web Applications with Flask.pdf
+http://file.allitebooks.com/20150514/Lightweight Django.pdf
+http://file.allitebooks.com/20150514/Python 3 Text Processing with NLTK 3 Cookbook.pdf
+http://file.allitebooks.com/20150514/Parallel Programming with Python.pdf
+http://file.allitebooks.com/20150514/Pro Python System Administration, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Pro Python, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Python Algorithms, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Mastering Object-oriented Python.pdf
+http://file.allitebooks.com/20150514/matplotlib Plotting Cookbook.pdf
+http://file.allitebooks.com/20150514/Python Network Programming Cookbook.pdf
+http://file.allitebooks.com/20150514/Learning Python Data Visualization.pdf
+http://file.allitebooks.com/20150514/Introduction to Computer Science Using Python.pdf
+http://file.allitebooks.com/20150514/scikit-learn Cookbook.pdf
+http://file.allitebooks.com/20150514/Data Structures and Algorithms in Python.pdf
+http://file.allitebooks.com/20150514/Python Projects.pdf
+http://file.allitebooks.com/20150514/Testing Python.pdf
+http://file.allitebooks.com/20150514/Python Tools for Visual Studio.pdf
+http://file.allitebooks.com/20150514/Kivy Interactive Applications in Python.pdf
+http://file.allitebooks.com/20150514/Think Stats, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Python Pocket Reference, 5th Edition.pdf
+http://file.allitebooks.com/20150514/Test-Driven Development with Python.pdf
+http://file.allitebooks.com/20150514/Learning Python Design Patterns.pdf
+http://file.allitebooks.com/20150514/Learning SciPy for Numerical and Scientific Computing.pdf
+http://file.allitebooks.com/20150514/Pro Django, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/NumPy Beginner-s Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Practical Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Learning IPython for Interactive Computing and Data Visualization.pdf
+http://file.allitebooks.com/20150514/Learn Python the Hard Way, 3rd Edition.pdf
+http://file.allitebooks.com/20150514/Learning Python, 5th Edition.pdf
+http://file.allitebooks.com/20150514/Programming ArcGIS 10.1 with Python Cookbook.pdf
+http://file.allitebooks.com/20150514/Learning Cython Programming.pdf
+http://file.allitebooks.com/20150514/Python Cookbook, 3rd Edition.pdf
+http://file.allitebooks.com/20150514/Think Bayes.pdf
+http://file.allitebooks.com/20150514/NumPy Cookbook.pdf
+http://file.allitebooks.com/20150514/Python and HDF5.pdf
+http://file.allitebooks.com/20150514/Python in Practice.pdf
+http://file.allitebooks.com/20150514/Python Data Visualization Cookbook.pdf
+http://file.allitebooks.com/20150514/Introduction to Tornado.pdf
+http://file.allitebooks.com/20150514/Two Scoops of Django Best Practices For Django 1.5.pdf
+http://file.allitebooks.com/20150514/Hello! Python.pdf
+http://file.allitebooks.com/20150514/Python Geospatial Development, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Python 3 Web Development.pdf
+http://file.allitebooks.com/20150514/Think Complexity.pdf
+http://file.allitebooks.com/20150514/Real World Instrumentation with Python.pdf
+http://file.allitebooks.com/20150514/Python for Data Analysis.pdf
+http://file.allitebooks.com/20150514/Head First Python.pdf
+http://file.allitebooks.com/20150514/The Python Standard Library by Example.pdf
+http://file.allitebooks.com/20150514/Python Geospatial Development.pdf
+http://file.allitebooks.com/20150514/Python and AWS Cookbook.pdf
+http://file.allitebooks.com/20150514/NumPy 1.5.pdf
+http://file.allitebooks.com/20150514/Pro Python.pdf
+http://file.allitebooks.com/20150514/SciPy and NumPy.pdf
+http://file.allitebooks.com/20150514/MySQL for Python.pdf
+http://file.allitebooks.com/20150514/Sage Beginner-s Guide.pdf
+http://file.allitebooks.com/20150514/Python for Kids.pdf
+http://file.allitebooks.com/20150514/Programming Python, 4th Edition.pdf
+http://file.allitebooks.com/20150514/Professional IronPython.pdf
+http://file.allitebooks.com/20150514/Think Python.pdf
+http://file.allitebooks.com/20150514/Python Text Processing with NLTK 2.0 Cookbook.pdf
+http://file.allitebooks.com/20150514/wxPython 2.8 Application Development Cookbook.pdf
+http://file.allitebooks.com/20150514/Practical Programming.pdf
+http://file.allitebooks.com/20150514/Bioinformatics Programming Using Python.pdf
+http://file.allitebooks.com/20150514/Programming in Python 3, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Head First Programming.pdf
+http://file.allitebooks.com/20150514/Pro IronPython.pdf
+http://file.allitebooks.com/20150514/Beginning Django E-Commerce.pdf
+http://file.allitebooks.com/20150514/Foundations of Python Network Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Learning Python, 4th Edition.pdf
+http://file.allitebooks.com/20150514/The Definitive Guide to Jython.pdf
+http://file.allitebooks.com/20150514/Natural Language Processing with Python.pdf
+http://file.allitebooks.com/20150514/Django 1.0 Template Development.pdf
+http://file.allitebooks.com/20150514/CherryPy Essentials.pdf
+http://file.allitebooks.com/20150514/Python Web Development with Django.pdf
+http://file.allitebooks.com/20150514/Python in a Nutshell, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Python.pdf
+http://file.allitebooks.com/20150514/Expert Python Programming.pdf
+http://file.allitebooks.com/20150514/Python Pocket Reference, 4th Edition.pdf
+http://file.allitebooks.com/20150514/Python 3 for Absolute Beginners.pdf
+http://file.allitebooks.com/20150514/Getting Started with Pyparsing.pdf
+http://file.allitebooks.com/20150514/Python for Unix and Linux System Administration.pdf
+http://file.allitebooks.com/20150514/Beginning Python.pdf
+http://file.allitebooks.com/20150425/Learning pandas.pdf
+http://file.allitebooks.com/20150514/Python Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150514/Making Use of Python.pdf
+http://file.allitebooks.com/20150514/Python - XML.pdf

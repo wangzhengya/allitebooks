@@ -1,0 +1,114 @@
+http://file.allitebooks.com/20170325/Pro ASP .NET 4.5 in C, 5th Edition.pdf
+http://file.allitebooks.com/20161124/ASP.NET Data Presentation Controls Essentials.pdf
+http://file.allitebooks.com/20170325/Beginning ASP.NET 2.0 in C 2005, 2nd Edition.pdf
+http://file.allitebooks.com/20170915/ASP.NET Core Recipes, 2nd Edition.pdf
+http://file.allitebooks.com/20170911/Building Microservices with ASP.NET Core.pdf
+http://file.allitebooks.com/20170117/ASP.NET 3.5 CMS Development.pdf
+http://file.allitebooks.com/20161012/Bootstrap for ASP.NET MVC, 2nd Edition.pdf
+http://file.allitebooks.com/20170125/JavaScript for .NET Developers.pdf
+http://file.allitebooks.com/20161227/ASP.NET Core 1.0 High Performance.pdf
+http://file.allitebooks.com/20170318/Mastering Windows PowerShell Scripting.pdf
+http://file.allitebooks.com/20160524/Murachs ASP.NET 4.5 Web Programming with C- 2012 (5th edition).pdf
+http://file.allitebooks.com/20160524/Murachs ASP.NET 4.5 Web Programming with VB 2012, 5th Edition.pdf
+http://file.allitebooks.com/20160408/Beginning ASP.NET for Visual Studio 2015.pdf
+http://file.allitebooks.com/20160202/ASP.NET 3.5 Social Networking.pdf
+http://file.allitebooks.com/20160320/ASP.NET jQuery Cookbook, Second Edition.pdf
+http://file.allitebooks.com/20160908/Mastering .NET Machine Learning.pdf
+http://file.allitebooks.com/20160708/ReSharper Essentials.pdf
+http://file.allitebooks.com/20160928/ASP.NET MVC with Entity Framework and CSS.pdf
+http://file.allitebooks.com/20160426/Beginning SOLID Principles and Design Patterns for ASP.NET  Developers.pdf
+http://file.allitebooks.com/20160310/Pro ASP.NET 3.5 Server Controls and AJAX Components.pdf
+http://file.allitebooks.com/20150912/Learning Xamarin Studio.pdf
+http://file.allitebooks.com/20150912/Mastering Unity 2D Game Development.pdf
+http://file.allitebooks.com/20151125/ASP.NET 2.0 Unleashed.pdf
+http://file.allitebooks.com/20160202/ASP.NET MVC 1.0 Quickly.pdf
+http://file.allitebooks.com/20151029/SignalR - Real-time Application Development, Second Edition.pdf
+http://file.allitebooks.com/20151216/SQL Server 2014 with PowerShell v5 Cookbook.pdf
+http://file.allitebooks.com/20151117/ASP.NET 2.0 All-in-One Desk Reference For Dummies.pdf
+http://file.allitebooks.com/20151107/Pro ASP.NET for SQL Server.pdf
+http://file.allitebooks.com/20151202/Professional ASP.NET 2.0 Server Control and Component Development.pdf
+http://file.allitebooks.com/20151015/F for Quantitative Finance.pdf
+http://file.allitebooks.com/20150811/ASPdotNET MVC 5 with Bootstrap and Knockoutdotjs.pdf
+http://file.allitebooks.com/20150518/ASP.NET Web API 2, 2nd Edition.pdf
+http://file.allitebooks.com/20150811/Getting Started with Knockoutdotjs for .NET Developers.pdf
+http://file.allitebooks.com/20150518/Expert ASP.NET Web API 2 for MVC Developers.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 4.5.1 in C- and VB.pdf
+http://file.allitebooks.com/20150518/Designing Evolvable Web APIs with ASP.NET.pdf
+http://file.allitebooks.com/20150518/Bootstrap for ASP.NET MVC.pdf
+http://file.allitebooks.com/20150811/Learning Fsharp Functional Data Structures and Algorithms.pdf
+http://file.allitebooks.com/20150905/ASP.NET Web API 2 Recipes.pdf
+http://file.allitebooks.com/20150905/SignalR Blueprints.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET MVC 5.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET MVC 5 Platform.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET SignalR.pdf
+http://file.allitebooks.com/20150518/SignalR Programming in Microsoft ASP.NET.pdf
+http://file.allitebooks.com/20150518/Programming Microsoft ASP.NET MVC, 3rd Edition.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 4.5 Databases, 3rd Edition.pdf
+http://file.allitebooks.com/20150518/ASP.NET Web API.pdf
+http://file.allitebooks.com/20150518/ASP.NET MVC 4 and the Web API.pdf
+http://file.allitebooks.com/20150518/SignalR Real-time Application Cookbook.pdf
+http://file.allitebooks.com/20150518/ASP.NET MVC 4 Recipes.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET 4.5 in VB, 5th Edition.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET MVC 4.pdf
+http://file.allitebooks.com/20150518/Practical ASP.NET Web API.pdf
+http://file.allitebooks.com/20150518/Building Mobile Applications Using Kendo UI Mobile and ASP.NET Web API.pdf
+http://file.allitebooks.com/20150518/Fast ASP.NET Websites.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET Web API.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET Web API Security.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET 4.5 in C- and VB.pdf
+http://file.allitebooks.com/20150518/Mobile ASP.NET MVC 5.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET 4.5 in C-, 5th Edition.pdf
+http://file.allitebooks.com/20150518/Getting Started with ASP.NET 4.5 Web Forms.pdf
+http://file.allitebooks.com/20150518/Windows Azure and ASP.NET MVC Migration.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 4.5 in C- and VB.pdf
+http://file.allitebooks.com/20150518/ASP.NET MVC 4 in Action.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 4.5 in VB.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET MVC 4.pdf
+http://file.allitebooks.com/20150518/SignalR Real-time Application Development.pdf
+http://file.allitebooks.com/20150518/Professional Sitecore Development.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET MVC 4, 4th Edition.pdf
+http://file.allitebooks.com/20150518/Programming ASP.NET MVC 4.pdf
+http://file.allitebooks.com/20150518/Applied ASP.NET 4 in Context.pdf
+http://file.allitebooks.com/20150518/Building ASP.NET Web Pages with Microsoft WebMatrix.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET 3.5 SP1 Edition.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET MVC 3 Framework, 3rd Edition.pdf
+http://file.allitebooks.com/20150518/20 Recipes for Programming MVC 3.pdf
+http://file.allitebooks.com/20150518/Build Your Own ASP.NET 4 Web Site Using C- - VB, 4th Edition.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET Web Pages with WebMatrix.pdf
+http://file.allitebooks.com/20150518/Introducing Microsoft WebMatrix.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET MVC 3.pdf
+http://file.allitebooks.com/20150518/Ultra-Fast ASP.NET 4.5, 2nd Edition.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET 4 CMS.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 4 in C- 2010.pdf
+http://file.allitebooks.com/20150518/Pro Telerik ASP.NET and Silverlight Controls.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 4 in VB 2010.pdf
+http://file.allitebooks.com/20150518/Programming Microsoft ASP.NET 4.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET 4 in C- 2010, 4th Edition.pdf
+http://file.allitebooks.com/20150518/Programming Razor.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET Security.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 4 in C- and VB.pdf
+http://file.allitebooks.com/20150518/ASP.NET 4 Unleashed.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET 4 in C- and VB.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 3.5.pdf
+http://file.allitebooks.com/20150518/Sams Teach Yourself ASP.NET 4 in 24 Hours.pdf
+http://file.allitebooks.com/20150518/ASP.NET MVC in Action.pdf
+http://file.allitebooks.com/20150518/Microsoft ASP.NET and AJAX.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET E-Commerce in C-.pdf
+http://file.allitebooks.com/20150518/Test-Drive ASP.NET MVC.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET Design Patterns.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET MVC 1.0.pdf
+http://file.allitebooks.com/20150518/Programming Microsoft ASP.NET MVC.pdf
+http://file.allitebooks.com/20150518/Building a Web 2.0 Portal with ASP.NET 3.5.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 2.0 Databases, 2nd Edition.pdf
+http://file.allitebooks.com/20150518/Learning ASP.NET 3.5, 2nd Edition.pdf
+http://file.allitebooks.com/20150518/ASP.NET 3.5 For Dummies.pdf
+http://file.allitebooks.com/20150518/Programming ASP.NET AJAX.pdf
+http://file.allitebooks.com/20150518/Foundations of ASP.NET AJAX.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET 3.5 Security, Membership, and Role Management with C- and VB.pdf
+http://file.allitebooks.com/20150518/Beginning Ajax with ASP.NET.pdf
+http://file.allitebooks.com/20150518/Professional DotNetNuke 5.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 3.5 in VB 2008, 2nd Edition.pdf
+http://file.allitebooks.com/20150518/Beginning ASP.NET 1.1 with Visual C- .NET 2003.pdf
+http://file.allitebooks.com/20150518/Pro ASP.NET 2.0 in C- 2005.pdf
+http://file.allitebooks.com/20150518/Professional ASP.NET 2.0 XML.pdf
+http://file.allitebooks.com/20150518/Expert ASP.NET 2.0 Advanced Application Design.pdf

@@ -1,0 +1,135 @@
+http://file.allitebooks.com/20170313/Xamarin Studio for Android Programming.pdf
+http://file.allitebooks.com/20170716/Learning C- by Developing Games with Unity 5.x, 2nd Edition.pdf
+http://file.allitebooks.com/20170325/Beginning ASP.NET 2.0 in C 2005, 2nd Edition.pdf
+http://file.allitebooks.com/20171006/C 7.0 Pocket Reference.pdf
+http://file.allitebooks.com/20170625/Netduino Home Automation Projects.pdf
+http://file.allitebooks.com/20170325/Pro ASP .NET 4.5 in C, 5th Edition.pdf
+http://file.allitebooks.com/20170327/Professional Test Driven Development with C-.pdf
+http://file.allitebooks.com/20170327/Professional Windows PowerShell Programming.pdf
+http://file.allitebooks.com/20170226/Beginning C 2008 Objects.pdf
+http://file.allitebooks.com/20170125/A Beginner's Guide to 2D Platform Games with Unity.pdf
+http://file.allitebooks.com/20161209/Programming Reactive Extensions and LINQ.pdf
+http://file.allitebooks.com/20161204/Practical .NET for Financial Markets.pdf
+http://file.allitebooks.com/20170119/C- Programming Cookbook.pdf
+http://file.allitebooks.com/20161120/Multithreading with C- Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20161227/Learning Node.js for .NET Developers.pdf
+http://file.allitebooks.com/20170109/Windows 8 Apps Revealed Using XAML and C.pdf
+http://file.allitebooks.com/20161029/Professional Android Programming with Mono for Android and .NET  C-.pdf
+http://file.allitebooks.com/20161124/Begin to Code with C-.pdf
+http://file.allitebooks.com/20161026/Accelerated C- 2010.pdf
+http://file.allitebooks.com/20161120/Mastering C- Concurrency.pdf
+http://file.allitebooks.com/20160617/Programming Windows Store Apps with C.pdf
+http://file.allitebooks.com/20160809/Pro.Silverlight.5.in.CSharp.4th.EdB.pdf
+http://file.allitebooks.com/20161008/Reactive Web Applications.pdf
+http://file.allitebooks.com/20160712/Professional C- 6 and .NET Core 1.0.pdf
+http://file.allitebooks.com/20160524/Murachs ASP.NET 4.5 Web Programming with C- 2012 (5th edition).pdf
+http://file.allitebooks.com/20160414/Silverlight 2 in Action.pdf
+http://file.allitebooks.com/20160601/Refactoring with Microsoft Visual Studio 2010.pdf
+http://file.allitebooks.com/20160414/Beginning C- 6.0 Programming with Visual Studio 2015.pdf
+http://file.allitebooks.com/20160702/Xamarin Essentials.pdf
+http://file.allitebooks.com/20160103/Building an FPS Game with Unity.pdf
+http://file.allitebooks.com/20160314/Xamarin Crossplatform Application Development.pdf
+http://file.allitebooks.com/20160228/NuGet 2 Essentials.pdf
+http://file.allitebooks.com/20160104/Unity UI Cookbook.pdf
+http://file.allitebooks.com/20160225/Building Interactive Queries with LINQPad.pdf
+http://file.allitebooks.com/20151217/C- A Beginner's Tutorial, Second Edition.pdf
+http://file.allitebooks.com/20160228/Essential C-6.0, 5th Edition.pdf
+http://file.allitebooks.com/20151222/Professional iPhone Programming with MonoTouch and .NETC-.pdf
+http://file.allitebooks.com/20160104/Xamarin Mobile Development for Android Cookbook.pdf
+http://file.allitebooks.com/20151216/C-24-Hour Trainer, 2nd Edition.pdf
+http://file.allitebooks.com/20160812/Xamarin Mobile Application Development for iOS.pdf
+http://file.allitebooks.com/20151124/Starting out with Visual C2012, 3rd Edition.pdf
+http://file.allitebooks.com/20151213/Beginning Windows 8 Data Development.pdf
+http://file.allitebooks.com/20151207/C 5.0 Programmer's Reference.pdf
+http://file.allitebooks.com/20151208/Learning Object-oriented Programming in C 5.0.pdf
+http://file.allitebooks.com/20151125/Professional C- 2008.pdf
+http://file.allitebooks.com/20151203/Financial Modeling for Business Owners and Entrepreneurs.pdf
+http://file.allitebooks.com/20151210/Beginning Microsoft Visual C- 2008.pdf
+http://file.allitebooks.com/20151126/C 6.0 and the .NET 5 Framework, 7th edition.pdf
+http://file.allitebooks.com/20151211/C- 6.0 Cookbook.pdf
+http://file.allitebooks.com/20151125/Windows Phone 7.5 Unleashed.pdf
+http://file.allitebooks.com/20151111/Programming WCF Services, 4th Edition.pdf
+http://file.allitebooks.com/20151123/Beginning C- 3.0.pdf
+http://file.allitebooks.com/20150814/Unity 5 for Android Essentials.pdf
+http://file.allitebooks.com/20151029/SignalR - Real-time Application Development, Second Edition.pdf
+http://file.allitebooks.com/20151015/F for Quantitative Finance.pdf
+http://file.allitebooks.com/20150904/C- 3.0 The Complete Reference.pdf
+http://file.allitebooks.com/20150906/Adaptive Code via C-.pdf
+http://file.allitebooks.com/20151013/NGUI for Unity.pdf
+http://file.allitebooks.com/20151028/Visual C- 2012 How to Program, 5th Edition.pdf
+http://file.allitebooks.com/20151013/C- 6.0 Pocket Reference.pdf
+http://file.allitebooks.com/20150511/Concurrency in C- Cookbook.pdf
+http://file.allitebooks.com/20150511/Microsoft Mapping.pdf
+http://file.allitebooks.com/20150511/Windows Runtime via C-.pdf
+http://file.allitebooks.com/20150511/Beginning C- Object-Oriented Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20150511/A Programmer-s Guide to C- 5.0, 4th Edition.pdf
+http://file.allitebooks.com/20150731/C- 4.0 Unleashed.pdf
+http://file.allitebooks.com/20150511/C- 5.0 Programmer-s Reference.pdf
+http://file.allitebooks.com/20150712/C- 5.0 All-in-One For Dummies.pdf
+http://file.allitebooks.com/20150709/Xamarin Mobile Application Development- Cross-Platform C- and Xamarin.Forms Fundamentals.pdf
+http://file.allitebooks.com/20150807/Learning Unity Android Game Development.pdf
+http://file.allitebooks.com/20150713/Exploring Neural Networks with C-.pdf
+http://file.allitebooks.com/20150511/C- Multithreaded and Parallel Programming.pdf
+http://file.allitebooks.com/20150720/Pro XAML with C-- From Design to Deployment on WPF, Windows Store, and Windows Phone.pdf
+http://file.allitebooks.com/20150511/Professional C- 5.0 and .NET 4.5.1.pdf
+http://file.allitebooks.com/20150511/Head First C-, 3rd Edition.pdf
+http://file.allitebooks.com/20150731/Learning Object-Oriented Programming.pdf
+http://file.allitebooks.com/20150511/C- Deconstructed.pdf
+http://file.allitebooks.com/20150511/C- in Depth, 3rd Edition.pdf
+http://file.allitebooks.com/20150511/C- Quick Syntax Reference.pdf
+http://file.allitebooks.com/20150511/Beginning C- 5.0 Databases, 2nd Edition.pdf
+http://file.allitebooks.com/20150511/C- 5 First Look.pdf
+http://file.allitebooks.com/20150511/CLR via C-, 4th Edition.pdf
+http://file.allitebooks.com/20150511/C- Database Basics.pdf
+http://file.allitebooks.com/20150511/Microsoft Visual C- 2013 Step by Step.pdf
+http://file.allitebooks.com/20150511/C- 5.0 in a Nutshell, 5th Edition.pdf
+http://file.allitebooks.com/20150511/Beginning Visual C- 2012 Programming.pdf
+http://file.allitebooks.com/20150511/Async in C- 5.0.pdf
+http://file.allitebooks.com/20150511/C- 5.0 Pocket Reference.pdf
+http://file.allitebooks.com/20150511/Expert C- 5.0.pdf
+http://file.allitebooks.com/20150511/Beginning Object-Oriented Programming with C-.pdf
+http://file.allitebooks.com/20150511/Pro .NET Performance.pdf
+http://file.allitebooks.com/20150511/Functional Programming in C-.pdf
+http://file.allitebooks.com/20150511/Programming Entity Framework DbContext.pdf
+http://file.allitebooks.com/20150511/Professional C- 2012 and .NET 4.5.pdf
+http://file.allitebooks.com/20150511/Illustrated C- 2012, 4th Edition.pdf
+http://file.allitebooks.com/20150511/Pro C- 5.0 and the .NET 4.5 Framework, 6th Edition.pdf
+http://file.allitebooks.com/20150511/Programming C- 5.0.pdf
+http://file.allitebooks.com/20150511/Introducing .NET 4.5, 2nd Edition.pdf
+http://file.allitebooks.com/20150511/Beginning Visual C- 2010.pdf
+http://file.allitebooks.com/20150511/C- 4.0 in a Nutshell, 4th Edition.pdf
+http://file.allitebooks.com/20150511/C- 4, ASP.NET 4, and WPF, with Visual Studio 2010 Jump Start.pdf
+http://file.allitebooks.com/20150511/C- 4.0 Pocket Reference, 3rd Edition.pdf
+http://file.allitebooks.com/20150511/The C- Programming Language, 4th Edition.pdf
+http://file.allitebooks.com/20150511/C- in Depth, 2nd Edition.pdf
+http://file.allitebooks.com/20150511/C- 4.0 How-To.pdf
+http://file.allitebooks.com/20150511/C- 2010 All-in-One For Dummies.pdf
+http://file.allitebooks.com/20150511/Effective C-, 2nd Edition.pdf
+http://file.allitebooks.com/20150511/Professional Cross-Platform Mobile Development in C-.pdf
+http://file.allitebooks.com/20150511/Essential C- 4.0, 3rd Edition.pdf
+http://file.allitebooks.com/20150511/Head First C-, 2nd Edition.pdf
+http://file.allitebooks.com/20150511/Visual C- 2010 Recipes.pdf
+http://file.allitebooks.com/20150511/Sams Teach Yourself Visual C- 2010 in 24 Hours.pdf
+http://file.allitebooks.com/20150511/Pro C- 2010 and the .NET 4 Platform, 5th Edition.pdf
+http://file.allitebooks.com/20150511/Professional C- 4.0 and .NET 4.pdf
+http://file.allitebooks.com/20150511/Pro .NET 4 Parallel Programming in C-.pdf
+http://file.allitebooks.com/20150511/Introducing Visual C- 2010.pdf
+http://file.allitebooks.com/20150511/Microsoft Visual C- 2010 Step by Step.pdf
+http://file.allitebooks.com/20150511/Pro Silverlight 4 in C-.pdf
+http://file.allitebooks.com/20150511/Programming C- 4.0, 6th Edition.pdf
+http://file.allitebooks.com/20150511/LINQ to Objects Using C- 4.0.pdf
+http://file.allitebooks.com/20150511/Pro Silverlight 3 in C-.pdf
+http://file.allitebooks.com/20150511/LINQ Quickly.pdf
+http://file.allitebooks.com/20150511/Microsoft Visual C- 2008 Step by Step.pdf
+http://file.allitebooks.com/20150511/C- 3.0 Design Patterns.pdf
+http://file.allitebooks.com/20150511/Pro Silverlight 2 in C- 2008.pdf
+http://file.allitebooks.com/20150511/C- 2008 Programmer-s Reference.pdf
+http://file.allitebooks.com/20150511/Learning C- 3.0.pdf
+http://file.allitebooks.com/20150511/C- 3.0 Cookbook, 3rd Edition.pdf
+http://file.allitebooks.com/20150511/Expert C- 2008 Business Objects.pdf
+http://file.allitebooks.com/20150511/LINQ Unleashed for C-.pdf
+http://file.allitebooks.com/20150511/Illustrated C- 2005.pdf
+http://file.allitebooks.com/20150511/C- Essentials, 2nd Edition.pdf
+http://file.allitebooks.com/20150511/Pragmatic Unit Testing in C- with NUnit, 2nd Edition.pdf
+http://file.allitebooks.com/20150511/Programming C- 3.0, Fifth Edition.pdf
+http://file.allitebooks.com/20150511/Expert Service-Oriented Architecture In C-.pdf

@@ -1,0 +1,69 @@
+http://file.allitebooks.com/20160125/Swift 2 Blueprints.pdf
+http://file.allitebooks.com/20150811/Learning iOS 8 Game Development Using Swift.pdf
+http://file.allitebooks.com/20150811/Mastering Swift.pdf
+http://file.allitebooks.com/20161219/Beginning CareKit Development.pdf
+http://file.allitebooks.com/20151113/iOS 8 SDK Development, 2nd Edition.pdf
+http://file.allitebooks.com/20150811/Swift by Example.pdf
+http://file.allitebooks.com/20160607/OS X App Development with CloudKit and Swift.pdf
+http://file.allitebooks.com/20161120/Build iOS Database Apps with Swift and SQLite.pdf
+http://file.allitebooks.com/20150811/OpenStack Object Storage Swift Essentials.pdf
+http://file.allitebooks.com/20150807/Game Development with Swift.pdf
+http://file.allitebooks.com/20160519/Learning Swift.pdf
+http://file.allitebooks.com/20150627/Swift Cookbook.pdf
+http://file.allitebooks.com/20151125/Swift High Performance.pdf
+http://file.allitebooks.com/20161220/Swift 3 for Absolute Beginners, 3rd Edition.pdf
+http://file.allitebooks.com/20150627/Pro Design Patterns in Swift.pdf
+http://file.allitebooks.com/20151201/Swift Recipes.pdf
+http://file.allitebooks.com/20151028/Swift 2 For Absolute Beginners, 2nd Edition.pdf
+http://file.allitebooks.com/20161224/iOS 10 Swift Programming Cookbook.pdf
+http://file.allitebooks.com/20170412/Learning Swift, 2nd Edition.pdf
+http://file.allitebooks.com/20170404/macOS Programming for Absolute Beginners.pdf
+http://file.allitebooks.com/20160611/Object Oriented Programming with Swift 2.pdf
+http://file.allitebooks.com/20150807/iOS Swift Game Development Cookbook Second Edition.pdf
+http://file.allitebooks.com/20160110/Swift 2 Design Patterns.rar
+http://file.allitebooks.com/20160118/Beginning iPhone Development with Swift 2.pdf
+http://file.allitebooks.com/20161224/Agile Swift.pdf
+http://file.allitebooks.com/20150627/Swift Pocket Reference.pdf
+http://file.allitebooks.com/20160130/Program the Internet of Things with Swift for iOS.pdf
+http://file.allitebooks.com/20160104/Mastering Swift 2.pdf
+http://file.allitebooks.com/20150627/Migrating to Swift from Android.pdf
+http://file.allitebooks.com/20160110/Swift iOS 24-Hour Trainer.pdf
+http://file.allitebooks.com/20150627/Migrating to Swift from Web Development.pdf
+http://file.allitebooks.com/20161227/Swift Essentials, 2nd Edition.pdf
+http://file.allitebooks.com/20150905/More iPhone Development with Swift.pdf
+http://file.allitebooks.com/20151222/Developing for Apple TV using tvOS and Swift.pdf
+http://file.allitebooks.com/20160123/Application Development with Swift.pdf
+http://file.allitebooks.com/20150627/Swift Quick Syntax Reference.pdf
+http://file.allitebooks.com/20150627/Swift For Dummies.pdf
+http://file.allitebooks.com/20161020/Migrating to Swift from Flash and ActionScript.pdf
+http://file.allitebooks.com/20160802/Test-Driven iOS Development with Swift.pdf
+http://file.allitebooks.com/20160611/Protocol Oriented Programming with Swift.pdf
+http://file.allitebooks.com/20150627/Transitioning to Swift.pdf
+http://file.allitebooks.com/20151003/Swift OS X Programming for Absolute Beginners.pdf
+http://file.allitebooks.com/20150627/Swift Essentials.pdf
+http://file.allitebooks.com/20151227/Learning Swift 2 Programming, 2nd Edition.pdf
+http://file.allitebooks.com/20150627/Swift.pdf
+http://file.allitebooks.com/20170507/Beginning Swift Programming.pdf
+http://file.allitebooks.com/20170106/Mastering Swift 3 - Linux.pdf
+http://file.allitebooks.com/20150920/Swift Game Programming for Absolute Beginners.pdf
+http://file.allitebooks.com/20150627/Swift Development with Cocoa.pdf
+http://file.allitebooks.com/20170527/Beginning Swift Games Development for iOS.pdf
+http://file.allitebooks.com/20150811/Learning Swift.pdf
+http://file.allitebooks.com/20151211/Learn Swift On The Mac.pdf
+http://file.allitebooks.com/20160202/Learn Swift 2 on the Mac, Second Edition.pdf
+http://file.allitebooks.com/20161014/iOS 10 Programming Fundamentals with Swift.pdf
+http://file.allitebooks.com/20150627/Beginning Xcode Swift Edition.pdf
+http://file.allitebooks.com/20151215/Professional Swift.pdf
+http://file.allitebooks.com/20160115/Learning iOS UI Development.rar
+http://file.allitebooks.com/20161230/Swift 2 by Example.pdf
+http://file.allitebooks.com/20161120/Beginning iPhone Development with Swift 3, 3rd Edition.pdf
+http://file.allitebooks.com/20160611/Swift 2 Cookbook.pdf
+http://file.allitebooks.com/20160123/iOS 9 Programming Fundamentals with Swift.pdf
+http://file.allitebooks.com/20170701/iOS Code Testing.pdf
+http://file.allitebooks.com/20160825/Swift Development for the Apple Watch.pdf
+http://file.allitebooks.com/20161210/Beginning iPhone Development with Swift 3.pdf
+http://file.allitebooks.com/20150627/Swift for Absolute Beginners.pdf
+http://file.allitebooks.com/20161204/Practical Swift.pdf
+http://file.allitebooks.com/20151217/iOS 9 Swift Programming Cookbook.pdf
+http://file.allitebooks.com/20170711/Reactive Programming with Swift.pdf
+http://file.allitebooks.com/20150720/Swift for Beginners- Develop and Design.pdf

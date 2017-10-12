@@ -1,0 +1,19 @@
+http://file.allitebooks.com/20150525/Programming Perl, 4th Edition.pdf
+http://file.allitebooks.com/20160710/Graphics Programming with Perl.pdf
+http://file.allitebooks.com/20150525/PerlTk Pocket Reference.pdf
+http://file.allitebooks.com/20150525/Games, Diversions - Perl Culture.pdf
+http://file.allitebooks.com/20160410/The Definitive Guide to Catalyst.pdf
+http://file.allitebooks.com/20150525/Perl One-Liners.pdf
+http://file.allitebooks.com/20150525/Perl - LWP.pdf
+http://file.allitebooks.com/20150926/Pro Perl Debugging.pdf
+http://file.allitebooks.com/20161020/Learning Perl, 7th Edition.pdf
+http://file.allitebooks.com/20150525/Intermediate Perl, 2nd Edition.pdf
+http://file.allitebooks.com/20150525/Beginning Perl.pdf
+http://file.allitebooks.com/20150525/Perl Pocket Reference, 5th Edition.pdf
+http://file.allitebooks.com/20150525/Beginning Perl for Bioinformatics.pdf
+http://file.allitebooks.com/20150525/Mastering Perl, 2nd Edition.pdf
+http://file.allitebooks.com/20150525/Learning Perl, 6th Edition.pdf
+http://file.allitebooks.com/20160207/Catalyst 5.8- the Perl MVC Framework.pdf
+http://file.allitebooks.com/20150525/Perl and XML.pdf
+http://file.allitebooks.com/20150525/Mastering Algorithms with Perl.pdf
+http://file.allitebooks.com/20150930/Pro Perl.pdf

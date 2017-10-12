@@ -1,0 +1,160 @@
+http://file.allitebooks.com/20170827/Learning PHP 7.pdf
+http://file.allitebooks.com/20171002/Pro Functional PHP Programming.pdf
+http://file.allitebooks.com/20170305/Mastering Symfony.pdf
+http://file.allitebooks.com/20161222/PHP Beyond the Web.pdf
+http://file.allitebooks.com/20170314/Pro PHP Refactoring.pdf
+http://file.allitebooks.com/20170603/Building a Web Application with PHP and MariaDB.pdf
+http://file.allitebooks.com/20161230/Design Patterns in PHP and Laravel.pdf
+http://file.allitebooks.com/20170320/Programmer's Guide to Drupal, 2nd Edition.pdf
+http://file.allitebooks.com/20170101/PHP Arrays.pdf
+http://file.allitebooks.com/20170125/Laravel Up and Running.pdf
+http://file.allitebooks.com/20160826/Learn CakePHP, 2nd Edition.pdf
+http://file.allitebooks.com/20161220/PHP Objects, Patterns, and Practice.pdf
+http://file.allitebooks.com/20160928/Modular Programming with PHP 7.pdf
+http://file.allitebooks.com/20161117/PHP Development Tool Essentials.pdf
+http://file.allitebooks.com/20161220/PHP Persistence.pdf
+http://file.allitebooks.com/20160909/PHP CLI.pdf
+http://file.allitebooks.com/20161014/Learning PHP 7 High Performance.pdf
+http://file.allitebooks.com/20161110/PHP 7 Programming Cookbook.pdf
+http://file.allitebooks.com/20161011/PHP 7 Programming Blueprints.pdf
+http://file.allitebooks.com/20160818/Learning WordPress REST API.pdf
+http://file.allitebooks.com/20160623/PHP and MySQL Recipes.pdf
+http://file.allitebooks.com/20160818/Securing PHP Apps.pdf
+http://file.allitebooks.com/20160607/Smarty PHP Template Programming and Applications.pdf
+http://file.allitebooks.com/20160703/Zend Framework 2 Cookbook.pdf
+http://file.allitebooks.com/20160723/PHP in Action.pdf
+http://file.allitebooks.com/20160701/FuelPHP Application Development Blueprints.pdf
+http://file.allitebooks.com/20160706/Learning Yii Testing.pdf
+http://file.allitebooks.com/20160709/Mastering Yii.pdf
+http://file.allitebooks.com/20160626/Web Application Development with Yii 2 and PHP.pdf
+http://file.allitebooks.com/20160817/Typed PHP.pdf
+http://file.allitebooks.com/20160311/AJAX and PHP Building Modern Web Applications, 2nd Edition.pdf
+http://file.allitebooks.com/20160309/Learn PHP 7.pdf
+http://file.allitebooks.com/20160514/Pro Drupal as an Enterprise Development Platform.pdf
+http://file.allitebooks.com/20160307/WordPress 3.7 Complete, 3rd Edition.pdf
+http://file.allitebooks.com/20160521/Learning PHP.pdf
+http://file.allitebooks.com/20160321/PHP 6 and MySQL 5 for Dynamic Web Sites.pdf
+http://file.allitebooks.com/20160405/Kohana 3.0 Beginners Guide.pdf
+http://file.allitebooks.com/20160524/PHP 7 Quick Scripting Reference, Second Edition.pdf
+http://file.allitebooks.com/20160521/PHP and MySQL- Create - Modify - Reuse.pdf
+http://file.allitebooks.com/20160417/Learning PHP, MySQL & JavaScript, 4th Edition.pdf
+http://file.allitebooks.com/20160207/Expert PHP 5 Tools.pdf
+http://file.allitebooks.com/20160207/bbPress Complete.pdf
+http://file.allitebooks.com/20160220/Responsive Web Design with jQuery.pdf
+http://file.allitebooks.com/20160225/PHP for the Web, 4th Edition.pdf
+http://file.allitebooks.com/20160213/PHP 5 Social Networking.pdf
+http://file.allitebooks.com/20160202/Agile Web Application Development with Yii1.1 and PHP5.pdf
+http://file.allitebooks.com/20160218/Koha 3 Library Management System.pdf
+http://file.allitebooks.com/20160228/Programming with CodeIgniter MVC.pdf
+http://file.allitebooks.com/20160302/Sams Teach Yourself Ajax, JavaScript, and PHP All in One.pdf
+http://file.allitebooks.com/20160213/Pro PHP and jQuery, Second Edition.pdf
+http://file.allitebooks.com/20160115/Building E-Commerce Solutions with WooCommerce.pdf
+http://file.allitebooks.com/20160130/Make an E-commerce Site in a Weekend.pdf
+http://file.allitebooks.com/20151218/PHP & MySQL For Dummies, 4th Edition.pdf
+http://file.allitebooks.com/20151230/Magento 2 Developer's Guide.pdf
+http://file.allitebooks.com/20160110/PHP Web Services, 2nd Edition.pdf
+http://file.allitebooks.com/20151227/Build Gamified Websites with PHP and jQuery.pdf
+http://file.allitebooks.com/20151212/PHP Web 2.0 Mashup Projects.pdf
+http://file.allitebooks.com/20151213/Adobe Dreamweaver CS5 with PHP.pdf
+http://file.allitebooks.com/20160115/Jump Start PHP Environment.pdf
+http://file.allitebooks.com/20151217/Hack And Hhvm.pdf
+http://file.allitebooks.com/20151108/PHP 5 CMS Framework Development, 2nd Edition.pdf
+http://file.allitebooks.com/20151028/Yii2 By Example.pdf
+http://file.allitebooks.com/20151124/Zend Enterprise PHP Patterns.pdf
+http://file.allitebooks.com/20151125/PHP 5  MySQL Programming for the Absolute Beginner.pdf
+http://file.allitebooks.com/20151201/Web Programming with PHP and MySQL.pdf
+http://file.allitebooks.com/20151209/PHP Objects, Patterns, and Practice, 4th Edition.pdf
+http://file.allitebooks.com/20151013/Zend Framework 1 to 2 Migration Guide.pdf
+http://file.allitebooks.com/20151115/PHP The Ultimate.pdf
+http://file.allitebooks.com/20151211/PHPArchitect-s Guide to PHP 5 Migration.pdf
+http://file.allitebooks.com/20151008/Modernizing Legacy Applications in PHP.pdf
+http://file.allitebooks.com/20150828/Learning Laravel 4 Application Development.pdf
+http://file.allitebooks.com/20150830/Webbots, Spiders, and Screen Scrapers.pdf
+http://file.allitebooks.com/20150828/PHP jQuery Cookbook.pdf
+http://file.allitebooks.com/20150912/Learning Magento Theme Development.pdf
+http://file.allitebooks.com/20150823/Mastering Laravel.pdf
+http://file.allitebooks.com/20150930/Learning Phalcon PHP.pdf
+http://file.allitebooks.com/20150907/CodeIgniter Web Application Blueprints.pdf
+http://file.allitebooks.com/20150907/CakePHP 2 Application Cookbook.pdf
+http://file.allitebooks.com/20150921/Laravel Design Patterns and Best Practices.pdf
+http://file.allitebooks.com/20150907/Modern PHP.pdf
+http://file.allitebooks.com/20150823/Magento PHP Developer's Guide - Second Edition.pdf
+http://file.allitebooks.com/20150507/PHP5 and MySQL Bible.pdf
+http://file.allitebooks.com/20150507/The PHP Anthology, Volume 1.pdf
+http://file.allitebooks.com/20150714/Magento Responsive Theme Design.pdf
+http://file.allitebooks.com/20150807/PHP Ajax Cookbook.pdf
+http://file.allitebooks.com/20150731/Laravel 5 Essentials.pdf
+http://file.allitebooks.com/20150507/Core PHP Programming, 3rd Edition.pdf
+http://file.allitebooks.com/20150715/Persistence in PHP with Doctrine ORM.pdf
+http://file.allitebooks.com/20150507/The PHP Anthology, Volume 2.pdf
+http://file.allitebooks.com/20150819/Getting Started with Phalcon.pdf
+http://file.allitebooks.com/20150507/Pro PHP XML and Web Services.pdf
+http://file.allitebooks.com/20150507/PHP Programming with PEAR.pdf
+http://file.allitebooks.com/20150507/PHP in a Nutshell.pdf
+http://file.allitebooks.com/20150507/Beginning Ajax with PHP.pdf
+http://file.allitebooks.com/20150507/AJAX and PHP.pdf
+http://file.allitebooks.com/20150507/PHP 5 Recipes.pdf
+http://file.allitebooks.com/20150507/Learning PHP 5.pdf
+http://file.allitebooks.com/20150507/phparchitect's Guide to PHP Design Patterns.pdf
+http://file.allitebooks.com/20150507/Advanced PHP Programming.pdf
+http://file.allitebooks.com/20150507/PHP and MySQL For Dummies, 3rd Edition.pdf
+http://file.allitebooks.com/20150506/PHP & MySQL Web Development All-in-One Desk Reference For Dummies.pdf
+http://file.allitebooks.com/20150507/Learning PHP & MySQL, 2nd Edition.pdf
+http://file.allitebooks.com/20150506/Professional PHP6.pdf
+http://file.allitebooks.com/20150507/Wicked Cool PHP.pdf
+http://file.allitebooks.com/20150507/The Definitive Guide to symfony.pdf
+http://file.allitebooks.com/20150507/CodeIgniter for Rapid PHP Application Development.pdf
+http://file.allitebooks.com/20150507/Practical Web 2.0 Applications with PHP.pdf
+http://file.allitebooks.com/20150506/Beginning PHP and MySQL E-Commerce, 2nd Edition.pdf
+http://file.allitebooks.com/20150507/Object-Oriented Programming with PHP5.pdf
+http://file.allitebooks.com/20150506/CakePHP Application Development.pdf
+http://file.allitebooks.com/20150505/PHP 6 and MySQL 6 Bible.pdf
+http://file.allitebooks.com/20150506/PHP and MySQL For Dummies, 4th Edition.pdf
+http://file.allitebooks.com/20150506/Practical CakePHP Projects.pdf
+http://file.allitebooks.com/20150505/Build Your Own Database Driven Web Site Using PHP & MySQL, 4th Edition.pdf
+http://file.allitebooks.com/20150505/Beginning PHP 6, Apache, MySQL 6 Web Development.pdf
+http://file.allitebooks.com/20150506/Pro Zend Framework Techniques.pdf
+http://file.allitebooks.com/20150506/PHP and script.aculo.us Web 2.0 Application Interfaces.pdf
+http://file.allitebooks.com/20150506/PHP Team Development.pdf
+http://file.allitebooks.com/20150506/PHP and MySQL Web Development, 4th Edition.pdf
+http://file.allitebooks.com/20150505/Pro PHP Security, 2nd Edition.pdf
+http://file.allitebooks.com/20150501/PHP 5 E-commerce Development.pdf
+http://file.allitebooks.com/20150505/PHP Objects, Patterns and Practice, 3rd Edition.pdf
+http://file.allitebooks.com/20150505/PHP The Good Parts.pdf
+http://file.allitebooks.com/20150501/Pro PHP Programming.pdf
+http://file.allitebooks.com/20150501/Real-World Solutions for Developing High-Quality PHP Frameworks and Applications.pdf
+http://file.allitebooks.com/20150505/Plug-In PHP 100 Power Solutions.pdf
+http://file.allitebooks.com/20150501/Expert PHP and MySQL.pdf
+http://file.allitebooks.com/20150505/Pro PHP and jQuery.pdf
+http://file.allitebooks.com/20150501/Beginning PHP and MySQL, 4th Edition.pdf
+http://file.allitebooks.com/20150501/CMS Design Using PHP and jQuery.pdf
+http://file.allitebooks.com/20150430/Building PHP Applications with Symfony, CakePHP, and Zend Framework.pdf
+http://file.allitebooks.com/20150501/PHP Master.pdf
+http://file.allitebooks.com/20150430/PHP & MySQL The Missing Manual, 2nd Edition.pdf
+http://file.allitebooks.com/20150430/Integrating PHP with Windows.pdf
+http://file.allitebooks.com/20150501/PHP and MySQL 24-Hour Trainer.pdf
+http://file.allitebooks.com/20150430/PHP & MySQL Novice to Ninja, 5th Edition.pdf
+http://file.allitebooks.com/20150429/PHP Advanced and Object-Oriented Programming, 3rd Edition.pdf
+http://file.allitebooks.com/20150429/PHP Application Development with NetBeans.pdf
+http://file.allitebooks.com/20150430/Beginning PHP 5.3.pdf
+http://file.allitebooks.com/20150501/PHP and MongoDB Web Development.pdf
+http://file.allitebooks.com/20150428/Magento PHP Developer's Guide.pdf
+http://file.allitebooks.com/20150429/Programming PHP, 3rd Edition.pdf
+http://file.allitebooks.com/20150429/Instant PHP Web Scraping.pdf
+http://file.allitebooks.com/20150429/Practical PHP and MySQL Website Databases.pdf
+http://file.allitebooks.com/20150429/PHP Objects, Patterns, and Practice, 4th Edition.pdf
+http://file.allitebooks.com/20150429/PHP Web Services.pdf
+http://file.allitebooks.com/20150429/Pro PHP MVC.pdf
+http://file.allitebooks.com/20150429/Zend Framework 2.0 by Example.pdf
+http://file.allitebooks.com/20150429/Learning PHP Design Patterns.pdf
+http://file.allitebooks.com/20150429/PHP Quick Scripting Reference.pdf
+http://file.allitebooks.com/20150428/Learning PHP Design Patterns.pdf
+http://file.allitebooks.com/20150428/PHP Cookbook, 3rd Edition.pdf
+http://file.allitebooks.com/20150428/Instant Simple Botting with PHP.pdf
+http://file.allitebooks.com/20150428/Getting Started with Laravel 4.pdf
+http://file.allitebooks.com/20150428/Expert PHP and MySQL.pdf
+http://file.allitebooks.com/20150428/PHPUnit Essentials.pdf
+http://file.allitebooks.com/20150428/Extending Symfony2 Web Application Framework.pdf
+http://file.allitebooks.com/20150428/PHP Solutions, 3rd Edition.pdf
+http://file.allitebooks.com/20150428/Jump Start PHP.pdf
+http://file.allitebooks.com/20150428/PHP for Absolute Beginners, 2nd Edition.pdf

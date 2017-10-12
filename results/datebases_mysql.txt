@@ -1,0 +1,50 @@
+http://file.allitebooks.com/20150506/Beginning PHP and MySQL E-Commerce, 2nd Edition.pdf
+http://file.allitebooks.com/20151113/Beginning PHP5, Apache, and MySQL Web Development.pdf
+http://file.allitebooks.com/20151120/JDBC Metadata, MySQL, and Oracle Recipes.pdf
+http://file.allitebooks.com/20150908/Learning MySQL and MariaDB.pdf
+http://file.allitebooks.com/20150506/PHP and MySQL For Dummies, 4th Edition.pdf
+http://file.allitebooks.com/20150428/MySQL Management and Administration with Navicat.pdf
+http://file.allitebooks.com/20150428/Mastering phpMyAdmin 3.4 for Effective MySQL Management.pdf
+http://file.allitebooks.com/20150428/InnoDB.pdf
+http://file.allitebooks.com/20150501/Beginning PHP and MySQL, 4th Edition.pdf
+http://file.allitebooks.com/20150430/MySQL Troubleshooting.pdf
+http://file.allitebooks.com/20150428/Expert MySQL, 2nd Edition.pdf
+http://file.allitebooks.com/20150428/High Performance MySQL, 3rd Edition.pdf
+http://file.allitebooks.com/20150428/Getting Started with MariaDB.pdf
+http://file.allitebooks.com/20150503/MySQL Stored Procedure Programming.pdf
+http://file.allitebooks.com/20151201/Web Programming with PHP and MySQL.pdf
+http://file.allitebooks.com/20150430/PHP & MySQL The Missing Manual, 2nd Edition.pdf
+http://file.allitebooks.com/20150503/MySQL Enterprise Solutions.pdf
+http://file.allitebooks.com/20150503/The Definitive Guide to MySQL 5, 3rd Edition.pdf
+http://file.allitebooks.com/20150430/High Availability MySQL Cookbook.pdf
+http://file.allitebooks.com/20150503/Pro MySQL.pdf
+http://file.allitebooks.com/20150503/MySQL Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150503/Creating your MySQL Database.pdf
+http://file.allitebooks.com/20151115/PHP The Ultimate.pdf
+http://file.allitebooks.com/20150731/Jump Start MySQL.pdf
+http://file.allitebooks.com/20150506/PHP & MySQL Web Development All-in-One Desk Reference For Dummies.pdf
+http://file.allitebooks.com/20150428/MySQL High Availability, 2nd Edition.pdf
+http://file.allitebooks.com/20150506/PHP and MySQL Web Development, 4th Edition.pdf
+http://file.allitebooks.com/20150430/MySQL High Availability.pdf
+http://file.allitebooks.com/20150430/MySQL Administrator's Bible.pdf
+http://file.allitebooks.com/20150430/High Performance MySQL, 2nd Edition.pdf
+http://file.allitebooks.com/20150430/MySQL 5.1 Plugin Development.pdf
+http://file.allitebooks.com/20150430/Mastering phpMyAdmin 3.3.x for Effective MySQL Management.pdf
+http://file.allitebooks.com/20151125/PHP 5  MySQL Programming for the Absolute Beginner.pdf
+http://file.allitebooks.com/20150430/MySQL, 4th Edition.pdf
+http://file.allitebooks.com/20150430/Understanding MySQL Internals.pdf
+http://file.allitebooks.com/20150430/PHP & MySQL Novice to Ninja, 5th Edition.pdf
+http://file.allitebooks.com/20150430/MySQL Pocket Reference, 2nd Edition.pdf
+http://file.allitebooks.com/20150503/Learning MySQL.pdf
+http://file.allitebooks.com/20150428/PHP Cookbook, 3rd Edition.pdf
+http://file.allitebooks.com/20160312/MariaDB Cookbook.pdf
+http://file.allitebooks.com/20160623/PHP and MySQL Recipes.pdf
+http://file.allitebooks.com/20160321/PHP 6 and MySQL 5 for Dynamic Web Sites.pdf
+http://file.allitebooks.com/20160521/PHP and MySQL- Create - Modify - Reuse.pdf
+http://file.allitebooks.com/20160417/Learning PHP, MySQL & JavaScript, 4th Edition.pdf
+http://file.allitebooks.com/20160902/MySQL for the Internet of Things.pdf
+http://file.allitebooks.com/20160825/Murach s MySQL, 2nd Edition.pdf
+http://file.allitebooks.com/20160922/Mastering Phpmyadmin for Effective MySQL Management.pdf
+http://file.allitebooks.com/20150430/MySQL in a Nutshell, 2nd Edition.pdf
+http://file.allitebooks.com/20161117/PHP Development Tool Essentials.pdf
+http://file.allitebooks.com/20151218/PHP & MySQL For Dummies, 4th Edition.pdf

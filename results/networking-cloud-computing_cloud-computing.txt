@@ -1,0 +1,62 @@
+http://file.allitebooks.com/20160407/Cloud Computing.pdf
+http://file.allitebooks.com/20160328/Beginning Mobile Application Development in the Cloud.pdf
+http://file.allitebooks.com/20160819/OpenShift for Developers.pdf
+http://file.allitebooks.com/20160402/The Cloud at Your Service.pdf
+http://file.allitebooks.com/20160524/Using Chef with Microsoft Azure.pdf
+http://file.allitebooks.com/20150725/Hardening Azure Applications.pdf
+http://file.allitebooks.com/20160323/Cloud Computing and Security.pdf
+http://file.allitebooks.com/20161029/Professional Hadoop.pdf
+http://file.allitebooks.com/20161029/AWS For Admins For Dummies.pdf
+http://file.allitebooks.com/20150830/Microsoft Azure Essentials.pdf
+http://file.allitebooks.com/20150807/Implementing VMware vCenter Server.pdf
+http://file.allitebooks.com/20170427/How to Do Everything iCloud, 2nd Edition.pdf
+http://file.allitebooks.com/20171005/Website Hosting and Migration with Amazon Web Services.pdf
+http://file.allitebooks.com/20161108/Certified OpenStack Administrator Study Guide.pdf
+http://file.allitebooks.com/20150731/Implementing Cloud Design Patterns for AWS.pdf
+http://file.allitebooks.com/20170512/CCSP (ISC)2 Certified Cloud Security Professional Official Study Guide.pdf
+http://file.allitebooks.com/20150825/Getting Started with Citrix CloudPortal.pdf
+http://file.allitebooks.com/20150811/Mastering vRealize Operations Manager.pdf
+http://file.allitebooks.com/20151203/Cloud Database Development and Management.pdf
+http://file.allitebooks.com/20151215/Amazon EC2 Cookbook.pdf
+http://file.allitebooks.com/20160317/Guide to Security Assurance for Cloud Computing.pdf
+http://file.allitebooks.com/20151216/Cloud Management and Security.pdf
+http://file.allitebooks.com/20151203/PhoneGap Build.pdf
+http://file.allitebooks.com/20150829/Learning Hyper-V.pdf
+http://file.allitebooks.com/20161224/Extending SaltStack.pdf
+http://file.allitebooks.com/20161025/The Official (ISC)2 Guide to the CCSP CBK, 2nd Edition.pdf
+http://file.allitebooks.com/20150828/Architecting the Cloud.pdf
+http://file.allitebooks.com/20170413/The Definitive Guide to MongoDB.pdf
+http://file.allitebooks.com/20161123/Implementing Operations Management Suite.pdf
+http://file.allitebooks.com/20150823/Learning AWS.pdf
+http://file.allitebooks.com/20160316/Mobile Cloud Visual Media Computing.pdf
+http://file.allitebooks.com/20161212/Cloud Essentials.pdf
+http://file.allitebooks.com/20160324/Building Web Services with Microsoft Azure.pdf
+http://file.allitebooks.com/20151228/Monitoring Docker.pdf
+http://file.allitebooks.com/20150817/Zen of Cloud- Learning Cloud Computing.pdf
+http://file.allitebooks.com/20160104/Learning Couchbase.pdf
+http://file.allitebooks.com/20171011/Troubleshooting Citrix XenDesktop.pdf
+http://file.allitebooks.com/20160316/Cloud Networking for Big Data.pdf
+http://file.allitebooks.com/20170111/Deploying Rails with Docker, Kubernetes and ECS.pdf
+http://file.allitebooks.com/20161206/Windows Azure Platform, 2nd Edition.pdf
+http://file.allitebooks.com/20161224/Cloud as a Service.pdf
+http://file.allitebooks.com/20160215/Hybrid Cloud For Dummies.pdf
+http://file.allitebooks.com/20161222/Cloud Computing Networking.pdf
+http://file.allitebooks.com/20170810/OpenStack Networking Essentials.pdf
+http://file.allitebooks.com/20150717/Salesforce Reporting and Dashboards.pdf
+http://file.allitebooks.com/20170224/The Cloud DBA-Oracle.pdf
+http://file.allitebooks.com/20150731/Mastering AWS Development.pdf
+http://file.allitebooks.com/20170810/OpenStack Networking Cookbook.pdf
+http://file.allitebooks.com/20151003/Cloud Portability and Interoperability (SpringerBriefs in Computer Science).pdf
+http://file.allitebooks.com/20151217/Learning OpenStack High Availability.pdf
+http://file.allitebooks.com/20150731/Gephi Cookbook.pdf
+http://file.allitebooks.com/20151105/Securing Cloud Services.pdf
+http://file.allitebooks.com/20150930/Mastering SaltStack.pdf
+http://file.allitebooks.com/20151028/Troubleshooting Ubuntu Server.pdf
+http://file.allitebooks.com/20151006/Adobe Creative Cloud Design Tools All-in-One For Dummies.pdf
+http://file.allitebooks.com/20150912/Service Quality of Cloud Based Applications.pdf
+http://file.allitebooks.com/20150920/OpenStack Trove.pdf
+http://file.allitebooks.com/20150926/VMware Virtual SAN Cookbook.pdf
+http://file.allitebooks.com/20170219/OpenStack Trove Essentials.pdf
+http://file.allitebooks.com/20151125/OpenStack Cloud Application Development.pdf
+http://file.allitebooks.com/20151129/Cloud Computing For Dummies.pdf
+http://file.allitebooks.com/20161222/OpenStack Cloud Security.pdf

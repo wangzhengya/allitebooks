@@ -1,0 +1,113 @@
+http://file.allitebooks.com/20170709/Building Web Applications with Visual Studio 2017.pdf
+http://file.allitebooks.com/20170204/Beginning Silverlight 2.pdf
+http://file.allitebooks.com/20170318/Regular Expression Recipes for Windows Developers.pdf
+http://file.allitebooks.com/20170725/Beginning Windows Mixed Reality Programming.pdf
+http://file.allitebooks.com/20170726/Essential Angular for ASP.NET Core MVC.pdf
+http://file.allitebooks.com/20170817/Artificial Intelligence for .NET.pdf
+http://file.allitebooks.com/20170125/JavaScript for .NET Developers.pdf
+http://file.allitebooks.com/20170510/Xamarin Continuous Integration and Delivery.pdf
+http://file.allitebooks.com/20170301/Code Generation with Roslyn.pdf
+http://file.allitebooks.com/20170719/Cyber Security on Azure.pdf
+http://file.allitebooks.com/20161209/Dependency Injection in .NET.pdf
+http://file.allitebooks.com/20161215/Microsoft Windows Workflow Foundation 4.0 Cookbook.pdf
+http://file.allitebooks.com/20161209/Programming Reactive Extensions and LINQ.pdf
+http://file.allitebooks.com/20161202/Using Windows 8.1.pdf
+http://file.allitebooks.com/20161202/Entity Framework 6 Recipes, 2nd Edition.pdf
+http://file.allitebooks.com/20161227/Learning Node.js for .NET Developers.pdf
+http://file.allitebooks.com/20161129/Deploying SharePoint 2016.pdf
+http://file.allitebooks.com/20161205/Essential Excel 2016.pdf
+http://file.allitebooks.com/20161204/Practical .NET for Financial Markets.pdf
+http://file.allitebooks.com/20161210/SharePoint 2016 User's Guide, 5th Edition.pdf
+http://file.allitebooks.com/20161029/Professional Android Programming with Mono for Android and .NET  C-.pdf
+http://file.allitebooks.com/20161106/Develop Microsoft HoloLens Apps Now.pdf
+http://file.allitebooks.com/20160903/Visual Studio 2015 Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20160916/Pro ASP.NET Core MVC, 6th Edition.pdf
+http://file.allitebooks.com/20160809/Pro Silverlight 5 in VB, 4th Edition.pdf
+http://file.allitebooks.com/20160903/Microsoft Visual Studio 2015 Unleashed, 3rd Edition.pdf
+http://file.allitebooks.com/20160809/Pro.Silverlight.5.in.CSharp.4th.EdB.pdf
+http://file.allitebooks.com/20160908/Mastering .NET Machine Learning.pdf
+http://file.allitebooks.com/20161127/Practical Microsoft Visual Studio 2015.pdf
+http://file.allitebooks.com/20161002/Implementing DirectAccess with Windows Server 2016.pdf
+http://file.allitebooks.com/20160708/ReSharper Essentials.pdf
+http://file.allitebooks.com/20160718/Pro ASP.NET MVC V2 Framework.pdf
+http://file.allitebooks.com/20160701/Software Testing using Visual Studio 2012.pdf
+http://file.allitebooks.com/20160517/NHibernate 3 Beginner's Guide.pdf
+http://file.allitebooks.com/20160712/Professional C- 6 and .NET Core 1.0.pdf
+http://file.allitebooks.com/20160524/Murachs ASP.NET 4.5 Web Programming with VB 2012, 5th Edition.pdf
+http://file.allitebooks.com/20160704/NET Development Using the Compiler API.pdf
+http://file.allitebooks.com/20160524/Murachs ASP.NET 4.5 Web Programming with C- 2012 (5th edition).pdf
+http://file.allitebooks.com/20160601/Refactoring with Microsoft Visual Studio 2010.pdf
+http://file.allitebooks.com/20160524/Murachs Visual Basic 2012, 5th Edition.pdf
+http://file.allitebooks.com/20160514/Pro Business Applications with Silverlight 5, 2nd edition.pdf
+http://file.allitebooks.com/20160117/Visual Studio Lightswitch 2015, 2nd Edition.pdf
+http://file.allitebooks.com/20160517/.NET Compact Framework 3.5 Data Driven Applications.pdf
+http://file.allitebooks.com/20160510/Microsoft Visual Studio LightSwitch Business Application Development.pdf
+http://file.allitebooks.com/20160517/NHibernate 2.x Beginner's Guide.pdf
+http://file.allitebooks.com/20160228/Essential C-6.0, 5th Edition.pdf
+http://file.allitebooks.com/20160119/Expert F- 3.0, 3rd edition.pdf
+http://file.allitebooks.com/20160323/LINQ For Dummies.pdf
+http://file.allitebooks.com/20160330/Pro Visual Studio LightSwitch 2011 Development.pdf
+http://file.allitebooks.com/20160118/Pro Agile .NET Development with SCRUM.pdf
+http://file.allitebooks.com/20151211/Building Windows 8 Apps From The Ground Up.pdf
+http://file.allitebooks.com/20151213/Beginning Windows 8 Data Development.pdf
+http://file.allitebooks.com/20151205/Professional Visual Studio 2012.pdf
+http://file.allitebooks.com/20151206/Professional Visual Basic 2012 and .NET 4.5 Programming.pdf
+http://file.allitebooks.com/20151120/NET 2.0 Interoperability Recipes.pdf
+http://file.allitebooks.com/20151208/Pro NuGet, 2nd Edition.pdf
+http://file.allitebooks.com/20151116/Illustrated WPF.pdf
+http://file.allitebooks.com/20151126/C 6.0 and the .NET 5 Framework, 7th edition.pdf
+http://file.allitebooks.com/20151206/Pro WF 4.5.pdf
+http://file.allitebooks.com/20151214/Building Windows 8.1 Apps From The Ground Up.pdf
+http://file.allitebooks.com/20150811/Getting Started with Knockoutdotjs for .NET Developers.pdf
+http://file.allitebooks.com/20150905/Code-First Development with Entity Framework.pdf
+http://file.allitebooks.com/20150720/Machine Learning Projects for .NET Developers.pdf
+http://file.allitebooks.com/20150905/Mastering Entity Framework.pdf
+http://file.allitebooks.com/20151019/Visual Studio 2013 Cookbook.pdf
+http://file.allitebooks.com/20151105/Extending SSIS with .NET Scripting.pdf
+http://file.allitebooks.com/20150719/Mastering Ninject for Dependency Injection.pdf
+http://file.allitebooks.com/20150811/Learning dotNET High performance Programming.pdf
+http://file.allitebooks.com/20151011/Pro .NET 2.0 XML (Expert-s Voice in .NET).pdf
+http://file.allitebooks.com/20150926/Visual Studio 2013 and .NET 4.5 Expert Cookbook.pdf
+http://file.allitebooks.com/20150519/Beginning ArcGIS for Desktop Development using .NET.pdf
+http://file.allitebooks.com/20150519/Microsoft .NET - Architecting Applications for the Enterprise, 2nd Edition.pdf
+http://file.allitebooks.com/20150519/Microsoft .NET Framework 4.5 Quickstart Cookbook.pdf
+http://file.allitebooks.com/20150519/Thinking in LINQ.pdf
+http://file.allitebooks.com/20150519/AOP in .NET.pdf
+http://file.allitebooks.com/20150519/F- for C- Developers.pdf
+http://file.allitebooks.com/20160801/.NET IL Assembler.pdf
+http://file.allitebooks.com/20150519/Microsoft ADO.NET Entity Framework Step by Step.pdf
+http://file.allitebooks.com/20150519/.Net Framework 4.5 Expert Programming Cookbook.pdf
+http://file.allitebooks.com/20150709/Pro HTML5 with Visual Studio 2015.pdf
+http://file.allitebooks.com/20150519/Developer-s Guide to Collections in Microsoft .NET.pdf
+http://file.allitebooks.com/20150519/Entity Framework 4 in Action.pdf
+http://file.allitebooks.com/20150519/Getting Started with .NET Gadgeteer.pdf
+http://file.allitebooks.com/20150519/Continuous Integration in .NET.pdf
+http://file.allitebooks.com/20150519/Pro Asynchronous Programming with .NET.pdf
+http://file.allitebooks.com/20150519/OData Programming Cookbook for .NET Developers.pdf
+http://file.allitebooks.com/20150519/Pro WPF 4.5 in C-, 4th Edition.pdf
+http://file.allitebooks.com/20150519/Visual Studio 2012 and .NET 4.5 Expert Development Cookbook.pdf
+http://file.allitebooks.com/20150519/Pro .NET Best Practices.pdf
+http://file.allitebooks.com/20150519/Metaprogramming in .NET.pdf
+http://file.allitebooks.com/20150519/Working with NHibernate 3.0.pdf
+http://file.allitebooks.com/20150519/Programming Entity Framework Code First.pdf
+http://file.allitebooks.com/20150519/Programming Entity Framework, 2nd Edition.pdf
+http://file.allitebooks.com/20150519/NHibernate 2.pdf
+http://file.allitebooks.com/20150519/Microsoft ADO.NET 4 Step by Step.pdf
+http://file.allitebooks.com/20150519/Practical Code Generation in .NET.pdf
+http://file.allitebooks.com/20150519/Pro Dynamic .NET 4.0 Applications.pdf
+http://file.allitebooks.com/20150519/Pro DLR in .NET 4.pdf
+http://file.allitebooks.com/20150519/Start Here! Fundamentals of Microsoft .NET Programming.pdf
+http://file.allitebooks.com/20150519/Pro VB 2010 and the .NET 4.0 Platform.pdf
+http://file.allitebooks.com/20150519/Expert .NET Micro Framework.pdf
+http://file.allitebooks.com/20150519/Programming F-.pdf
+http://file.allitebooks.com/20150519/Pro Scalable .NET 2.0 Application Designs.pdf
+http://file.allitebooks.com/20150519/Pro LINQ.pdf
+http://file.allitebooks.com/20150519/LINQ in Action.pdf
+http://file.allitebooks.com/20150519/Windows Communication Foundation 4 Step by Step.pdf
+http://file.allitebooks.com/20150519/Beginning WF.pdf
+http://file.allitebooks.com/20150519/Visual Studio 2010 and .NET 4 Six-in-One.pdf
+http://file.allitebooks.com/20150519/Professional WPF Programming.pdf
+http://file.allitebooks.com/20150519/Programming Microsoft LINQ in Microsoft .NET Framework 4.pdf
+http://file.allitebooks.com/20150519/Professional Crystal Reports for Visual Studio .NET, 2nd Edition.pdf
+http://file.allitebooks.com/20150519/.NET Framework Essentials, 2nd Edition.pdf
+http://file.allitebooks.com/20150519/Applied XML Programming for Microsoft .NET.pdf

@@ -1,0 +1,118 @@
+http://file.allitebooks.com/20160324/Learning VMware vCloud Air.pdf
+http://file.allitebooks.com/20160421/Bioinformatics with Python Cookbook.pdf
+http://file.allitebooks.com/20161212/VMware vSphere Performance.pdf
+http://file.allitebooks.com/20161227/VMware vRealize Orchestrator Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20170623/Procedural Content Generation for C++ Game Development.pdf
+http://file.allitebooks.com/20160505/Ext JS 4 First Look.pdf
+http://file.allitebooks.com/20160324/Mastering VMware vSphere Storage.pdf
+http://file.allitebooks.com/20160320/Word 2016 For Dummies.pdf
+http://file.allitebooks.com/20170101/Applied OpenStack Design Patterns.pdf
+http://file.allitebooks.com/20161212/VMware vSphere For Dummies.pdf
+http://file.allitebooks.com/20150527/Networking for VMware Administrators.pdf
+http://file.allitebooks.com/20160120/Android NDK Game Development Cookbook.pdf
+http://file.allitebooks.com/20160101/Optimizing Citrix XenDesktop for High Performance.pdf
+http://file.allitebooks.com/20160314/Hyper-V Best Practices.pdf
+http://file.allitebooks.com/20150527/Mobile Clouds.pdf
+http://file.allitebooks.com/20150527/OpenStack Swift.pdf
+http://file.allitebooks.com/20150527/Mule in Action, 2nd Edition.pdf
+http://file.allitebooks.com/20150527/Network Virtualization and Cloud Computing.pdf
+http://file.allitebooks.com/20160103/VMware vRealize Operations Essentials.pdf
+http://file.allitebooks.com/20150527/OpenStack Operations Guide.pdf
+http://file.allitebooks.com/20150527/Pro Microsoft HDInsight.pdf
+http://file.allitebooks.com/20150527/VMware vCenter Operations Manager Essentials.pdf
+http://file.allitebooks.com/20150527/Proxmox High Availability.pdf
+http://file.allitebooks.com/20150527/VMware Horizon 6 Desktop Virtualization Solutions.pdf
+http://file.allitebooks.com/20150527/VMware vRealize Operations Performance and Capacity Management.pdf
+http://file.allitebooks.com/20150527/VMware ESXi Cookbook.pdf
+http://file.allitebooks.com/20150527/VMware Horizon View Essentials.pdf
+http://file.allitebooks.com/20150527/VMware Horizon View 6.0 Desktop Virtualization Cookbook.pdf
+http://file.allitebooks.com/20150527/VMware vSphere Resource Management Essentials.pdf
+http://file.allitebooks.com/20150527/OpenVZ Essentials.pdf
+http://file.allitebooks.com/20150527/Hyper-V Replica Essentials.pdf
+http://file.allitebooks.com/20150527/Apache CloudStack Cloud Computing.pdf
+http://file.allitebooks.com/20150527/vSphere Virtual Machine Management.pdf
+http://file.allitebooks.com/20150527/Amazon Web Services For Dummies.pdf
+http://file.allitebooks.com/20150527/vSphere Design Best Practices.pdf
+http://file.allitebooks.com/20150527/Cloud Capacity Management.pdf
+http://file.allitebooks.com/20150527/Heroku Up and Running.pdf
+http://file.allitebooks.com/20150527/Cloud Management with App Controller.pdf
+http://file.allitebooks.com/20150527/Citrix XenDesktop 5.6 Cookbook.pdf
+http://file.allitebooks.com/20150527/Creating Development Environments with Vagrant.pdf
+http://file.allitebooks.com/20150527/Optimizing and Troubleshooting Hyper-V Storage.pdf
+http://file.allitebooks.com/20150527/Implementing Citrix XenServer Quickstarter.pdf
+http://file.allitebooks.com/20150527/Mobile Web Browsing Using the Cloud.pdf
+http://file.allitebooks.com/20150527/Programming Elastic MapReduce.pdf
+http://file.allitebooks.com/20150527/Implementing VMware Horizon View 5.2.pdf
+http://file.allitebooks.com/20150527/Learning AWS OpsWorks.pdf
+http://file.allitebooks.com/20150527/OpenStack Cloud Computing Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150527/Hyper-V Server Virtualization Starter.pdf
+http://file.allitebooks.com/20150527/Optimizing and Troubleshooting Hyper-V Networking.pdf
+http://file.allitebooks.com/20150527/Professional Heroku Programming.pdf
+http://file.allitebooks.com/20150527/Building a Windows IT Infrastructure in the Cloud.pdf
+http://file.allitebooks.com/20150527/Windows Server 2012 Hyper-V.pdf
+http://file.allitebooks.com/20150527/Arista Warrior.pdf
+http://file.allitebooks.com/20150527/Windows Azure Web Sites.pdf
+http://file.allitebooks.com/20150527/Rethinking Enterprise Storage A Hybrid Cloud Model.pdf
+http://file.allitebooks.com/20150527/VMware Workstation - No Experience Necessary.pdf
+http://file.allitebooks.com/20150527/Windows Azure Mobile Services.pdf
+http://file.allitebooks.com/20150527/Windows Azure Hybrid Cloud.pdf
+http://file.allitebooks.com/20150527/Resilience and Reliability on AWS.pdf
+http://file.allitebooks.com/20150527/Programming for PaaS.pdf
+http://file.allitebooks.com/20150527/Microsoft Windows Intune 2.0 Quickstart Administration.pdf
+http://file.allitebooks.com/20150527/Understanding PaaS.pdf
+http://file.allitebooks.com/20150527/Programming Microsoft-s Clouds.pdf
+http://file.allitebooks.com/20150527/OpenStack Cloud Computing Cookbook.pdf
+http://file.allitebooks.com/20150527/Microsoft Application Virtualization Advanced Guide.pdf
+http://file.allitebooks.com/20150527/Getting Started with Mule Cloud Connect.pdf
+http://file.allitebooks.com/20150527/Cloud Architecture Patterns.pdf
+http://file.allitebooks.com/20150527/Microsoft Virtualization Secrets.pdf
+http://file.allitebooks.com/20150527/Service Virtualization.pdf
+http://file.allitebooks.com/20150527/Getting Started with Citrix XenApp 6.5.pdf
+http://file.allitebooks.com/20150527/Cloud Computing Bible.pdf
+http://file.allitebooks.com/20150527/Virtualization A Manager-s Guide.pdf
+http://file.allitebooks.com/20150527/Windows Azure programming patterns for Start-ups.pdf
+http://file.allitebooks.com/20150527/Programming Amazon EC2.pdf
+http://file.allitebooks.com/20150527/VMware ThinApp 4.7 Essentials.pdf
+http://file.allitebooks.com/20150527/Windows Azure Step by Step.pdf
+http://file.allitebooks.com/20150527/VMware Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150527/Deploying OpenStack.pdf
+http://file.allitebooks.com/20150527/Windows Server 2012 Hyper-V Cookbook.pdf
+http://file.allitebooks.com/20150527/Host Your Web Site In The Cloud.pdf
+http://file.allitebooks.com/20150527/Cloud Application Architectures.pdf
+http://file.allitebooks.com/20150527/Microsoft SQL Azure Enterprise Application Development.pdf
+http://file.allitebooks.com/20150527/The Book of Xen.pdf
+http://file.allitebooks.com/20150527/Virtualization For Dummies.pdf
+http://file.allitebooks.com/20150527/Windows Azure Platform.pdf
+http://file.allitebooks.com/20150527/Microsoft Azure.pdf
+http://file.allitebooks.com/20150527/VMware Cookbook.pdf
+http://file.allitebooks.com/20150527/Professional Xen Virtualization.pdf
+http://file.allitebooks.com/20150527/Windows Server 2008 R2 Remote Desktop Services Resource Kit.pdf
+http://file.allitebooks.com/20150527/Windows Server 2008 Hyper-V Unleashed.pdf
+http://file.allitebooks.com/20150527/Build Your Own PaaS with Docker.pdf
+http://file.allitebooks.com/20150527/60 Recipes for Apache CloudStack.pdf
+http://file.allitebooks.com/20150527/VMware vRealize Orchestrator Cookbook.pdf
+http://file.allitebooks.com/20150527/Orchestrating Docker.pdf
+http://file.allitebooks.com/20150527/Mastering Microsoft Azure Infrastructure Services.pdf
+http://file.allitebooks.com/20150527/Python for Google App Engine.pdf
+http://file.allitebooks.com/20150527/Mastering Hyper-V.pdf
+http://file.allitebooks.com/20150527/Automating Microsoft Azure with PowerShell.pdf
+http://file.allitebooks.com/20150527/Microsoft Hyper-V PowerShell Automation.pdf
+http://file.allitebooks.com/20150527/VMware vSphere 5.5 Cookbook.pdf
+http://file.allitebooks.com/20150527/Citrix XenMobile Mobile Device Management.pdf
+http://file.allitebooks.com/20150527/Citrix XenDesktop 7 Cookbook.pdf
+http://file.allitebooks.com/20150527/Citrix XenApp 6.5 Expert Cookbook.pdf
+http://file.allitebooks.com/20150527/Getting Started with XenDesktop 7.x.pdf
+http://file.allitebooks.com/20150527/Building the Infrastructure for Cloud Security.pdf
+http://file.allitebooks.com/20150527/Disaster Recovery using VMware vSphere Replication and vCenter Site Recovery Manager.pdf
+http://file.allitebooks.com/20150527/Getting Started with OpenShift.pdf
+http://file.allitebooks.com/20150527/Heroku Cloud Application Development.pdf
+http://file.allitebooks.com/20150527/Hyper-V Security.pdf
+http://file.allitebooks.com/20150527/Google Compute Engine.pdf
+http://file.allitebooks.com/20150527/Introducing Windows Azure Hdinsight.pdf
+http://file.allitebooks.com/20150527/Learning Windows Azure Mobile Services for Windows 8 and Windows Phone 8.pdf
+http://file.allitebooks.com/20150527/Learning OpenStack Networking (Neutron).pdf
+http://file.allitebooks.com/20150527/Microsoft Azure SQL Database Step by Step.pdf
+http://file.allitebooks.com/20150527/Learning Veeam Backup - Replication for VMware vSphere.pdf
+http://file.allitebooks.com/20150527/Mastering Citrix XenServer.pdf
+http://file.allitebooks.com/20150527/Implementing Cloud Storage with OpenStack Swift.pdf
+http://file.allitebooks.com/20150527/Implementing NetScaler VPX.pdf

@@ -1,0 +1,16 @@
+http://file.allitebooks.com/20150528/Automation through Chef Opscode.pdf
+http://file.allitebooks.com/20150528/Pro Puppet, 2nd Edition.pdf
+http://file.allitebooks.com/20150528/Customizing Chef.pdf
+http://file.allitebooks.com/20150528/Chef Infrastructure Automation Cookbook.pdf
+http://file.allitebooks.com/20150528/Pro Puppet.pdf
+http://file.allitebooks.com/20150528/Managing Infrastructure with Puppet.pdf
+http://file.allitebooks.com/20150528/Puppet Cookbook, 3rd Edition.pdf
+http://file.allitebooks.com/20150528/Automating Microsoft Azure Infrastructure Services.pdf
+http://file.allitebooks.com/20150528/AutoIt v3 Your Quick Guide.pdf
+http://file.allitebooks.com/20150528/BMC Control-M 7.pdf
+http://file.allitebooks.com/20150528/Puppet Types and Providers.pdf
+http://file.allitebooks.com/20150528/Puppet 3 Beginner-s Guide.pdf
+http://file.allitebooks.com/20150528/Managing Windows Servers with Chef.pdf
+http://file.allitebooks.com/20150528/Puppet Essentials.pdf
+http://file.allitebooks.com/20150528/Test-Driven Infrastructure with Chef, 2nd Edition.pdf
+http://file.allitebooks.com/20150528/Test-Driven Infrastructure with Chef.pdf

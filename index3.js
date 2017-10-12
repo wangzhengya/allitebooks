@@ -9,70 +9,20 @@ var books = [];
 var numOfPages = 1;
 var topic = "";
 var inquirer = require('inquirer');
-inquirer.prompt([{
-    type: 'input',
-    name: 'word',
-    message: '您要找的关键词：'
-  }]).then(function (answers) {
-	topic = answers.word;
-    console.log("你要寻找关于"+topic+"的文件");
 
-    var url = "http://www.allitebooks.com/"+topic+"/" ;
-    fetchPage(url);//抓取所有
-    console.log(url);
+
+    fetchPage();//抓取所有
     //startRequest(url);//抓取首页，测试用
-});
 
-
-
-function fetchPage(x) {     //封装了一层函数
-    http.get(x, function (res) {
-        var html = '';        //用来存储请求网页的整个html内容
-        var titles = [];        
-        res.setEncoding('utf-8'); //防止中文乱码
-        //监听data事件，每次取一块数据
-        res.on('data', function (chunk) {   
-            html += chunk;
-        });
-        //监听end事件，如果整个网页内容的html都获取完毕，就执行回调函数
-        res.on('end', function () {
-
-            var $ = cheerio.load(html); //采用cheerio模块解析html
-            
-            if( $('a[title="Last Page →"]').text()){//找出页码数量，分为大于5，小于5两种
-                console.log("超过5页");
-                numOfPages = $('a[title="Last Page →"]').text().trim();
-            }else{
-                console.log("小于5页");
-                numOfPages = $('div.pagination a');
-                if(numOfPages[numOfPages.length-1]){
-                    numOfPages = numOfPages[numOfPages.length-1].attribs.title;
-                }else{
-                    numOfPages = 1;
-                }
-            }
-            
-            console.log("总共"+numOfPages+"页");
-            startRequest(x);
-            if(numOfPages<10){
-                for(let j =2 ; j<=numOfPages; j++){
-                    startRequest("http://www.allitebooks.com/"+topic+"/page/"+j+"/"); 
-                }
-            }else{
-                for(let j =2 ; j<=numOfPages; j++){
-                    var oneSecond = 10000 * j; // 防止反爬虫，每十秒一页
-                    setTimeout(function() {
-                        console.log("==============="+j+"=============");
-                        startRequest("http://www.allitebooks.com/"+topic+"/page/"+j+"/"); 
-                    }, oneSecond);
-                }
-            }
-        
-
-        }).on('error', function (err) {
-            console.log(err);
-        });
-    });
+function fetchPage() {     //封装了一层函数
+    for(let i=1;i<=732;i++){
+        var oneSecond = 10000 * i; // 防止反爬虫，每十秒一页
+        setTimeout(function() {
+            console.log("==============="+i+"=============");
+            console.log("http://www.allitebooks.com/page/"+i+"/");
+            startRequest("http://www.allitebooks.com/page/"+i+"/");
+        }, oneSecond);
+    }
 
 }
 

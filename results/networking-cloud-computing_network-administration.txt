@@ -1,0 +1,130 @@
+http://file.allitebooks.com/20170724/Defensive Security Handbook.pdf
+http://file.allitebooks.com/20170904/Expert SQL Server In-Memory OLTP, 2nd Edition.pdf
+http://file.allitebooks.com/20170523/VMware vRealize Configuration Manager Cookbook.pdf
+http://file.allitebooks.com/20170319/Network Administration with FreeBSD 7.pdf
+http://file.allitebooks.com/20170504/IoT Solutions in Microsoft's Azure IoT Suite.pdf
+http://file.allitebooks.com/20170712/PowerShell in Practice.pdf
+http://file.allitebooks.com/20170523/Learning SaltStack, Second Edition.pdf
+http://file.allitebooks.com/20170323/Securing Docker.pdf
+http://file.allitebooks.com/20170929/Zabbix Network Monitoring, Second Edition.pdf
+http://file.allitebooks.com/20170607/Ansible Configuration Management.pdf
+http://file.allitebooks.com/20170225/Introducing Windows Azure for IT Professionals.pdf
+http://file.allitebooks.com/20161230/Pro Apache Phoenix.pdf
+http://file.allitebooks.com/20170102/Smart Home Automation with Linux and Raspberry Pi, 2 edition.pdf
+http://file.allitebooks.com/20170318/Mastering Windows PowerShell Scripting.pdf
+http://file.allitebooks.com/20161215/Icinga Network Monitoring.pdf
+http://file.allitebooks.com/20170212/Red Hat Enterprise Linux 6 Administration.pdf
+http://file.allitebooks.com/20170312/I Heart Logs.pdf
+http://file.allitebooks.com/20161227/IT Disaster Response.pdf
+http://file.allitebooks.com/20170212/Microsoft Office 365 Administration Inside Out.pdf
+http://file.allitebooks.com/20170202/Big Data Analytics with R and Hadoop.pdf
+http://file.allitebooks.com/20161127/Penetration Testing with the Bash shell.pdf
+http://file.allitebooks.com/20161104/Learning Docker Networking.pdf
+http://file.allitebooks.com/20161104/Windows Group Policy Troubleshooting.pdf
+http://file.allitebooks.com/20161202/Practical IPv6 for Windows Administrators.pdf
+http://file.allitebooks.com/20160918/SpamAssassin.pdf
+http://file.allitebooks.com/20161202/Pro Exchange Server 2013 Administration.pdf
+http://file.allitebooks.com/20161202/Linux Utilities Cookbook.pdf
+http://file.allitebooks.com/20161106/Practical Hadoop Ecosystem.pdf
+http://file.allitebooks.com/20161027/Securing SQL Server.pdf
+http://file.allitebooks.com/20161017/Windows Installation and Update Troubleshooting.pdf
+http://file.allitebooks.com/20160731/Mastering Ubuntu Server.pdf
+http://file.allitebooks.com/20160903/Cisco UCS Cookbook.pdf
+http://file.allitebooks.com/20160918/Stopping Spam.pdf
+http://file.allitebooks.com/20160828/Infrastructure as Code.pdf
+http://file.allitebooks.com/20160818/Ubuntu Server Cookbook.pdf
+http://file.allitebooks.com/20160708/Learning R for Geospatial Analysis.pdf
+http://file.allitebooks.com/20160710/Instant Messaging in Java.pdf
+http://file.allitebooks.com/20160908/MCTS 70-662 Rapid Review.pdf
+http://file.allitebooks.com/20160729/Learning CFEngine 3.pdf
+http://file.allitebooks.com/20160831/Mastering CloudForms Automation.pdf
+http://file.allitebooks.com/20160517/Moodle 2 Administration.pdf
+http://file.allitebooks.com/20160518/Troubleshooting Windows Server with PowerShell.pdf
+http://file.allitebooks.com/20160607/Sphinx Search Beginners Guide.pdf
+http://file.allitebooks.com/20160512/Learning VMware App Volumes.pdf
+http://file.allitebooks.com/20160701/Neo4j High Performance.pdf
+http://file.allitebooks.com/20160514/Google Apps Script for Beginners.pdf
+http://file.allitebooks.com/20160529/Programming Microsoft Dynamics NAV.pdf
+http://file.allitebooks.com/20160619/Upgrading to Lotus Notes and Domino 7.pdf
+http://file.allitebooks.com/20160520/Vagrant Virtual Development Environment Cookbook.pdf
+http://file.allitebooks.com/20160513/XenServer Administration Handbook.pdf
+http://file.allitebooks.com/20160329/Getting Started with tmux.pdf
+http://file.allitebooks.com/20160401/Learning Puppet 4.pdf
+http://file.allitebooks.com/20160326/Site Reliability Engineering.pdf
+http://file.allitebooks.com/20160331/JBoss AS 7 Configuration, Deployment and Administration.pdf
+http://file.allitebooks.com/20160501/Ansible Configuration Management, Second Edition.pdf
+http://file.allitebooks.com/20160326/Thinking in Promises.pdf
+http://file.allitebooks.com/20160316/Gnuplot in Action.pdf
+http://file.allitebooks.com/20160512/Learning Linux Shell Scripting.pdf
+http://file.allitebooks.com/20160426/The GNU Make Book.pdf
+http://file.allitebooks.com/20160324/Microsoft System Center Orchestrator 2012 R2 Essentials.pdf
+http://file.allitebooks.com/20160306/Troubleshooting vSphere Storage.pdf
+http://file.allitebooks.com/20160303/SolarWinds Server Application Monitor Deployment and Administration.pdf
+http://file.allitebooks.com/20160202/Alfresco 3 Business Solutions.pdf
+http://file.allitebooks.com/20160202/Learning Chef.pdf
+http://file.allitebooks.com/20160222/Bash Pocket Reference, 2nd Edition.pdf
+http://file.allitebooks.com/20160216/Mastering Windows Server 2012 R2.pdf
+http://file.allitebooks.com/20160207/CMS Made Simple Development Cookbook.pdf
+http://file.allitebooks.com/20160307/VMware Horizon Mirage Essentials.pdf
+http://file.allitebooks.com/20160130/Practical MongoDB.pdf
+http://file.allitebooks.com/20160207/CFEngine 3 Beginner&-39;s Guide.pdf
+http://file.allitebooks.com/20160104/DevOps Automation Cookbook.rar
+http://file.allitebooks.com/20160117/Working with MediaWiki.pdf
+http://file.allitebooks.com/20151222/File Management Made Simple, Windows Edition.pdf
+http://file.allitebooks.com/20160117/Mastering Linux Shell Scripting.rar
+http://file.allitebooks.com/20160104/Puppet 4 Essentials.pdf
+http://file.allitebooks.com/20160104/Linux Shell Scripting Essentials.pdf
+http://file.allitebooks.com/20151230/Getting Started with Kubernetes.pdf
+http://file.allitebooks.com/20160103/Mastering Linux Network Administration.pdf
+http://file.allitebooks.com/20160124/Apache Solr.pdf
+http://file.allitebooks.com/20160104/Elasticsearch in Action.pdf
+http://file.allitebooks.com/20151212/Linux and Solaris Recipes for Oracle DBAs.pdf
+http://file.allitebooks.com/20151217/Learning OpenStack High Availability.pdf
+http://file.allitebooks.com/20151213/Building and Maintaining a Data Warehouse.pdf
+http://file.allitebooks.com/20151213/Using Docker.pdf
+http://file.allitebooks.com/20151202/Pro SQL Server Administration.pdf
+http://file.allitebooks.com/20151211/Concise Guide To Databases.pdf
+http://file.allitebooks.com/20151214/I Heart Logs.pdf
+http://file.allitebooks.com/20151212/Learning OpenStack.pdf
+http://file.allitebooks.com/20151216/SQL Server 2014 with PowerShell v5 Cookbook.pdf
+http://file.allitebooks.com/20151210/Nosql For Mere Mortals.pdf
+http://file.allitebooks.com/20151123/Crafting the InfoSec Playbook.pdf
+http://file.allitebooks.com/20151124/Learning System Center App Controller.pdf
+http://file.allitebooks.com/20151124/Neo4j Essentials.pdf
+http://file.allitebooks.com/20151106/A Complete Guide to Portals and User Experience Platforms.pdf
+http://file.allitebooks.com/20151015/Windows Phone 8 Game Development.pdf
+http://file.allitebooks.com/20151124/Learning Heroku Postgres.pdf
+http://file.allitebooks.com/20151111/Docker Cookbook.pdf
+http://file.allitebooks.com/20151017/ABAP Development for SAP HANA.pdf
+http://file.allitebooks.com/20151128/Pro Git, 2nd Edition.pdf
+http://file.allitebooks.com/20151015/SAP HANA Cookbook.pdf
+http://file.allitebooks.com/20150921/Puppet Reporting and Monitoring.pdf
+http://file.allitebooks.com/20150926/WildFly Configuration, Deployment, and Administration - Second Edition.pdf
+http://file.allitebooks.com/20150926/Microsoft System Center Configuration Manager Advanced Deployment.pdf
+http://file.allitebooks.com/20151008/Microsoft System Center PowerShell Essentials.pdf
+http://file.allitebooks.com/20150926/Microsoft System Center 2012 R2 Compliance Management Cookbook.pdf
+http://file.allitebooks.com/20150930/Learning Cocos2d-x Game Development.pdf
+http://file.allitebooks.com/20150926/Oracle Solaris 11 Advanced Administration Cookbook.pdf
+http://file.allitebooks.com/20150930/Learning OpenShift.pdf
+http://file.allitebooks.com/20150926/Learning Puppet for Windows Server.pdf
+http://file.allitebooks.com/20150928/Modern Database Management (11th edition).pdf
+http://file.allitebooks.com/20150829/CoreOS Essentials.pdf
+http://file.allitebooks.com/20150830/Healthy SQL.pdf
+http://file.allitebooks.com/20150917/Information_Architecture_Fourth_Edition.pdf
+http://file.allitebooks.com/20150810/Salt Essentials.pdf
+http://file.allitebooks.com/20150909/Mastering Wireless Penetration Testing for Highly-Secured Environments.pdf
+http://file.allitebooks.com/20150920/Mastering Structured Data on the Semantic Web.pdf
+http://file.allitebooks.com/20150817/Secure Data Provenance and Inference Control with Semantic Web.pdf
+http://file.allitebooks.com/20150913/Hadoop Backup and Recovery Solutions.pdf
+http://file.allitebooks.com/20150814/Designing Hyper-V Solutions.pdf
+http://file.allitebooks.com/20150912/Mastering Puppet.pdf
+http://file.allitebooks.com/20150721/Foundations of Semantic Web Technologies.pdf
+http://file.allitebooks.com/20150712/Apache Solr Beginner-s Guide.pdf
+http://file.allitebooks.com/20150712/Training Guide Configuring Advanced Windows Server 2012 R2 Services.pdf
+http://file.allitebooks.com/20150719/Learning NServiceBus.pdf
+http://file.allitebooks.com/20150807/Learning Redis.pdf
+http://file.allitebooks.com/20150731/Mastering AWS Development.pdf
+http://file.allitebooks.com/20150724/Learn Active Directory Management in a Month of Lunches.pdf
+http://file.allitebooks.com/20150709/Working Together Apart- Collaboration Over the Internet.pdf
+http://file.allitebooks.com/20150715/Mule ESB Cookbook.pdf
+http://file.allitebooks.com/20150711/Microsoft System Center 2012 Orchestrator Cookbook.pdf

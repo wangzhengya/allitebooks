@@ -1,0 +1,54 @@
+http://file.allitebooks.com/20150612/Sams Teach Yourself SAP in 24 Hours, 4th Edition.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM Customization Essentials.pdf
+http://file.allitebooks.com/20150612/Learning MS Dynamics AX 2012 Programming.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics NAV Administration.pdf
+http://file.allitebooks.com/20150612/SAP BusinessObjects Dashboards 4.0 Cookbook.pdf
+http://file.allitebooks.com/20150612/Force.com Development Blueprints.pdf
+http://file.allitebooks.com/20150612/Using CiviCRM.pdf
+http://file.allitebooks.com/20150612/Programming Microsoft Dynamics NAV 2009.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics AX 2012 R2 Services.pdf
+http://file.allitebooks.com/20150612/SAP Implementation Unleashed.pdf
+http://file.allitebooks.com/20150612/Practical Salesforce.com Development Without Code.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 4 Integration Unleashed.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Scripting Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics AX 2009 Administration.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics NAV Financial Management.pdf
+http://file.allitebooks.com/20150612/Oracle Siebel CRM 8 Developer-s Handbook.pdf
+http://file.allitebooks.com/20150612/The Definitive Guide to SugarCRM.pdf
+http://file.allitebooks.com/20150612/Developing Microsoft Dynamics GP Business Applications.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics AX 2012 Services.pdf
+http://file.allitebooks.com/20150612/Building Dashboards with Microsoft Dynamics GP 2013 and Excel 2013.pdf
+http://file.allitebooks.com/20150612/Extending Microsoft Dynamics AX 2012 Cookbook.pdf
+http://file.allitebooks.com/20150612/Sams Teach Yourself Microsoft Dynamics Crm 2011 in 24 Hours.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Cookbook.pdf
+http://file.allitebooks.com/20150612/Transportation Management with SAP TM 9.pdf
+http://file.allitebooks.com/20150612/Inside Microsoft Dynamics AX 2012.pdf
+http://file.allitebooks.com/20150612/SugarCRM Developer-s Manual Customize and extend SugarCRM.pdf
+http://file.allitebooks.com/20150612/Visualforce Developer-s Guide.pdf
+http://file.allitebooks.com/20150612/Implementing Microsoft Dynamics NAV 2013.pdf
+http://file.allitebooks.com/20150612/Getting Started with SOQL.pdf
+http://file.allitebooks.com/20150612/Implementing Microsoft Dynamics AX 2012 with Sure Step 2012.pdf
+http://file.allitebooks.com/20150612/SAP ABAP.pdf
+http://file.allitebooks.com/20150612/SAP GRC For Dummies.pdf
+http://file.allitebooks.com/20150612/Development with the Force.com Platform, 2nd Edition.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics GP 2013 Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Reporting.pdf
+http://file.allitebooks.com/20150612/Implementing SugarCRM.pdf
+http://file.allitebooks.com/20150612/Mastering SQL Queries for SAP Business One.pdf
+http://file.allitebooks.com/20150612/Apache OfBiz Cookbook.pdf
+http://file.allitebooks.com/20150612/Development with the Force.com Platform, 3rd Edition.pdf
+http://file.allitebooks.com/20150710/SAP ERP Financial Accounting and Controlling- Configuration and Use Management.pdf
+http://file.allitebooks.com/20150612/SAP ABAP Advanced Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Step by Step.pdf
+http://file.allitebooks.com/20150612/CiviCRM Cookbook.pdf
+http://file.allitebooks.com/20150612/CRM Fundamentals.pdf
+http://file.allitebooks.com/20160123/SAP Project Management Pitfalls.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Administration Bible.pdf
+http://file.allitebooks.com/20150612/Force.com Tips and Tricks.pdf
+http://file.allitebooks.com/20150612/Building on SugarCRM.pdf
+http://file.allitebooks.com/20150612/Getting Started with Dynamics NAV 2013 Application Development.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics AX 2012 Development Cookbook.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics CRM 2011 Applications (MB2-868) Certification Guide.pdf
+http://file.allitebooks.com/20150612/Microsoft Dynamics NAV 2009 Programming Cookbook.pdf
+http://file.allitebooks.com/20150612/Salesforce CRM Admin Cookbook.pdf

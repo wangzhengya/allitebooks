@@ -1,0 +1,168 @@
+http://file.allitebooks.com/20170907/Oracle ADF Survival Guide.pdf
+http://file.allitebooks.com/20170508/Oracle WebLogic Server 12c Administration Handbook.pdf
+http://file.allitebooks.com/20170425/Running Applications on Oracle Exadata.pdf
+http://file.allitebooks.com/20170625/Oracle IaaS Quick Reference Guide to Cloud Solutions.pdf
+http://file.allitebooks.com/20170423/Data Visualization for Oracle Business Intelligence 11g.pdf
+http://file.allitebooks.com/20170328/Expert Consolidation in Oracle Database 12c.pdf
+http://file.allitebooks.com/20170319/Oracle SOA Suite 11g Performance Tuning Cookbook.pdf
+http://file.allitebooks.com/20170424/Oracle Database Upgrade, Migration & Transformation Tips  Techniques.pdf
+http://file.allitebooks.com/20170404/Oracle Database 12c Release 2 Performance Tuning Tips - Techniques.pdf
+http://file.allitebooks.com/20170423/Oracle SOA Suite 12c Handbook.pdf
+http://file.allitebooks.com/20161104/Mastering Oracle GoldenGate.pdf
+http://file.allitebooks.com/20161202/Oracle E-Business Suite 12 Financials Cookbook.pdf
+http://file.allitebooks.com/20161026/Oracle Application Express Administration.pdf
+http://file.allitebooks.com/20161004/Expert Oracle Indexing and Access Paths, 2nd Edition.pdf
+http://file.allitebooks.com/20160721/Oracle Database 11g DBA Handbook.pdf
+http://file.allitebooks.com/20161024/Formal SQL Tuning for Oracle Databases.pdf
+http://file.allitebooks.com/20170206/Pro Oracle Application Express.pdf
+http://file.allitebooks.com/20160526/Oracle WebLogic Server 12c- First Look.pdf
+http://file.allitebooks.com/20170304/Oracle Business Intelligence and Essbase Solutions Guide.pdf
+http://file.allitebooks.com/20160703/WS-BPEL 2.0 for SOA Composite Applications with Oracle SOA Suite 11g.pdf
+http://file.allitebooks.com/20161020/Expert Oracle Database 11g Administration.pdf
+http://file.allitebooks.com/20160828/Pro Oracle GoldenGate for the DBA.pdf
+http://file.allitebooks.com/20160723/Managing Oracle Fusion Applications.pdf
+http://file.allitebooks.com/20161220/Beginning Oracle WebCenter Portal 12c.pdf
+http://file.allitebooks.com/20161224/Data Science Using Oracle Data Miner and Oracle R Enterprise.pdf
+http://file.allitebooks.com/20161005/Oracle Database 12c DBA Handbook.pdf
+http://file.allitebooks.com/20160810/PeopleSoft for the Oracle DBA, 2nd Edition.pdf
+http://file.allitebooks.com/20170224/The Cloud DBA-Oracle.pdf
+http://file.allitebooks.com/20170302/Oracle Database Upgrade and Migration Methods.pdf
+http://file.allitebooks.com/20160520/Oracle 10g11g Data and Database Management Utilities.pdf
+http://file.allitebooks.com/20160521/Oracle Database 11g - Underground Advice for Database Administrators.pdf
+http://file.allitebooks.com/20160522/Oracle CRM On Demand 2012 Administration Essentials.pdf
+http://file.allitebooks.com/20160522/Oracle JD Edwards EnterpriseOne 9.0 Supply Chain Management Cookbook.pdf
+http://file.allitebooks.com/20160521/Oracle Database XE 11gR2 Jump Start Guide.pdf
+http://file.allitebooks.com/20160407/Oracle Essbase 9 Implementation Guide.pdf
+http://file.allitebooks.com/20160522/Oracle Information Integration, Migration, and Consolidation.pdf
+http://file.allitebooks.com/20160514/Oracle E-Business Suite Financials R12 A Functionality Guide.pdf
+http://file.allitebooks.com/20160114/Beginning Oracle Application Express 5.pdf
+http://file.allitebooks.com/20160130/Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809.pdf
+http://file.allitebooks.com/20151222/Pro jQuery in Oracle Application Express.pdf
+http://file.allitebooks.com/20151218/Oracle 12c For Dummies.pdf
+http://file.allitebooks.com/20160104/Oracle SOA Suite 12c Administrator's Guide.pdf
+http://file.allitebooks.com/20151214/Oracle SQL Developer Data Modeler for Database Design Mastery.pdf
+http://file.allitebooks.com/20160520/Oracle ADF Enterprise Application Development Made Simple.pdf
+http://file.allitebooks.com/20160223/Getting Started With Oracle SOA Suite 11g R1 - A Hands-On Tutorial.pdf
+http://file.allitebooks.com/20160508/Oracle Data Guard 11gR2 Administration Beginners Guide.pdf
+http://file.allitebooks.com/20151209/Oracle PLSQL by Example, 5th Edition.pdf
+http://file.allitebooks.com/20160216/Managing IaaS and DBaaS Clouds with Oracle Enterprise Manager Cloud Control 12c.pdf
+http://file.allitebooks.com/20160202/BPEL PM and OSB Operational Management with Oracle Enterprise Manager 10g Grid Control.pdf
+http://file.allitebooks.com/20151107/Oracle Sql A Beginner's Tutorial.pdf
+http://file.allitebooks.com/20151012/The CIO-s Guide to Oracle Products and Solutions.pdf
+http://file.allitebooks.com/20151208/Oracle Essbase  Oracle OLAP.pdf
+http://file.allitebooks.com/20151105/Expert Oracle Application Express, 2nd Edition.pdf
+http://file.allitebooks.com/20151208/OCAOCP Oracle Database 11g All-in-One Exam Guide.pdf
+http://file.allitebooks.com/20151031/Oracle SOA Suite 11g R1 Developer-s Guide.pdf
+http://file.allitebooks.com/20151024/Oracle JDeveloper 11gR2 Cookbook.pdf
+http://file.allitebooks.com/20151024/Oracle Database 11gR2 Performance Tuning Cookbook.pdf
+http://file.allitebooks.com/20151015/Oracle Applications DBA Field Guide.pdf
+http://file.allitebooks.com/20151201/Beginning Oracle Database 12c Administration, 2nd Edition.pdf
+http://file.allitebooks.com/20150720/Beginning Oracle PLSQL, 2nd edition.pdf
+http://file.allitebooks.com/20150917/Oracle_PLslashSQL_Language_Pocket_Reference_Fifth_Edition.pdf
+http://file.allitebooks.com/20150920/Understanding Oracle APEX 5 Application Development, 2nd Edition.pdf
+http://file.allitebooks.com/20151005/Beginning Oracle Database 11g Administration- From Novice to Professional.pdf
+http://file.allitebooks.com/20150720/Getting Started with Oracle WebLogic Server 12c Developer's Guide.pdf
+http://file.allitebooks.com/20150826/Oracle User Productivity Kit 3.5.pdf
+http://file.allitebooks.com/20151003/Pro Oracle Fusion Applications- Installation and Administration.pdf
+http://file.allitebooks.com/20150703/Oracle APEX 4.2 Reporting.pdf
+http://file.allitebooks.com/20151009/Oracle 11G- SQL.pdf
+http://file.allitebooks.com/20150724/Oracle SOA Suite 11g Handbook.pdf
+http://file.allitebooks.com/20150516/Protecting Oracle Database 12c.pdf
+http://file.allitebooks.com/20150516/Expert Oracle SQL.pdf
+http://file.allitebooks.com/20150516/Oracle Database Transactions and Locking Revealed.pdf
+http://file.allitebooks.com/20150516/Oracle PLSQL Programming, 6th Edition.pdf
+http://file.allitebooks.com/20150516/Troubleshooting Oracle Performance, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Oracle ADF Enterprise Application Development - Made Simple 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Practical Oracle Database Appliance.pdf
+http://file.allitebooks.com/20150516/Oracle ADF Faces Cookbook.pdf
+http://file.allitebooks.com/20150516/Oracle Enterprise Manager 12c Command-Line Interface.pdf
+http://file.allitebooks.com/20150516/Oracle RMAN for Absolute Beginners.pdf
+http://file.allitebooks.com/20150516/Oracle ADF 11gR2 Development Beginner-s Guide.pdf
+http://file.allitebooks.com/20150516/Getting Started with Oracle Event Processing 11g.pdf
+http://file.allitebooks.com/20150516/Getting Started with Oracle Tuxedo.pdf
+http://file.allitebooks.com/20150516/Expert Oracle RAC 12c.pdf
+http://file.allitebooks.com/20150516/Expert Oracle Enterprise Manager 12c.pdf
+http://file.allitebooks.com/20150516/Managing Multimedia and Unstructured Data in the Oracle Database.pdf
+http://file.allitebooks.com/20150516/Expert Oracle Application Express Security.pdf
+http://file.allitebooks.com/20150516/Developing Web Applications with Oracle ADF Essentials.pdf
+http://file.allitebooks.com/20150516/Hands-On Oracle Application Express Security.pdf
+http://file.allitebooks.com/20150516/Beginning Oracle Application Express 4.2, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Oracle Application Express for Mobile Web Applications.pdf
+http://file.allitebooks.com/20150516/Oracle Data Guard 11gR2 Administration.pdf
+http://file.allitebooks.com/20150516/Oracle Essentials, 5th Edition.pdf
+http://file.allitebooks.com/20150516/Oracle Business Intelligence 11g R1 Cookbook.pdf
+http://file.allitebooks.com/20150516/Oracle Database 12c Performance Tuning Recipes.pdf
+http://file.allitebooks.com/20150516/Oracle Data Integrator 11g Cookbook.pdf
+http://file.allitebooks.com/20150516/Oracle Database and PowerShell How-to.pdf
+http://file.allitebooks.com/20150516/Oracle E-Business Suite R12 Integration and OA Framework Development and Extension Cookbook.pdf
+http://file.allitebooks.com/20150516/Oracle Enterprise Manager 12c Administration Cookbook.pdf
+http://file.allitebooks.com/20150516/Oracle Exadata Recipes.pdf
+http://file.allitebooks.com/20150516/Oracle WebLogic Server 12c Advanced Administration Cookbook.pdf
+http://file.allitebooks.com/20150516/Pro Oracle Database 12c Administration, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Governance, Risk, and Compliance Handbook for Oracle Applications.pdf
+http://file.allitebooks.com/20150516/Oracle SOA BPEL Process Manager 11gR1 - A Hands-on Tutorial.pdf
+http://file.allitebooks.com/20150516/RMAN Recipes for Oracle Database 12c, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Oracle Fusion Applications Administration Essentials.pdf
+http://file.allitebooks.com/20150516/Oracle SQL Tuning with Oracle SQLTXPLAIN.pdf
+http://file.allitebooks.com/20150516/Oracle ADF Real World Developer-s Guide.pdf
+http://file.allitebooks.com/20150516/Oracle 11g Anti-hacker-s Cookbook.pdf
+http://file.allitebooks.com/20150516/Getting Started with Oracle Data Integrator 11g.pdf
+http://file.allitebooks.com/20150516/Oracle Business Intelligence Enterprise Edition 11g.pdf
+http://file.allitebooks.com/20150516/Oracle Primavera Contract Management.pdf
+http://file.allitebooks.com/20150516/Oracle CRM On Demand Administration Essentials.pdf
+http://file.allitebooks.com/20150516/Expert Indexing in Oracle Database 11g.pdf
+http://file.allitebooks.com/20150516/Oracle Advanced PLSQL Developer Professional Guide.pdf
+http://file.allitebooks.com/20150516/Oracle SOA Suite 11g Developer-s Cookbook.pdf
+http://file.allitebooks.com/20150516/Oracle WebLogic Server 12c.pdf
+http://file.allitebooks.com/20150516/Beginning Oracle Application Express 4.pdf
+http://file.allitebooks.com/20150516/Oracle APEX Best Practices.pdf
+http://file.allitebooks.com/20150516/Oracle Service Bus 11g Development Cookbook.pdf
+http://file.allitebooks.com/20150516/Pro ODP.NET for Oracle Database 11g.pdf
+http://file.allitebooks.com/20150516/Oracle SOA Suite 11g R1 Developer-s Guide.pdf
+http://file.allitebooks.com/20150516/Expert Oracle Database Architecture, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Expert Oracle Practices.pdf
+http://file.allitebooks.com/20150516/Oracle Business Intelligence The Condensed Guide to Analysis and Reporting.pdf
+http://file.allitebooks.com/20150516/Oracle Siebel CRM 8 Installation and Management.pdf
+http://file.allitebooks.com/20150516/Oracle PLSQL Recipes.pdf
+http://file.allitebooks.com/20150516/Oracle Fusion Middleware Patterns.pdf
+http://file.allitebooks.com/20150516/Pro Oracle Database 11g RAC on Linux, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/Getting Started with Oracle BPM Suite 11gR1.pdf
+http://file.allitebooks.com/20150516/Oracle 11g Streams Implementer-s Guide.pdf
+http://file.allitebooks.com/20150516/Middleware Management with Oracle Enterprise Manager Grid Control 10g R5.pdf
+http://file.allitebooks.com/20150516/Pro Oracle SQL.pdf
+http://file.allitebooks.com/20150516/Oracle Database 11g.pdf
+http://file.allitebooks.com/20150516/Oracle E-Business Suite Development - Extensibility Handbook.pdf
+http://file.allitebooks.com/20150516/Linux Recipes for Oracle DBAs.pdf
+http://file.allitebooks.com/20150516/Beginning Oracle SQL.pdf
+http://file.allitebooks.com/20150516/Oracle SQL Recipes.pdf
+http://file.allitebooks.com/20150516/Oracle 11g For Dummies.pdf
+http://file.allitebooks.com/20150516/Oracle Web Services Manager.pdf
+http://file.allitebooks.com/20150516/Oracle Essentials, 4th Edition.pdf
+http://file.allitebooks.com/20150516/Optimizing Oracle Performance.pdf
+http://file.allitebooks.com/20150516/Oracle SQL Tuning Pocket Reference.pdf
+http://file.allitebooks.com/20150516/Learning Oracle PLSQL.pdf
+http://file.allitebooks.com/20150516/Cost-Based Oracle Fundamentals.pdf
+http://file.allitebooks.com/20150516/Toad Pocket Reference for Oracle, 2nd Edition.pdf
+http://file.allitebooks.com/20150516/PeopleSoft for the Oracle DBA.pdf
+http://file.allitebooks.com/20150516/Pro Oracle Spatial for Oracle Database 11g.pdf
+http://file.allitebooks.com/20150516/Professional Oracle Programming.pdf
+http://file.allitebooks.com/20150516/Oracle PLSQL Language Pocket Reference, 4th Edition.pdf
+http://file.allitebooks.com/20150425/Oracle RMAN Database Duplication.pdf
+http://file.allitebooks.com/20150516/Oracle Built-in Packages.pdf
+http://file.allitebooks.com/20150516/Oracle BI Publisher 11g.pdf
+http://file.allitebooks.com/20150516/Oracle DBA Checklists Pocket Reference.pdf
+http://file.allitebooks.com/20150516/Oracle Database Performance and Scalability.pdf
+http://file.allitebooks.com/20150424/expert_oracle_database_architecture_3rd_edition.pdf
+http://file.allitebooks.com/20150516/Expert Oracle Exadata.pdf
+http://file.allitebooks.com/20150516/Oracle Core.pdf
+http://file.allitebooks.com/20150516/Professional Oracle 8i Application Programming with Java, PLSQL and XML.pdf
+http://file.allitebooks.com/20150516/Oracle Database 11g Performance Tuning Recipes.pdf
+http://file.allitebooks.com/20150424/beginning_oracle_sql_3rd_edition.pdf
+http://file.allitebooks.com/20150516/Expert Oracle Application Express Plugins.pdf
+http://file.allitebooks.com/20150516/Expert PLSQL Practices.pdf
+http://file.allitebooks.com/20150516/Oracle Enterprise Manager Grid Control 11g R1.pdf
+http://file.allitebooks.com/20150516/Oracle RMAN Pocket Reference.pdf
+http://file.allitebooks.com/20150516/Expert Oracle GoldenGate.pdf
+http://file.allitebooks.com/20150516/Oracle Performance Tuning, 2nd Edition.pdf
+http://file.allitebooks.com/20150424/expert_oracle_rac_performance_diagnostics_and_tuning.pdf
+http://file.allitebooks.com/20150516/Expert Oracle and Java Security.pdf

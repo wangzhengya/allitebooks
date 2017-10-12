@@ -1,0 +1,5 @@
+http://file.allitebooks.com/20150627/OpenCL Parallel Programming Development Cookbook.pdf
+http://file.allitebooks.com/20150627/OpenCL in Action.pdf
+http://file.allitebooks.com/20150627/OpenCL Programming by Example.pdf
+http://file.allitebooks.com/20150627/OpenCL Programming Guide.pdf
+http://file.allitebooks.com/20150627/Heterogeneous Computing with OpenCL, 2nd Edition.pdf

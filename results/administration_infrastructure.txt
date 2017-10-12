@@ -1,0 +1,8 @@
+http://file.allitebooks.com/20150528/IT Architecture For Dummies.pdf
+http://file.allitebooks.com/20150528/Data Center Handbook.pdf
+http://file.allitebooks.com/20150528/Intel Trusted Execution Technology for Server Platforms.pdf
+http://file.allitebooks.com/20150528/Distibuted Systems.pdf
+http://file.allitebooks.com/20150528/Energy Efficient Servers.pdf
+http://file.allitebooks.com/20150528/Learning Saltstack.pdf
+http://file.allitebooks.com/20150528/Running Mainframe z on Distributed Platforms.pdf
+http://file.allitebooks.com/20150528/Learning Ceph.pdf

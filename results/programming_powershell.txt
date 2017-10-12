@@ -1,0 +1,20 @@
+http://file.allitebooks.com/20150627/PowerShell Deep Dives.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell Pocket Reference, 2nd Edition.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell Desired State Configuration Revealed.pdf
+http://file.allitebooks.com/20150627/Microsoft Windows PowerShell Step By Step.pdf
+http://file.allitebooks.com/20150627/PowerShell and WMI.pdf
+http://file.allitebooks.com/20150627/PowerShell in Depth, 2nd Edition.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell for Developers.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell Cookbook.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell Best Practices.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell in Action, 2nd Edition.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell Unleashed.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell Cookbook, 3rd Edition.pdf
+http://file.allitebooks.com/20150627/Microsoft Windows PowerShell 3.0 First Look.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150627/Pro PowerShell for Amazon Web Services.pdf
+http://file.allitebooks.com/20150627/Pro Windows PowerShell.pdf
+http://file.allitebooks.com/20150627/PowerShell in Depth.pdf
+http://file.allitebooks.com/20150627/PowerShell 3.0 Advanced Administration Handbook.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell 4.0 for .NET Developers.pdf
+http://file.allitebooks.com/20150627/Windows PowerShell 3.0 First Steps.pdf

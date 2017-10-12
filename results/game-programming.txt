@@ -1,0 +1,309 @@
+http://file.allitebooks.com/20170803/3D Game Design with Unreal Engine 4 and Blender.pdf
+http://file.allitebooks.com/20170723/Learn Unity for Android Game Development.pdf
+http://file.allitebooks.com/20171007/Pro HTML5 Games, 2nd Edition.pdf
+http://file.allitebooks.com/20170721/Mostly Codeless Game Development.pdf
+http://file.allitebooks.com/20170810/The Advanced Game Developer's Toolkit.pdf
+http://file.allitebooks.com/20170520/Game Development with Construct 2.pdf
+http://file.allitebooks.com/20170811/Learn RPGs in GameMaker Studio.pdf
+http://file.allitebooks.com/20170623/Procedural Content Generation for C++ Game Development.pdf
+http://file.allitebooks.com/20170517/Building a 3D Game with LibGDX.pdf
+http://file.allitebooks.com/20170716/The Game Jam Survival Guide.pdf
+http://file.allitebooks.com/20170309/Virtual Reality Headsets.pdf
+http://file.allitebooks.com/20161224/Learn Unity for Windows 10 Game Development.pdf
+http://file.allitebooks.com/20170102/BlitzMax for Absolute Beginners.pdf
+http://file.allitebooks.com/20170222/GameMaker Studio 100 Programming Challenges.pdf
+http://file.allitebooks.com/20170223/An Introduction to HTML5 Game Development with Phaserjs.pdf
+http://file.allitebooks.com/20170114/Building a 2D Game Physics Engine.pdf
+http://file.allitebooks.com/20170202/Introduction to DevOps with Chocolate, LEGO and Scrum Game.pdf
+http://file.allitebooks.com/20170125/A Beginner's Guide to 2D Platform Games with Unity.pdf
+http://file.allitebooks.com/20170309/3D Game Environments.pdf
+http://file.allitebooks.com/20170117/Panda3D 1.7 Game Developer's Cookbook.pdf
+http://file.allitebooks.com/20161121/IT Through Experiential Learning.pdf
+http://file.allitebooks.com/20161215/Ouya Unity Game Development.pdf
+http://file.allitebooks.com/20161220/Rapid Game Development Using Cocos2d-JS.pdf
+http://file.allitebooks.com/20161215/Marmalade SDK Mobile Game Development Essentials.pdf
+http://file.allitebooks.com/20161217/Beginning Android Games, 3rd Edition.pdf
+http://file.allitebooks.com/20161120/Designing Digital Games.pdf
+http://file.allitebooks.com/20161206/Getting Started with SpriteKit.pdf
+http://file.allitebooks.com/20161220/Practical GameMaker Studio.pdf
+http://file.allitebooks.com/20161127/Beginning Platino Game Engine.pdf
+http://file.allitebooks.com/20161202/Getting Started with UDK.pdf
+http://file.allitebooks.com/20161106/Sams Teach Yourself Unreal Engine 4 Game Development in 24 Hours.pdf
+http://file.allitebooks.com/20160828/The Android Game Developer's Handbook.pdf
+http://file.allitebooks.com/20160925/Scratch Programming Playground.pdf
+http://file.allitebooks.com/20160804/Game Hacking.pdf
+http://file.allitebooks.com/20160619/Unreal Development Kit Game Programming with UnrealScript.pdf
+http://file.allitebooks.com/20161012/Learning Buildbox 2 Game Development.pdf
+http://file.allitebooks.com/20161110/Beginning 3D Game Development with Unity.pdf
+http://file.allitebooks.com/20160718/Polished Game Development.pdf
+http://file.allitebooks.com/20161010/Unity 5.x 2D Game Development Blueprints.pdf
+http://file.allitebooks.com/20161017/Cocos2D Game Development Essentials.pdf
+http://file.allitebooks.com/20160514/Corona SDK Mobile Game Development.pdf
+http://file.allitebooks.com/20160531/Learning Anime Studio.pdf
+http://file.allitebooks.com/20160419/Unity 5.x Game AI Programming Cookbook.pdf
+http://file.allitebooks.com/20160311/Unity Game Development in 24 Hours, 2nd Edition.pdf
+http://file.allitebooks.com/20160522/Starling Game Development Essentials.pdf
+http://file.allitebooks.com/20160306/Unity Multiplayer Games.pdf
+http://file.allitebooks.com/20160316/Make a 2D Arcade Game in a Weekend- With Unity.pdf
+http://file.allitebooks.com/20160419/Learning Three.js The JavaScript 3D Library for WebGL, Second Edition.pdf
+http://file.allitebooks.com/20160519/Zune Game Development using XNA 3.0.pdf
+http://file.allitebooks.com/20160514/Gideros Mobile Game Development.pdf
+http://file.allitebooks.com/20160302/Slick2D Game Development.pdf
+http://file.allitebooks.com/20160103/Mastering iOS Game Development.pdf
+http://file.allitebooks.com/20160213/Corona SDK Application Design.pdf
+http://file.allitebooks.com/20160103/Cocos2d-x Cookbook.pdf
+http://file.allitebooks.com/20160130/Beginning Java Game Development with LibGDX.pdf
+http://file.allitebooks.com/20160104/Mastering LibGDX Game Development.pdf
+http://file.allitebooks.com/20160103/Unreal Engine Game Development Blueprints.pdf
+http://file.allitebooks.com/20160219/Mobile Game Design Essentials.pdf
+http://file.allitebooks.com/20160225/Practical Game Design with Unity and Playmaker.pdf
+http://file.allitebooks.com/20160224/Google SketchUp for Game Design.pdf
+http://file.allitebooks.com/20160103/Building an FPS Game with Unity.pdf
+http://file.allitebooks.com/20160102/Game Data Analysis - Tools and Methods.pdf
+http://file.allitebooks.com/20151227/Build Gamified Websites with PHP and jQuery.pdf
+http://file.allitebooks.com/20151215/Building a Game with Unity and Blender.pdf
+http://file.allitebooks.com/20151230/GameMaker Programming By Example.pdf
+http://file.allitebooks.com/20151230/GameMaker Cookbook.pdf
+http://file.allitebooks.com/20151229/Core HTML5 Canvas.pdf
+http://file.allitebooks.com/20160102/Learn to Program with Minecraft.pdf
+http://file.allitebooks.com/20151222/Android Studio Game Development.pdf
+http://file.allitebooks.com/20151220/Game Development Essentials, 3rd Edition.pdf
+http://file.allitebooks.com/20151206/OpenGL Game Development.pdf
+http://file.allitebooks.com/20151214/Game Design Workshop, 3rd Edition.pdf
+http://file.allitebooks.com/20151201/Beginning Python Games Development, Second Edition.pdf
+http://file.allitebooks.com/20151203/Scratch Cookbook.pdf
+http://file.allitebooks.com/20151211/Sudoku Programming With C.pdf
+http://file.allitebooks.com/20151210/Game Engine Architecture.pdf
+http://file.allitebooks.com/20151214/Scratch For Kids For Dummies.pdf
+http://file.allitebooks.com/20151207/The Business of Android Apps Development, 2nd Edition.pdf
+http://file.allitebooks.com/20151205/Beginning iOS Social Games.pdf
+http://file.allitebooks.com/20151202/Mathematical Structures for Computer Graphics.pdf
+http://file.allitebooks.com/20151111/2D Graphics Programming for Games.pdf
+http://file.allitebooks.com/20151115/Game Analytics.pdf
+http://file.allitebooks.com/20151116/Ios 9 Game Development Essentials.pdf
+http://file.allitebooks.com/20151111/Game Design Essentials.pdf
+http://file.allitebooks.com/20151111/Learning Windows 8 Game Development.pdf
+http://file.allitebooks.com/20151115/IOS Programming For Beginners.pdf
+http://file.allitebooks.com/20151112/Unity 5 From Zero to Proficiency (Foundations).pdf
+http://file.allitebooks.com/20151125/Embed With Games.pdf
+http://file.allitebooks.com/20151116/Unity 5 Game Optimization.pdf
+http://file.allitebooks.com/20151111/DirectX 11.1 Game Programming.pdf
+http://file.allitebooks.com/20150925/Game Development with Unity, 2nd Edition.pdf
+http://file.allitebooks.com/20151013/An Architectural Approach to Level Design.pdf
+http://file.allitebooks.com/20151103/Interactive Computer Graphics, 6th Edition.pdf
+http://file.allitebooks.com/20151111/Game Coding Complete, Fourth Edition.pdf
+http://file.allitebooks.com/20151028/Unity Character Animation With Mecanim.pdf
+http://file.allitebooks.com/20151105/Build your own 2D Game Engine and Create Great Web Games.pdf
+http://file.allitebooks.com/20150930/iOS Game Development By Example.pdf
+http://file.allitebooks.com/20150930/LibGDX Game Development By Example.pdf
+http://file.allitebooks.com/20151009/Science Fiction Video Games.pdf
+http://file.allitebooks.com/20150915/Sparrow iOS Game Framework, Beginners Guide.pdf
+http://file.allitebooks.com/20150918/Node.js High Performance.pdf
+http://file.allitebooks.com/20150915/Unity 4 Game Development Hotshot.pdf
+http://file.allitebooks.com/20151028/Unreal Engine Physics Essentials.pdf
+http://file.allitebooks.com/20150913/Blueprints Visual Scripting for Unreal Engine.pdf
+http://file.allitebooks.com/20150915/Mobile - Social Game Design- Monetization Methods and Mechanics (2nd Edition).pdf
+http://file.allitebooks.com/20150911/Construct 2 Game Development by Example.pdf
+http://file.allitebooks.com/20150910/Scratch 2.0 Game Development.pdf
+http://file.allitebooks.com/20150912/Learning iPhone Game Development with Cocos2d 3.0.pdf
+http://file.allitebooks.com/20150915/HTML5 Game Engines App Development and Distribution.pdf
+http://file.allitebooks.com/20150910/Learning AndEngine.pdf
+http://file.allitebooks.com/20150829/Lua Game Development Cookbook.pdf
+http://file.allitebooks.com/20150811/Multiplayer Game Development with HTML5.pdf
+http://file.allitebooks.com/20150814/Unity 5 for Android Essentials.pdf
+http://file.allitebooks.com/20150811/Mastering Android Game Development.pdf
+http://file.allitebooks.com/20150814/Learn SpriteBuilder for iOS Game Development.pdf
+http://file.allitebooks.com/20150823/Cocos2d-x Game Development Blueprints.pdf
+http://file.allitebooks.com/20150820/HTML5 Games- Creating Fun with HTML5, CSS3 and WebGL.pdf
+http://file.allitebooks.com/20150821/iOS Game Development Developing Games for iPad, iPhone, and iPod Touch.pdf
+http://file.allitebooks.com/20150825/Secure Development for Mobile Apps.pdf
+http://file.allitebooks.com/20150903/Game Theory An Introduction.pdf
+http://file.allitebooks.com/20150811/Learning iOS 8 Game Development Using Swift.pdf
+http://file.allitebooks.com/20150810/Unity Animation Essentials.pdf
+http://file.allitebooks.com/20150731/XNA 4.0 Game Development by Example.pdf
+http://file.allitebooks.com/20150811/Getting Started with Unity 5.pdf
+http://file.allitebooks.com/20150811/Learning Unreal Engine Android Game Development.pdf
+http://file.allitebooks.com/20150807/SFML Blueprints.pdf
+http://file.allitebooks.com/20150811/Android Game Programming by Example.pdf
+http://file.allitebooks.com/20150811/Building Levels in Unity.pdf
+http://file.allitebooks.com/20150807/HTML5 Game Development by Example Beginners Guide Second Edition.pdf
+http://file.allitebooks.com/20150807/Learning Unity Android Game Development.pdf
+http://file.allitebooks.com/20150729/Multi-Threaded Game Engine Design.pdf
+http://file.allitebooks.com/20150529/Beginning Swift Games Development for iOS.pdf
+http://file.allitebooks.com/20150723/Build an HTML5 Game- A Developer-s Guide with CSS and JavaScript.pdf
+http://file.allitebooks.com/20150706/Developing AR Games for iOS and Android.pdf
+http://file.allitebooks.com/20150729/GPGPU Programming for Games and Science.pdf
+http://file.allitebooks.com/20150721/Game AI Pro- Collected Wisdom of Game AI Professionals.pdf
+http://file.allitebooks.com/20150722/Real-Time Visual Effects for Game Programming.pdf
+http://file.allitebooks.com/20150707/Blender for Animation and Film-Based Production.pdf
+http://file.allitebooks.com/20150529/Building Android Games with Cocos2d-x.pdf
+http://file.allitebooks.com/20150711/Getting Started with C++ Audio Programming for Game Development.pdf
+http://file.allitebooks.com/20150529/iOS Game Programming Cookbook.pdf
+http://file.allitebooks.com/20150529/Invent Your Own Computer Games with Python, 3rd Edition.pdf
+http://file.allitebooks.com/20150529/GameMaker Essentials.pdf
+http://file.allitebooks.com/20150529/Cocos2d-x Beginner-s Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/Designing the User Experience of Game Development Tools.pdf
+http://file.allitebooks.com/20150529/Corona SDK Mobile Game Development Beginners Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/Learning C++ by Creating Games with UE4.pdf
+http://file.allitebooks.com/20150529/Game AI Pro 2 Collected Wisdom of Game AI Professionals.pdf
+http://file.allitebooks.com/20150529/Cocos2d Game Development Blueprints.pdf
+http://file.allitebooks.com/20150529/GameSalad Essentials.pdf
+http://file.allitebooks.com/20150529/Learning Unreal Engine iOS Game Development.pdf
+http://file.allitebooks.com/20150529/Learning Cocos2d-JS Game Development.pdf
+http://file.allitebooks.com/20150529/Learning LibGDX Game Development, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/Learning Java by Building Android Games.pdf
+http://file.allitebooks.com/20150529/Make a 2D RPG in a Weekend.pdf
+http://file.allitebooks.com/20150529/Pro Android Games, 3rd Edition.pdf
+http://file.allitebooks.com/20150529/Mastering Cocos2d Game Development.pdf
+http://file.allitebooks.com/20150529/Minecraft Modding with Forge.pdf
+http://file.allitebooks.com/20150529/Mastering Unity Scripting.pdf
+http://file.allitebooks.com/20150529/Raspberry Pi Gaming, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/Beginning HTML5 Games with CreateJS.pdf
+http://file.allitebooks.com/20150529/Unity 2D Game Development Cookbook.pdf
+http://file.allitebooks.com/20150529/Beginning Java 8 Games Development.pdf
+http://file.allitebooks.com/20150529/Beginning RPG Maker VX Ace.pdf
+http://file.allitebooks.com/20150529/Beginning Android 3D Game Development.pdf
+http://file.allitebooks.com/20150529/SFML Essentials.pdf
+http://file.allitebooks.com/20150529/Build iOS Games with Sprite Kit.pdf
+http://file.allitebooks.com/20150529/A Game Design Vocabulary.pdf
+http://file.allitebooks.com/20150529/Unity 3D UI Essentials.pdf
+http://file.allitebooks.com/20150529/Stencyl Essentials.pdf
+http://file.allitebooks.com/20150529/Game Development Tool Essentials.pdf
+http://file.allitebooks.com/20150529/Building JavaScript Games.pdf
+http://file.allitebooks.com/20150529/GameMaker Game Programming with GML.pdf
+http://file.allitebooks.com/20150529/C++ Game Development Primer.pdf
+http://file.allitebooks.com/20150529/Getting Started with Clickteam Fusion.pdf
+http://file.allitebooks.com/20150529/Cocos2d-x Game Development Essentials.pdf
+http://file.allitebooks.com/20150529/Getting Started with OUYA.pdf
+http://file.allitebooks.com/20150529/Creating E-Learning Games with Unity.pdf
+http://file.allitebooks.com/20150529/GameMaker Studio For Dummies.pdf
+http://file.allitebooks.com/20150529/Learning Objective-C by Developing iPhone Games.pdf
+http://file.allitebooks.com/20150529/Learning Game AI Programming with Lua.pdf
+http://file.allitebooks.com/20150529/Learn Unity3D Programming with UnityScript.pdf
+http://file.allitebooks.com/20150529/iOS 7 Game Development.pdf
+http://file.allitebooks.com/20150529/iOS Game Development Cookbook.pdf
+http://file.allitebooks.com/20150529/Learning Construct 2.pdf
+http://file.allitebooks.com/20150529/Learn Sprite Kit for iOS Game Development.pdf
+http://file.allitebooks.com/20150529/HTML5 Game Development Insights.pdf
+http://file.allitebooks.com/20150529/Learning NGUI for Unity.pdf
+http://file.allitebooks.com/20150529/Learn C++ for Game Development.pdf
+http://file.allitebooks.com/20150529/Learning Unity 2D Game Development by Example.pdf
+http://file.allitebooks.com/20150529/LibGDX Game Development Essentials.pdf
+http://file.allitebooks.com/20150529/Mathematical Game Theory and Applications.pdf
+http://file.allitebooks.com/20150529/Physics for JavaScript Games, Animation, and Simulations.pdf
+http://file.allitebooks.com/20150529/Scratch 2.0 Beginner-s Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/OUYA Game Development by Example.pdf
+http://file.allitebooks.com/20150529/Unity 2D Game Development.pdf
+http://file.allitebooks.com/20150529/Minecraft Construction For Dummies, Portable Edition.pdf
+http://file.allitebooks.com/20150529/Libgdx Cross-platform Game Development Cookbook.pdf
+http://file.allitebooks.com/20150529/Gamestar Mechanic For Dummies.pdf
+http://file.allitebooks.com/20150529/Pro Unity Game Development with C-.pdf
+http://file.allitebooks.com/20150529/Unity AI Programming Essentials.pdf
+http://file.allitebooks.com/20150529/3D Game Programming for Kids.pdf
+http://file.allitebooks.com/20150529/Unity Game Development Scripting.pdf
+http://file.allitebooks.com/20150529/Unity 4 Game Development.pdf
+http://file.allitebooks.com/20150529/Unity Game Development Blueprints.pdf
+http://file.allitebooks.com/20150529/Unity for Absolute Beginners.pdf
+http://file.allitebooks.com/20150529/AndEngine for Android Game Development Cookbook.pdf
+http://file.allitebooks.com/20150529/WebGL Game Development.pdf
+http://file.allitebooks.com/20150529/98-374 Gaming Development Fundamentals.pdf
+http://file.allitebooks.com/20150529/Android Game Programming For Dummies.pdf
+http://file.allitebooks.com/20150529/Android Game Recipes.pdf
+http://file.allitebooks.com/20150529/Create Mobile Games with Corona.pdf
+http://file.allitebooks.com/20150529/Developing Mobile Games with Moai SDK.pdf
+http://file.allitebooks.com/20150529/Building Minecraft Server Modifications.pdf
+http://file.allitebooks.com/20150529/Game Development with SlimDX.pdf
+http://file.allitebooks.com/20150529/Designing Games.pdf
+http://file.allitebooks.com/20150529/Building your First Mobile Game using XNA 4.0.pdf
+http://file.allitebooks.com/20150529/Game Analytics.pdf
+http://file.allitebooks.com/20150529/Beginning Android C++ Game Development.pdf
+http://file.allitebooks.com/20150529/Beginning 3D Game Development with Unity 4, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/Grome Terrain Modeling with Ogre3D, UDK, and Unity3D.pdf
+http://file.allitebooks.com/20150529/HTML5 Game Development with GameMaker.pdf
+http://file.allitebooks.com/20150529/jQuery Game Development Essentials.pdf
+http://file.allitebooks.com/20150529/Game Development with Three.js.pdf
+http://file.allitebooks.com/20150529/Instant HTML5 2D Platformer.pdf
+http://file.allitebooks.com/20150529/iPhone Game Blueprints.pdf
+http://file.allitebooks.com/20150529/HTML5 Game Development with ImpactJS.pdf
+http://file.allitebooks.com/20150529/HTML5 Game Programming with enchant.js.pdf
+http://file.allitebooks.com/20150529/jMonkeyEngine 3.0 Beginner-s Guide.pdf
+http://file.allitebooks.com/20150529/HTML5 Game Development For Dummies.pdf
+http://file.allitebooks.com/20150529/Learning Stencyl 3.x Game Development.pdf
+http://file.allitebooks.com/20150529/Learn Corona SDK Game Development.pdf
+http://file.allitebooks.com/20150529/Mastering UDK Game Development.pdf
+http://file.allitebooks.com/20150529/Learning Physics Modeling with PhysX.pdf
+http://file.allitebooks.com/20150529/Learn Unity for 2D Game Development.pdf
+http://file.allitebooks.com/20150529/Learn Unity 4 for iOS Game Development.pdf
+http://file.allitebooks.com/20150529/LOVE for Lua Game Programming.pdf
+http://file.allitebooks.com/20150529/Kinect in Motion - Audio and Visual Tracking by Example.pdf
+http://file.allitebooks.com/20150529/Learn 2D Game Development with C-.pdf
+http://file.allitebooks.com/20150529/Learning C- by Developing Games with Unity 3D.pdf
+http://file.allitebooks.com/20150529/Physics for Game Developers, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/Releasing HTML5 Games for Windows 8.pdf
+http://file.allitebooks.com/20150529/Unity Shaders and Effects Cookbook.pdf
+http://file.allitebooks.com/20150529/SFML Game Development.pdf
+http://file.allitebooks.com/20150529/SDL Game Development.pdf
+http://file.allitebooks.com/20150529/PlayStation Mobile Development Cookbook.pdf
+http://file.allitebooks.com/20150529/Unity 4.x Game AI Programming.pdf
+http://file.allitebooks.com/20150529/Torque 3D Game Development Cookbook.pdf
+http://file.allitebooks.com/20150529/Unity 4.x Cookbook.pdf
+http://file.allitebooks.com/20150529/Theory of Fun for Game Design, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/Android Arcade Game App.pdf
+http://file.allitebooks.com/20150529/CryENGINE 3 Game Development.pdf
+http://file.allitebooks.com/20150529/Beginning iOS 3D Unreal Games Development.pdf
+http://file.allitebooks.com/20150529/UnrealScript Game Programming Cookbook.pdf
+http://file.allitebooks.com/20150529/Creating Games with cocos2d for iPhone 2.pdf
+http://file.allitebooks.com/20150529/Windows 8 and Windows Phone 8 Game Development.pdf
+http://file.allitebooks.com/20150529/Enterprise Games.pdf
+http://file.allitebooks.com/20150529/Beginning iOS 6 Games Development.pdf
+http://file.allitebooks.com/20150529/Beginning Facebook Game Apps Development.pdf
+http://file.allitebooks.com/20150529/Introducing HTML5 Game Development.pdf
+http://file.allitebooks.com/20150529/Microsoft XNA 4.0 Game Development Cookbook.pdf
+http://file.allitebooks.com/20150529/Learn GameSalad for iOS.pdf
+http://file.allitebooks.com/20150529/Learning Android Game Programming.pdf
+http://file.allitebooks.com/20150529/HTML5 Games Most Wanted.pdf
+http://file.allitebooks.com/20150529/Learn cocos2d 2.pdf
+http://file.allitebooks.com/20150529/Learn Lua for iOS Game Development.pdf
+http://file.allitebooks.com/20150529/Kinect for Windows SDK Programming Guide.pdf
+http://file.allitebooks.com/20150529/Game Invaders.pdf
+http://file.allitebooks.com/20150529/Beginning Android Games, 2nd Edition.pdf
+http://file.allitebooks.com/20150529/Kinect Hacks.pdf
+http://file.allitebooks.com/20150529/Pro HTML5 Games.pdf
+http://file.allitebooks.com/20150529/Adobe Flash 11 Stage3D Game Programming.pdf
+http://file.allitebooks.com/20150529/Professional HTML5 Mobile Game Development.pdf
+http://file.allitebooks.com/20150529/Pro Android Web Game Apps.pdf
+http://file.allitebooks.com/20150529/Start Here! Learn the Kinect API.pdf
+http://file.allitebooks.com/20150529/Programming with the Kinect for Windows Software Development Kit.pdf
+http://file.allitebooks.com/20150529/Unity 3.x Scripting.pdf
+http://file.allitebooks.com/20150529/Super Scratch Programming Adventure!.pdf
+http://file.allitebooks.com/20150529/Unreal Development Kit Game Design Cookbook.pdf
+http://file.allitebooks.com/20150529/Unity iOS Game Development.pdf
+http://file.allitebooks.com/20150529/HTML5 Games Development by Example.pdf
+http://file.allitebooks.com/20150529/Making Isometric Social Real-Time Games with HTML5, CSS3, and JavaScript.pdf
+http://file.allitebooks.com/20150529/Learning Cocos2D.pdf
+http://file.allitebooks.com/20150529/Learning HTML5 Game Programming.pdf
+http://file.allitebooks.com/20150529/Gamification by Design.pdf
+http://file.allitebooks.com/20150529/Beginning iOS Game Development.pdf
+http://file.allitebooks.com/20150529/Beginning Android Tablet Games Programming.pdf
+http://file.allitebooks.com/20150529/Beginning Android Games.pdf
+http://file.allitebooks.com/20150529/Beginning iOS 5 Games Development.pdf
+http://file.allitebooks.com/20150529/Flash Game Development by Example.pdf
+http://file.allitebooks.com/20150529/iPhone - iPad Game Development For Dummies.pdf
+http://file.allitebooks.com/20150529/Panda3D 1.6 Game Engine.pdf
+http://file.allitebooks.com/20150529/The Game Maker-s Companion.pdf
+http://file.allitebooks.com/20150529/Microsoft XNA Game Studio 4.0 Learn Programming Now!.pdf
+http://file.allitebooks.com/20150529/Windows Mobile Game Development.pdf
+http://file.allitebooks.com/20150529/Flash Multiplayer Virtual Worlds.pdf
+http://file.allitebooks.com/20150529/XNA 3D Primer.pdf
+http://file.allitebooks.com/20150529/Learning XNA 4.0.pdf
+http://file.allitebooks.com/20150529/Sams Teach Yourself Windows Phone 7 Game Programming in 24 Hours.pdf
+http://file.allitebooks.com/20150529/Windows Phone 7 Game Development.pdf
+http://file.allitebooks.com/20150529/XNA Game Studio 4.0 Programming.pdf
+http://file.allitebooks.com/20150529/Physics for Game Programmers.pdf
+http://file.allitebooks.com/20150529/Beginning Game Development with Python and Pygame.pdf
+http://file.allitebooks.com/20150529/Beginning .NET Game Programming in VB .NET.pdf
+http://file.allitebooks.com/20150529/iPhone Games Projects.pdf
+http://file.allitebooks.com/20150529/Killer Game Programming in Java.pdf
+http://file.allitebooks.com/20150529/3D Game Development with Microsoft Silverlight 3.pdf
+http://file.allitebooks.com/20150425/The Game Believes in You How Digital Play Can Make Our Kids Smarter.pdf
+http://file.allitebooks.com/20150529/Microsoft XNA Unleashed.pdf

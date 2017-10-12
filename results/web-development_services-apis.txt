@@ -1,0 +1,65 @@
+http://file.allitebooks.com/20150627/Getting Started with OAuth 2.0.pdf
+http://file.allitebooks.com/20150627/Web Services Testing with soapUI.pdf
+http://file.allitebooks.com/20150627/Building Hypermedia APIs with HTML5 and Node.pdf
+http://file.allitebooks.com/20150627/OAuth 2.0 Identity and Access Management Patterns.pdf
+http://file.allitebooks.com/20150627/Web Services Essentials.pdf
+http://file.allitebooks.com/20150627/Spring Web Services 2 Cookbook.pdf
+http://file.allitebooks.com/20150627/Open Source Identity Management Patterns and Practices Using OpenAM 10.x.pdf
+http://file.allitebooks.com/20150627/Apache Axis2 Web Services, 2nd Edition.pdf
+http://file.allitebooks.com/20160818/Monitoring ElasticSearch.pdf
+http://file.allitebooks.com/20150627/Web Mapping Illustrated.pdf
+http://file.allitebooks.com/20160110/Go in Action.pdf
+http://file.allitebooks.com/20150627/Programming Social Applications.pdf
+http://file.allitebooks.com/20150828/REST API Design Rulebook.pdf
+http://file.allitebooks.com/20150627/Twitter API Up and Running.pdf
+http://file.allitebooks.com/20150627/21 Recipes for Mining Twitter.pdf
+http://file.allitebooks.com/20150627/Google Maps API, 2nd Edition.pdf
+http://file.allitebooks.com/20160326/OpenStack in Action.pdf
+http://file.allitebooks.com/20150627/Twilio Cookbook, 2nd Edition.pdf
+http://file.allitebooks.com/20150627/Facebook API Developers Guide.pdf
+http://file.allitebooks.com/20150627/Building Web Applications with ArcGIS.pdf
+http://file.allitebooks.com/20150627/OpenLayers 2.10.pdf
+http://file.allitebooks.com/20150627/Developing with Google+.pdf
+http://file.allitebooks.com/20160104/Spring Boot in Action.pdf
+http://file.allitebooks.com/20150627/PayPal APIs Up and Running.pdf
+http://file.allitebooks.com/20160110/Getting MEAN with Mongo, Express, Angular, and Node.pdf
+http://file.allitebooks.com/20150627/AngularJS Services.pdf
+http://file.allitebooks.com/20150627/Beginning Google Maps API 3.pdf
+http://file.allitebooks.com/20170409/Play Framework Essentials.pdf
+http://file.allitebooks.com/20150627/SoapUI Cookbook.pdf
+http://file.allitebooks.com/20150627/OpenSocial Network Programming.pdf
+http://file.allitebooks.com/20150627/RESTful Web Services with Dropwizard.pdf
+http://file.allitebooks.com/20170423/Web Scalability for Startup Engineers.pdf
+http://file.allitebooks.com/20150627/Advanced Web Services.pdf
+http://file.allitebooks.com/20150627/Programming Web  Services with SOAP.pdf
+http://file.allitebooks.com/20150627/RESTful Web Services Cookbook.pdf
+http://file.allitebooks.com/20150627/The Developer-s Guide to Social Programming.pdf
+http://file.allitebooks.com/20150627/Facebook Application Development for Dummies.pdf
+http://file.allitebooks.com/20150627/Sams Teach Yourself the Twitter API in 24 Hours.pdf
+http://file.allitebooks.com/20150627/RESTful PHP Web Services.pdf
+http://file.allitebooks.com/20151029/Using WebPageTest.pdf
+http://file.allitebooks.com/20150627/Google Maps JavaScript API Cookbook.pdf
+http://file.allitebooks.com/20160906/VMware vRealize Orchestrator Essentials.pdf
+http://file.allitebooks.com/20150627/Facebook Application Development with Graph API Cookbook.pdf
+http://file.allitebooks.com/20170418/Mapbox Cookbook.pdf
+http://file.allitebooks.com/20170425/Java EE and HTML5 Enterprise Application Development.pdf
+http://file.allitebooks.com/20160202/Business Process Execution Language for Web Services, 2nd Edition.pdf
+http://file.allitebooks.com/20150627/Mining the Social Web, 2nd Edition.pdf
+http://file.allitebooks.com/20160426/Amazon S3 Cookbook.pdf
+http://file.allitebooks.com/20161127/SignalR Realtime Application Cookbook.pdf
+http://file.allitebooks.com/20150627/RESTful Web APIs.pdf
+http://file.allitebooks.com/20150627/Twitter Application Development For Dummies.pdf
+http://file.allitebooks.com/20150627/Foundations for Efficient Web Service Selection.pdf
+http://file.allitebooks.com/20150627/Google Apps Script, 2nd Edition.pdf
+http://file.allitebooks.com/20150627/RESTful Web Services.pdf
+http://file.allitebooks.com/20150627/Essential Facebook Development.pdf
+http://file.allitebooks.com/20150627/Facebook Graph API Development with Flash.pdf
+http://file.allitebooks.com/20150627/REST in Practice.pdf
+http://file.allitebooks.com/20160110/Responsive Typography.pdf
+http://file.allitebooks.com/20150627/CORS in Action.pdf
+http://file.allitebooks.com/20160905/Go in Practice.pdf
+http://file.allitebooks.com/20160818/Learning WordPress REST API.pdf
+http://file.allitebooks.com/20150627/RESTful .NET.pdf
+http://file.allitebooks.com/20150627/Google Visualization API Essentials.pdf
+http://file.allitebooks.com/20150627/FBML Essentials.pdf
+http://file.allitebooks.com/20160706/Spark GraphX in Action.pdf

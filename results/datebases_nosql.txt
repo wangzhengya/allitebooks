@@ -1,0 +1,42 @@
+http://file.allitebooks.com/20150523/The Definitive Guide to MongoDB.pdf
+http://file.allitebooks.com/20150523/MongoDB The Definitive Guide, 2nd Edition.pdf
+http://file.allitebooks.com/20150523/Pro Hibernate and MongoDB.pdf
+http://file.allitebooks.com/20150523/Scaling MongoDB.pdf
+http://file.allitebooks.com/20150523/MongoDB and Python.pdf
+http://file.allitebooks.com/20150523/MongoDB in Action.pdf
+http://file.allitebooks.com/20150523/MongoDB The Definitive Guide.pdf
+http://file.allitebooks.com/20150523/Learning Cypher.pdf
+http://file.allitebooks.com/20150523/Pro Couchbase Server.pdf
+http://file.allitebooks.com/20150523/HBase Essentials.pdf
+http://file.allitebooks.com/20150523/MongoDB Applied Design Patterns.pdf
+http://file.allitebooks.com/20150523/Cassandra The Definitive Guide.pdf
+http://file.allitebooks.com/20150523/Getting Started with Couchbase Server.pdf
+http://file.allitebooks.com/20150523/Practical Cassandra.pdf
+http://file.allitebooks.com/20150523/Pentaho Analytics for MongoDB.pdf
+http://file.allitebooks.com/20150523/Spring Data.pdf
+http://file.allitebooks.com/20150523/MongoDB Basics.pdf
+http://file.allitebooks.com/20150523/HBase Design Patterns.pdf
+http://file.allitebooks.com/20150523/50 Tips and Tricks for MongoDB Developers.pdf
+http://file.allitebooks.com/20150523/Beginning Apache Cassandra Development.pdf
+http://file.allitebooks.com/20150523/Getting Started with NoSQL.pdf
+http://file.allitebooks.com/20150523/Professional NoSQL.pdf
+http://file.allitebooks.com/20170424/Oracle NoSQL Database.pdf
+http://file.allitebooks.com/20150523/Cassandra High Availability.pdf
+http://file.allitebooks.com/20150523/Making Sense of NoSQL.pdf
+http://file.allitebooks.com/20150523/MongoDB and PHP.pdf
+http://file.allitebooks.com/20150523/Getting Started with Fluidinfo.pdf
+http://file.allitebooks.com/20150523/eXist.pdf
+http://file.allitebooks.com/20150523/Cassandra Design Patterns.pdf
+http://file.allitebooks.com/20150523/Developing with Couchbase Server.pdf
+http://file.allitebooks.com/20160130/Next Generation Databases NoSQL, NewSQL, and Big Data.pdf
+http://file.allitebooks.com/20150523/Cassandra Data Modeling and Analysis.pdf
+http://file.allitebooks.com/20150523/Neo4j in Action.pdf
+http://file.allitebooks.com/20150523/Redis in Action.pdf
+http://file.allitebooks.com/20150523/HBase in Action.pdf
+http://file.allitebooks.com/20150523/Scaling CouchDB.pdf
+http://file.allitebooks.com/20150523/Getting Started with CouchDB.pdf
+http://file.allitebooks.com/20150523/CouchDB The Definitive Guide.pdf
+http://file.allitebooks.com/20150908/NoSQL For Dummies.pdf
+http://file.allitebooks.com/20150523/Writing and Querying MapReduce Views in CouchDB.pdf
+http://file.allitebooks.com/20150523/Learning Neo4j.pdf
+http://file.allitebooks.com/20160907/NoSQL Web Development with Apache Cassandra.pdf
